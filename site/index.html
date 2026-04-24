@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>TeddyScan Radar</title>
+    <meta
+      name="description"
+      content="Un radar de toutes les séquences où Teddyboy annonce un TeddyScan, avec contexte, prediction et lien timecodé."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero__noise" aria-hidden="true"></div>
+        <div class="hero__topline">
+          <span class="live-pill">LIVE</span>
+          <span class="hero__eyebrow">TEDDYBOY RSA ARCHIVE</span>
+        </div>
+        <div class="hero__copy">
+          <p class="hero__kicker">Base de veille automatique</p>
+          <h1 class="hero__title">
+            Le
+            <span class="hero__highlight">TeddyScan</span>
+            Radar
+          </h1>
+          <p class="hero__lede">
+            Chaque carte ci-dessous tente d’isoler un moment où il annonce un “scan” ou un
+            “TeddyScan”, puis résume le sujet et la prédiction repérée dans le transcript.
+          </p>
+        </div>
+
+        <div class="hero__stats" id="stats">
+          <article class="stat-card">
+            <span class="stat-card__label">Scans retenus</span>
+            <strong class="stat-card__value" data-stat="count">0</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-card__label">Vidéos touchées</span>
+            <strong class="stat-card__value" data-stat="videos">0</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-card__label">Dernière génération</span>
+            <strong class="stat-card__value stat-card__value--small" data-stat="generated">-</strong>
+          </article>
+        </div>
+      </header>
+
+      <main class="layout">
+        <section class="filters">
+          <div class="filters__intro">
+            <p class="section-label">Exploration</p>
+            <h2>Filtrer les TeddyScans</h2>
+          </div>
+
+          <div class="filters__controls">
+            <label class="search-field">
+              <span class="search-field__label">Recherche</span>
+              <input
+                id="search"
+                type="search"
+                placeholder="Exemple : 2027, Hollande, IA, socialisme..."
+              />
+            </label>
+
+            <div class="filter-group">
+              <span class="filter-group__label">Confiance</span>
+              <div class="chip-row" id="confidence-filters">
+                <button class="chip chip--active" data-confidence="all" type="button">Tout</button>
+                <button class="chip" data-confidence="high" type="button">Fort</button>
+                <button class="chip" data-confidence="medium" type="button">Probable</button>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="results">
+          <div class="results__header">
+            <div>
+              <p class="section-label">Résultats</p>
+              <h2>Moments détectés</h2>
+            </div>
+            <p class="results__count" id="results-count">0 cartes</p>
+          </div>
+
+          <div class="card-grid" id="card-grid"></div>
+
+          <template id="scan-card-template">
+            <article class="scan-card">
+              <a class="scan-card__cover" data-role="thumb-link" target="_blank" rel="noreferrer">
+                <img data-role="thumb" alt="" loading="lazy" />
+                <div class="scan-card__overlay">
+                  <span class="live-pill live-pill--small">LIVE</span>
+                  <span class="confidence-badge" data-role="confidence"></span>
+                </div>
+              </a>
+
+              <div class="scan-card__body">
+                <div class="scan-card__meta">
+                  <span data-role="date"></span>
+                  <span data-role="timecode"></span>
+                </div>
+
+                <h3 data-role="title"></h3>
+
+                <p class="scan-card__quote" data-role="quote"></p>
+
+                <dl class="scan-card__details">
+                  <div>
+                    <dt>Contexte</dt>
+                    <dd data-role="topic"></dd>
+                  </div>
+                  <div>
+                    <dt>Prédiction repérée</dt>
+                    <dd data-role="prediction"></dd>
+                  </div>
+                </dl>
+
+                <p class="scan-card__context" data-role="context"></p>
+
+                <div class="scan-card__actions">
+                  <a class="button button--primary" data-role="time-link" target="_blank" rel="noreferrer">
+                    Voir au timecode
+                  </a>
+                  <a class="button button--ghost" data-role="video-link" target="_blank" rel="noreferrer">
+                    Ouvrir la vidéo
+                  </a>
+                </div>
+              </div>
+            </article>
+          </template>
+        </section>
+      </main>
+    </div>
+
+    <script src="./data/teddyscans.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
