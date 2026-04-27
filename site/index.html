@@ -6,7 +6,7 @@
     <title>TeddyScan Radar</title>
     <meta
       name="description"
-      content="Un radar de toutes les séquences où Teddyboy annonce un TeddyScan, avec contexte, prediction et lien timecodé."
+      content="Un radar curate des TeddyScans, avec contexte elargi, type de scan et lien YouTube timecode."
     />
     <link rel="stylesheet" href="./styles.css" />
   </head>
@@ -19,29 +19,30 @@
           <span class="hero__eyebrow">TEDDYBOY RSA ARCHIVE</span>
         </div>
         <div class="hero__copy">
-          <p class="hero__kicker">Base de veille automatique</p>
+          <p class="hero__kicker">Base canonique</p>
           <h1 class="hero__title">
             Le
             <span class="hero__highlight">TeddyScan</span>
             Radar
           </h1>
           <p class="hero__lede">
-            Chaque carte ci-dessous tente d’isoler un moment où il annonce un “scan” ou un
-            “TeddyScan”, puis résume le sujet et la prédiction repérée dans le transcript.
+            Chaque carte ci-dessous correspond a un segment canonique: doublons fusionnes, faux
+            positifs ecartes et contexte elargi autour du moment ou il annonce un scan ou un
+            TeddyScan.
           </p>
         </div>
 
         <div class="hero__stats" id="stats">
           <article class="stat-card">
-            <span class="stat-card__label">Scans retenus</span>
+            <span class="stat-card__label">Scans canoniques</span>
             <strong class="stat-card__value" data-stat="count">0</strong>
           </article>
           <article class="stat-card">
-            <span class="stat-card__label">Vidéos touchées</span>
+            <span class="stat-card__label">Videos touchees</span>
             <strong class="stat-card__value" data-stat="videos">0</strong>
           </article>
           <article class="stat-card">
-            <span class="stat-card__label">Dernière génération</span>
+            <span class="stat-card__label">Derniere generation</span>
             <strong class="stat-card__value stat-card__value--small" data-stat="generated">-</strong>
           </article>
         </div>
@@ -72,14 +73,32 @@
                 <button class="chip" data-confidence="medium" type="button">Probable</button>
               </div>
             </div>
+
+            <div class="filter-group">
+              <span class="filter-group__label">Type</span>
+              <div class="chip-row" id="type-filters">
+                <button class="chip chip--active" data-type="all" type="button">Tout</button>
+                <button class="chip" data-type="prediction" type="button">Prediction</button>
+                <button class="chip" data-type="retrospective" type="button">Rappel</button>
+              </div>
+            </div>
+
+            <div class="filter-group">
+              <span class="filter-group__label">Source</span>
+              <div class="chip-row" id="source-filters">
+                <button class="chip chip--active" data-source="all" type="button">Tout</button>
+                <button class="chip" data-source="public" type="button">Public</button>
+                <button class="chip" data-source="patreon" type="button">Patreon</button>
+              </div>
+            </div>
           </div>
         </section>
 
         <section class="results">
           <div class="results__header">
             <div>
-              <p class="section-label">Résultats</p>
-              <h2>Moments détectés</h2>
+              <p class="section-label">Resultats</p>
+              <h2>Moments canoniques</h2>
             </div>
             <p class="results__count" id="results-count">0 cartes</p>
           </div>
@@ -102,18 +121,28 @@
                   <span data-role="timecode"></span>
                 </div>
 
+                <div class="scan-card__tags">
+                  <span class="scan-tag scan-tag--source" data-role="source"></span>
+                  <span class="scan-tag" data-role="type"></span>
+                  <span class="scan-tag scan-tag--muted" data-role="review"></span>
+                </div>
+
                 <h3 data-role="title"></h3>
 
                 <p class="scan-card__quote" data-role="quote"></p>
 
                 <dl class="scan-card__details">
-                  <div>
+                  <div data-role="topic-block">
                     <dt>Contexte</dt>
                     <dd data-role="topic"></dd>
                   </div>
                   <div>
-                    <dt>Prédiction repérée</dt>
+                    <dt>Prediction reperee</dt>
                     <dd data-role="prediction"></dd>
+                  </div>
+                  <div>
+                    <dt>Fenetre conseillee</dt>
+                    <dd data-role="clip-window"></dd>
                   </div>
                 </dl>
 
@@ -121,10 +150,10 @@
 
                 <div class="scan-card__actions">
                   <a class="button button--primary" data-role="time-link" target="_blank" rel="noreferrer">
-                    Voir au timecode
+                    Voir avec contexte
                   </a>
                   <a class="button button--ghost" data-role="video-link" target="_blank" rel="noreferrer">
-                    Ouvrir la vidéo
+                    Aller au moment exact
                   </a>
                 </div>
               </div>
@@ -134,7 +163,7 @@
       </main>
     </div>
 
-    <script src="./data/teddyscans.js"></script>
+    <script src="./data/teddyscans-curated.js"></script>
     <script src="./app.js"></script>
   </body>
 </html>

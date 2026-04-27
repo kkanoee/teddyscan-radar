@@ -8,7 +8,7 @@ param(
 $ErrorActionPreference = "Continue"
 
 # Dossier de sortie FORCÉ
-$OutDir = Join-Path $env:USERPROFILE "Documents\Transcripts"
+$OutDir = Join-Path $env:USERPROFILE "Documents\Transcripts\Public"
 New-Item -ItemType Directory -Force -Path $OutDir | Out-Null
 
 $archive = Join-Path $OutDir "downloaded_ids_fr_orig.txt"

@@ -6,6 +6,10 @@ const SITE_DATA_DIR = path.join(ROOT, "site", "data");
 const JSON_OUTPUT = path.join(SITE_DATA_DIR, "teddyscans.json");
 const CANDIDATE_OUTPUT = path.join(SITE_DATA_DIR, "teddyscan-candidates.json");
 const JS_OUTPUT = path.join(SITE_DATA_DIR, "teddyscans.js");
+const TRANSCRIPT_SOURCE_CANDIDATES = [
+  { source: "public", dirNames: ["Public", "public"] },
+  { source: "patreon", dirNames: ["Patreon", "patreon"] },
+];
 
 const NEGATIVE_PATTERNS = [
   /scan google/,
@@ -327,7 +331,7 @@ function fallbackTopic(context) {
   return "Contexte à confirmer";
 }
 
-function buildRecord(fileName, entries, index) {
+function buildRecord(fileName, source, relativePath, entries, index) {
   const entry = entries[index];
   const videoId = extractVideoId(fileName);
   if (!videoId) {
@@ -343,8 +347,9 @@ function buildRecord(fileName, entries, index) {
   const topic = isGoodTopic(extractedTopic) ? extractedTopic : fallbackTopic(context);
 
   return {
-    id: `${videoId}-${entry.startSeconds}`,
+    id: `${source}-${videoId}-${entry.startSeconds}`,
     videoId,
+    source,
     title,
     publishedAt,
     quote: entry.text,
@@ -361,12 +366,15 @@ function buildRecord(fileName, entries, index) {
     score: scored.score,
     included: scored.included,
     reasons: scored.reasons,
-    sourceFile: fileName,
+    sourceFile: relativePath,
   };
 }
 
 function sortRecords(records) {
   return [...records].sort((left, right) => {
+    if (left.source !== right.source) {
+      return left.source.localeCompare(right.source);
+    }
     if (left.publishedAt === right.publishedAt) {
       return left.startSeconds - right.startSeconds;
     }
@@ -374,26 +382,76 @@ function sortRecords(records) {
   });
 }
 
+function collectTranscriptFiles() {
+  const discovered = [];
+  const seenFiles = new Set();
+  const seenDirs = new Set();
+
+  for (const descriptor of TRANSCRIPT_SOURCE_CANDIDATES) {
+    let absoluteDir = null;
+    for (const dirName of descriptor.dirNames) {
+      const candidate = path.join(ROOT, dirName);
+      if (fs.existsSync(candidate) && fs.statSync(candidate).isDirectory()) {
+        absoluteDir = candidate;
+        break;
+      }
+    }
+    if (!absoluteDir) {
+      continue;
+    }
+    const realDir = fs.realpathSync(absoluteDir).toLowerCase();
+    if (seenDirs.has(realDir)) {
+      continue;
+    }
+    seenDirs.add(realDir);
+
+    const files = fs
+      .readdirSync(absoluteDir)
+      .filter((file) => file.endsWith(".srt"))
+      .sort((left, right) => left.localeCompare(right));
+
+    for (const fileName of files) {
+      const absolutePath = path.join(absoluteDir, fileName);
+      const realPath = fs.realpathSync(absolutePath).toLowerCase();
+      if (seenFiles.has(realPath)) {
+        continue;
+      }
+      seenFiles.add(realPath);
+      const relativePath = path.relative(ROOT, absolutePath).replace(/\\/g, "/");
+      discovered.push({
+        source: descriptor.source,
+        fileName,
+        absolutePath,
+        relativePath,
+      });
+    }
+  }
+
+  return discovered;
+}
+
 function main() {
   fs.mkdirSync(SITE_DATA_DIR, { recursive: true });
 
-  const files = fs
-    .readdirSync(ROOT)
-    .filter((file) => file.endsWith(".srt"))
-    .sort((left, right) => left.localeCompare(right));
+  const transcriptFiles = collectTranscriptFiles();
 
   const candidates = [];
 
-  for (const file of files) {
-    const filePath = path.join(ROOT, file);
-    const entries = parseSrt(filePath);
+  for (const transcript of transcriptFiles) {
+    const entries = parseSrt(transcript.absolutePath);
 
     entries.forEach((entry, index) => {
       if (!ENTRY_BRAND_PATTERN.test(entry.normalized) && !ENTRY_SCAN_PATTERN.test(entry.normalized)) {
         return;
       }
 
-      const record = buildRecord(file, entries, index);
+      const record = buildRecord(
+        transcript.fileName,
+        transcript.source,
+        transcript.relativePath,
+        entries,
+        index,
+      );
       if (record) {
         candidates.push(record);
       }
@@ -404,10 +462,14 @@ function main() {
   const sortedCandidates = sortRecords(candidates);
   const meta = {
     generatedAt: new Date().toISOString(),
-    scannedVideos: files.length,
+    scannedVideos: transcriptFiles.length,
+    scannedBySource: transcriptFiles.reduce((accumulator, transcript) => {
+      accumulator[transcript.source] = (accumulator[transcript.source] ?? 0) + 1;
+      return accumulator;
+    }, {}),
     candidateCount: sortedCandidates.length,
     includedCount: included.length,
-    videosWithScans: new Set(included.map((record) => record.videoId)).size,
+    videosWithScans: new Set(included.map((record) => `${record.source}:${record.videoId}`)).size,
   };
 
   fs.writeFileSync(JSON_OUTPUT, JSON.stringify({ meta, records: included }, null, 2));
@@ -421,7 +483,9 @@ function main() {
     )};\n`,
   );
 
-  console.log(`Generated ${included.length} TeddyScan entries from ${files.length} transcript files.`);
+  console.log(
+    `Generated ${included.length} TeddyScan entries from ${transcriptFiles.length} transcript files.`,
+  );
 }
 
 main();

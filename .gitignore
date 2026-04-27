@@ -1,4 +1,9 @@
 *.srt
 run_log.txt
+.browser-state/
+node_modules/
+patreon_links.*
+patreon_links/
+.env
 .DS_Store
 Thumbs.db
