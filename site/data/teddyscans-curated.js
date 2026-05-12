@@ -1,25 +1,61 @@
 window.TEDDYSCAN_META = {
-  "generatedAt": "2026-04-27T15:12:11.722Z",
-  "sourceAuditGeneratedAt": "2026-04-27T15:00:54.415Z",
-  "sourceTranscriptScanCount": 146,
-  "canonicalScanCount": 88,
-  "canonicalVideoCount": 60,
+  "generatedAt": "2026-05-12T15:11:09.965Z",
+  "sourceAuditGeneratedAt": "2026-05-12T14:48:35.063Z",
+  "sourceTranscriptScanCount": 175,
+  "canonicalScanCount": 101,
+  "canonicalVideoCount": 70,
   "semanticCounts": {
-    "retrospective": 6,
-    "prediction": 82
+    "prediction": 92,
+    "retrospective": 9
   },
   "reviewCounts": {
-    "validated": 30,
-    "needs-review": 58
+    "needs-review": 67,
+    "validated": 34
   },
   "sourceCounts": {
-    "public": 27,
-    "patreon": 61
+    "public": 28,
+    "patreon": 73
   }
 };
 window.TEDDYSCAN_DATA = [
   {
-    "id": "public-quG4bGhFGm8-cluster-114",
+    "id": "public-UW_5K51IWjM-cluster-143",
+    "videoId": "UW_5K51IWjM",
+    "source": "public",
+    "title": "🔴 LA PROPAGANDE commence pour 2027",
+    "publishedAt": "20260505",
+    "quote": "Teddy Scan,",
+    "topic": "Il se fout de notre gueule Teddy avec ces histoires de potes arabes qui...",
+    "prediction": "Il se fout de notre gueule Teddy avec ces histoires de potes arabes qui vont demander de la sécurité.",
+    "context": "hôpital aussi, les les associations sportives dans les quartiers qui font un travail extraordinaire et qui ont été plantés par la fin des contrat aidés d'Emmanuel Macron. Ah bon? Dommage l'insécurité qui a subie par les habitants. Oh Teddy Scan, mais Teddy, tu es complètement con. Il se fout de notre gueule Teddy avec ces histoires de potes arabes qui vont demander de la sécurité. Mais Tedy, c'est pas possible des gauchistes qui demandent la sécurité. Oh, un arabe de banlieu de gauche qui dit qui explique c'est le seul qui parle d'insécurité. Mais c'est complètement fou. Enfin, et aussi les violences contre aidé d'Emmanuel Macron. Euh l'insécurité qui a...",
+    "timestamp": "00:53:29,040",
+    "timestampLabel": "53:29",
+    "startSeconds": 3209,
+    "clipStartSeconds": 3191,
+    "clipStartLabel": "53:11",
+    "clipEndSeconds": 3264,
+    "clipEndLabel": "54:24",
+    "youtubeUrl": "https://www.youtube.com/watch?v=UW_5K51IWjM&t=3209s",
+    "contextYoutubeUrl": "https://www.youtube.com/watch?v=UW_5K51IWjM&t=3191s",
+    "videoUrl": "https://www.youtube.com/watch?v=UW_5K51IWjM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UW_5K51IWjM/hqdefault.jpg",
+    "confidence": "medium",
+    "reviewState": "needs-review",
+    "scanType": "prediction",
+    "clusterSize": 1,
+    "sourceRecordIds": [
+      "public-UW_5K51IWjM-3209"
+    ],
+    "auditFlags": [
+      "quote_too_short"
+    ],
+    "sourceFile": "Public/20260505 - 🔴 LA PROPAGANDE commence pour 2027 [UW_5K51IWjM].fr-orig.srt",
+    "obsidianScanNote": "Public UW_5K51IWjM 53-29 - Il se fout de notre gueule Teddy avec ces histoires...",
+    "obsidianVideoNote": "Public - UW_5K51IWjM - 🔴 LA PROPAGANDE commence pour 2027",
+    "obsidianTranscriptNote": "Public - UW_5K51IWjM - 🔴 LA PROPAGANDE commence pour 2027"
+  },
+  {
+    "id": "public-quG4bGhFGm8-cluster-135",
     "videoId": "quG4bGhFGm8",
     "source": "public",
     "title": "🔴 2027 ： Les CANDIDATS sont-ils prêts ？",
@@ -55,7 +91,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - quG4bGhFGm8 - 🔴 2027 ： Les CANDIDATS sont-ils prêts ？"
   },
   {
-    "id": "public-quG4bGhFGm8-cluster-115",
+    "id": "public-quG4bGhFGm8-cluster-136",
     "videoId": "quG4bGhFGm8",
     "source": "public",
     "title": "🔴 2027 ： Les CANDIDATS sont-ils prêts ？",
@@ -89,7 +125,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - quG4bGhFGm8 - 🔴 2027 ： Les CANDIDATS sont-ils prêts ？"
   },
   {
-    "id": "public-quG4bGhFGm8-cluster-116",
+    "id": "public-quG4bGhFGm8-cluster-137",
     "videoId": "quG4bGhFGm8",
     "source": "public",
     "title": "🔴 2027 ： Les CANDIDATS sont-ils prêts ？",
@@ -123,7 +159,43 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - quG4bGhFGm8 - 🔴 2027 ： Les CANDIDATS sont-ils prêts ？"
   },
   {
-    "id": "public-Q7ZhkYuG0u0-cluster-111",
+    "id": "patreon-Q7ZhkYuG0u0-cluster-76",
+    "videoId": "Q7ZhkYuG0u0",
+    "source": "patreon",
+    "title": "🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027",
+    "publishedAt": "20260417",
+    "quote": "Deuxième scan. Alors là, celui-là, j'en",
+    "topic": "Il dit \"C'est quoi ta notion politique?\" Et je dis \"lain du capitalisme par...",
+    "prediction": "OK bon bah ça déjà ça va être le premier truc.",
+    "context": "finalement.\" Bon après on me dire ouais mais quand même Hollande c'est pas possible. Tu dit pourquoi? Ben déjà il veut pas. Non il a pas dit qu'il voulait mais pourquoi pas? Je veux dire je me prépare. OK bon bah ça déjà ça va être le premier truc. Deuxième scan. Alors là, celui-là, j'en ai parlé chez Jungo il y a 2 jours. Il dit \"C'est quoi ta notion politique?\" Et je dis \"lain du capitalisme par sa propre mort euh par le les IA et la robotique, la création de richesse infinie. Et euh donc celui-là, ça fait bien un an et demi que je le défends, hein....",
+    "timestamp": "00:03:14,239",
+    "timestampLabel": "03:14",
+    "startSeconds": 194,
+    "clipStartSeconds": 176,
+    "clipStartLabel": "02:56",
+    "clipEndSeconds": 249,
+    "clipEndLabel": "04:09",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Q7ZhkYuG0u0&t=194s",
+    "contextYoutubeUrl": "https://www.youtube.com/watch?v=Q7ZhkYuG0u0&t=176s",
+    "videoUrl": "https://www.youtube.com/watch?v=Q7ZhkYuG0u0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Q7ZhkYuG0u0/hqdefault.jpg",
+    "confidence": "high",
+    "reviewState": "validated",
+    "scanType": "retrospective",
+    "clusterSize": 1,
+    "sourceRecordIds": [
+      "patreon-Q7ZhkYuG0u0-194"
+    ],
+    "auditFlags": [
+      "retrospective_scan"
+    ],
+    "sourceFile": "Patreon/20260417 - 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027 [Q7ZhkYuG0u0].fr-orig.srt",
+    "obsidianScanNote": "Patreon Q7ZhkYuG0u0 03-14 - Il dit C'est quoi ta notion politique Et je dis...",
+    "obsidianVideoNote": "Patreon - Q7ZhkYuG0u0 - 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027",
+    "obsidianTranscriptNote": "Patreon - Q7ZhkYuG0u0 - 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027"
+  },
+  {
+    "id": "public-Q7ZhkYuG0u0-cluster-132",
     "videoId": "Q7ZhkYuG0u0",
     "source": "public",
     "title": "🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027",
@@ -159,7 +231,43 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - Q7ZhkYuG0u0 - 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027"
   },
   {
-    "id": "public-Q7ZhkYuG0u0-cluster-112",
+    "id": "patreon-Q7ZhkYuG0u0-cluster-77",
+    "videoId": "Q7ZhkYuG0u0",
+    "source": "patreon",
+    "title": "🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027",
+    "publishedAt": "20260417",
+    "quote": "confiance à mon tiscan, il va revenir.",
+    "topic": "Et il y a un gars il me fait j'avais prévu ça 10 ans...",
+    "prediction": "Alors je sais pas si elle est vraie mais il a dit Hollande 2027 le Ah il y a pas de preuve.",
+    "context": "chance qu'il passe, il va passer. Oh, je l'avais dit moi. Je l'avais déjà dit moi. Oui. Euh sur Twitter, il y a un mec, il m'a Attendez, il m'a envoyé et c'est vrai, c'est vrai de vrai. A priori si c'est pas fait par là parce que moi je dis bon là quand même vous pouvez faire confiance à mon tiscan, il va revenir. Et il y a un gars il me fait j'avais prévu ça 10 ans avant. Alors au début, je dis \"Ouais e eh j'avais moi j'en étais sûr quoi. Tant tant que je le dis c'est non c'est pas vrai. Tu dit et puis après...",
+    "timestamp": "00:29:57,720",
+    "timestampLabel": "29:57",
+    "startSeconds": 1797,
+    "clipStartSeconds": 1779,
+    "clipStartLabel": "29:39",
+    "clipEndSeconds": 1852,
+    "clipEndLabel": "30:52",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Q7ZhkYuG0u0&t=1797s",
+    "contextYoutubeUrl": "https://www.youtube.com/watch?v=Q7ZhkYuG0u0&t=1779s",
+    "videoUrl": "https://www.youtube.com/watch?v=Q7ZhkYuG0u0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Q7ZhkYuG0u0/hqdefault.jpg",
+    "confidence": "medium",
+    "reviewState": "needs-review",
+    "scanType": "prediction",
+    "clusterSize": 1,
+    "sourceRecordIds": [
+      "patreon-Q7ZhkYuG0u0-1797"
+    ],
+    "auditFlags": [
+      "weak_prediction"
+    ],
+    "sourceFile": "Patreon/20260417 - 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027 [Q7ZhkYuG0u0].fr-orig.srt",
+    "obsidianScanNote": "Patreon Q7ZhkYuG0u0 29-57 - Et il y a un gars il me fait j'avais...",
+    "obsidianVideoNote": "Patreon - Q7ZhkYuG0u0 - 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027",
+    "obsidianTranscriptNote": "Patreon - Q7ZhkYuG0u0 - 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027"
+  },
+  {
+    "id": "public-Q7ZhkYuG0u0-cluster-133",
     "videoId": "Q7ZhkYuG0u0",
     "source": "public",
     "title": "🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027",
@@ -195,7 +303,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - Q7ZhkYuG0u0 - 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027"
   },
   {
-    "id": "patreon-pQSQZXTJ_D8-cluster-48",
+    "id": "patreon-pQSQZXTJ_D8-cluster-65",
     "videoId": "pQSQZXTJ_D8",
     "source": "patreon",
     "title": "🔴 4500 NET ： Le revenu universel pour les Français",
@@ -229,7 +337,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - pQSQZXTJ_D8 - 🔴 4500 NET ： Le revenu universel pour les Français"
   },
   {
-    "id": "public-TPTbWXOiuac-cluster-118",
+    "id": "public-TPTbWXOiuac-cluster-139",
     "videoId": "TPTbWXOiuac",
     "source": "public",
     "title": "🔴 L'avenir des dessinateurs après l'intelligence artificielle",
@@ -265,7 +373,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - TPTbWXOiuac - 🔴 L'avenir des dessinateurs après l'intelligence artificielle"
   },
   {
-    "id": "patreon-8K2Qpd4oTpo-cluster-15",
+    "id": "patreon-8K2Qpd4oTpo-cluster-21",
     "videoId": "8K2Qpd4oTpo",
     "source": "patreon",
     "title": "🔴 MALCOLM in the GOURBI ： C'était vraiment naze... Je vous explique",
@@ -301,7 +409,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - 8K2Qpd4oTpo - 🔴 MALCOLM in the GOURBI ： C'était vraiment naze... Je vous explique"
   },
   {
-    "id": "patreon-qq18fE-7dNc-cluster-60",
+    "id": "patreon-qq18fE-7dNc-cluster-81",
     "videoId": "qq18fE-7dNc",
     "source": "patreon",
     "title": "🔴 LA CHUTE PROCHAINE DE LA GRANDE DISTRIBUTION FRANÇAISE",
@@ -337,7 +445,43 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - qq18fE-7dNc - 🔴 LA CHUTE PROCHAINE DE LA GRANDE DISTRIBUTION FRANÇAISE"
   },
   {
-    "id": "public-KUWLS7XGBVk-cluster-107",
+    "id": "patreon-KUWLS7XGBVk-cluster-53",
+    "videoId": "KUWLS7XGBVk",
+    "source": "patreon",
+    "title": "🔴 Pierre-Yves Rougeyron analyse l'enlisement de Trump en Iran",
+    "publishedAt": "20260406",
+    "quote": "scan qui est visiblement correct. Et",
+    "topic": "Si Trump arrive à s'en sortir bah du coup ils diront \"On avait raison quand même mais ils trouveront un autre truc.",
+    "prediction": "Trump est foutu, il va s'en liser.",
+    "context": "l'attaque en Iran, il a fait \"Bon ben, je suis déçu de Trump et de toute façon en fait tuer la tête c'est renforcer le combat puisque les islamistes vont le prendre comme martyre.\" Donc c'est une très mauvaise stratégie et il a annoncé direct dès l'attaque de Trump. Trump est foutu, il va s'en liser. Ça a été son scan qui est visiblement correct. Et donc maintenant c'est la théorie des souverainistes français de dire en lisement enlisement en lisement. Si Trump arrive à s'en sortir bah du coup ils diront \"On avait raison quand même mais ils trouveront un autre truc. Moi je pense qu'il y a en...",
+    "timestamp": "00:33:36,799",
+    "timestampLabel": "33:36",
+    "startSeconds": 2016,
+    "clipStartSeconds": 1998,
+    "clipStartLabel": "33:18",
+    "clipEndSeconds": 2071,
+    "clipEndLabel": "34:31",
+    "youtubeUrl": "https://www.youtube.com/watch?v=KUWLS7XGBVk&t=2016s",
+    "contextYoutubeUrl": "https://www.youtube.com/watch?v=KUWLS7XGBVk&t=1998s",
+    "videoUrl": "https://www.youtube.com/watch?v=KUWLS7XGBVk",
+    "thumbnailUrl": "https://i.ytimg.com/vi/KUWLS7XGBVk/hqdefault.jpg",
+    "confidence": "high",
+    "reviewState": "validated",
+    "scanType": "retrospective",
+    "clusterSize": 1,
+    "sourceRecordIds": [
+      "patreon-KUWLS7XGBVk-2016"
+    ],
+    "auditFlags": [
+      "retrospective_scan"
+    ],
+    "sourceFile": "Patreon/20260406 - 🔴 Pierre-Yves Rougeyron analyse l'enlisement de Trump en Iran [KUWLS7XGBVk].fr-orig.srt",
+    "obsidianScanNote": "Patreon KUWLS7XGBVk 33-36 - Si Trump arrive à s'en sortir bah du coup ils...",
+    "obsidianVideoNote": "Patreon - KUWLS7XGBVk - 🔴 Pierre-Yves Rougeyron analyse l'enlisement de Trump en Iran",
+    "obsidianTranscriptNote": "Patreon - KUWLS7XGBVk - 🔴 Pierre-Yves Rougeyron analyse l'enlisement de Trump en Iran"
+  },
+  {
+    "id": "public-KUWLS7XGBVk-cluster-128",
     "videoId": "KUWLS7XGBVk",
     "source": "public",
     "title": "🔴 Pierre-Yves Rougeyron analyse l'enlisement de Trump en Iran",
@@ -373,7 +517,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - KUWLS7XGBVk - 🔴 Pierre-Yves Rougeyron analyse l'enlisement de Trump en Iran"
   },
   {
-    "id": "patreon-Xp3Cp_tBs5A-cluster-74",
+    "id": "patreon-Xp3Cp_tBs5A-cluster-95",
     "videoId": "Xp3Cp_tBs5A",
     "source": "patreon",
     "title": "🔴 Cette ÉTUDIANTE en SOCIO gauchiste va vous surprendre !",
@@ -407,7 +551,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - Xp3Cp_tBs5A - 🔴 Cette ÉTUDIANTE en SOCIO gauchiste va vous surprendre !"
   },
   {
-    "id": "patreon-RneHZhQZ-yc-cluster-62",
+    "id": "patreon-RneHZhQZ-yc-cluster-83",
     "videoId": "RneHZhQZ-yc",
     "source": "patreon",
     "title": "🔴  Aujourd'hui on va au ZOO du Gourbistant !",
@@ -445,7 +589,44 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - RneHZhQZ-yc - 🔴 Aujourd'hui on va au ZOO du Gourbistant !"
   },
   {
-    "id": "public-imExgeOedcM-cluster-104",
+    "id": "patreon-imExgeOedcM-cluster-46",
+    "videoId": "imExgeOedcM",
+    "source": "patreon",
+    "title": "🔴 RÉSULTATS des MUNICIPALES 2026 ： Les Français sont de gauche",
+    "publishedAt": "20260316",
+    "quote": "Tiscan bairou mer de peau. Bah oui mais",
+    "topic": "J'ai vu chez les newser il y a Psyodé qui lui ont demandé mais tu as fait un sondage parmi ton audience et il...",
+    "prediction": "Alors ça n'est que le premier tour encore une fois, mais la gauche est en tête avec juste en dessous juste en dessous le RN et l'Union des...",
+    "context": "J'ai vu chez les newser il y a Psyodé qui lui ont demandé mais tu as fait un sondage parmi ton audience et il y a 50 % de son audience qui vote pas. Grand il a rigolé a raison. Il dit moi c'est ce que je vous dis à chaque fois ouais psélique tu as raison il y en a marre faut changer les choses puis après il se lève pas. Tiscan bairou mer de peau. Bah oui mais c'était pas déjà le cas. La gauche en tête. OK. Alors ça n'est que le premier tour encore une fois, mais la gauche est en tête avec juste en dessous...",
+    "timestamp": "00:10:55,079",
+    "timestampLabel": "10:55",
+    "startSeconds": 655,
+    "clipStartSeconds": 637,
+    "clipStartLabel": "10:37",
+    "clipEndSeconds": 710,
+    "clipEndLabel": "11:50",
+    "youtubeUrl": "https://www.youtube.com/watch?v=imExgeOedcM&t=655s",
+    "contextYoutubeUrl": "https://www.youtube.com/watch?v=imExgeOedcM&t=637s",
+    "videoUrl": "https://www.youtube.com/watch?v=imExgeOedcM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/imExgeOedcM/hqdefault.jpg",
+    "confidence": "medium",
+    "reviewState": "needs-review",
+    "scanType": "prediction",
+    "clusterSize": 1,
+    "sourceRecordIds": [
+      "patreon-imExgeOedcM-655"
+    ],
+    "auditFlags": [
+      "weak_prediction",
+      "no_future_hint_in_expanded_context"
+    ],
+    "sourceFile": "Patreon/20260316 - 🔴 RÉSULTATS des MUNICIPALES 2026 ： Les Français sont de gauche [imExgeOedcM].fr-orig.srt",
+    "obsidianScanNote": "Patreon imExgeOedcM 10-55 - J'ai vu chez les newser il y a Psyodé qui...",
+    "obsidianVideoNote": "Patreon - imExgeOedcM - 🔴 RÉSULTATS des MUNICIPALES 2026 ： Les Français sont de gauche",
+    "obsidianTranscriptNote": "Patreon - imExgeOedcM - 🔴 RÉSULTATS des MUNICIPALES 2026 ： Les Français sont de gauche"
+  },
+  {
+    "id": "public-imExgeOedcM-cluster-125",
     "videoId": "imExgeOedcM",
     "source": "public",
     "title": "🔴 RÉSULTATS des MUNICIPALES 2026 ： Les Français sont de gauche",
@@ -482,7 +663,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - imExgeOedcM - 🔴 RÉSULTATS des MUNICIPALES 2026 ： Les Français sont de gauche"
   },
   {
-    "id": "patreon-L8l3D7jjkYc-cluster-39",
+    "id": "patreon-L8l3D7jjkYc-cluster-55",
     "videoId": "L8l3D7jjkYc",
     "source": "patreon",
     "title": "🔴 FELDUP ne regrette pas le chèque de Bolloré",
@@ -521,7 +702,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - L8l3D7jjkYc - 🔴 FELDUP ne regrette pas le chèque de Bolloré"
   },
   {
-    "id": "patreon-qb9IoQbsYcI-cluster-59",
+    "id": "patreon-qb9IoQbsYcI-cluster-80",
     "videoId": "qb9IoQbsYcI",
     "source": "patreon",
     "title": "🔴 IA, robot & socialisme ： Comment répartir les richesses de demain ？",
@@ -558,7 +739,46 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - qb9IoQbsYcI - 🔴 IA, robot & socialisme ： Comment répartir les richesses de demain ？"
   },
   {
-    "id": "public-OQaGUv__6po-cluster-108",
+    "id": "patreon-OQaGUv__6po-cluster-60",
+    "videoId": "OQaGUv__6po",
+    "source": "patreon",
+    "title": "🔴 ALMA DUFOUR veut PLUS DE POLICE pour les Kebab 👮",
+    "publishedAt": "20260220",
+    "quote": "tiscan. On me l'a encore dit la semaine",
+    "topic": "Je vous l'ai dit, pour défendre les noirs et les arabes de quartier, ils vont demander plus de police.",
+    "prediction": "On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec la gauche sécuritaire?",
+    "context": "policière renforcée. La dissolution td les mecs pour les anciens une police renforcée la gauche sécuritaire tiscan tiscan. On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec la gauche sécuritaire? C'est impossible. Je vous l'ai dit, pour défendre les noirs et les arabes de quartier, ils vont demander plus de police. Et et alors ça, j'avoue, c'était inattendu. Pour défendre les Antifa, il faudra plus de police. La gauche sécuritaire, je vous l'avais promis, ça fait 3 ans que je vous le dis, 4 ans je crois sur le plateau de depuis le mon passage chez chez Nicolas Ford. Ça fait 4 ans qu'on me...",
+    "timestamp": "00:19:03,799",
+    "timestampLabel": "19:03",
+    "startSeconds": 1143,
+    "clipStartSeconds": 1125,
+    "clipStartLabel": "18:45",
+    "clipEndSeconds": 1201,
+    "clipEndLabel": "20:01",
+    "youtubeUrl": "https://www.youtube.com/watch?v=OQaGUv__6po&t=1143s",
+    "contextYoutubeUrl": "https://www.youtube.com/watch?v=OQaGUv__6po&t=1125s",
+    "videoUrl": "https://www.youtube.com/watch?v=OQaGUv__6po",
+    "thumbnailUrl": "https://i.ytimg.com/vi/OQaGUv__6po/hqdefault.jpg",
+    "confidence": "medium",
+    "reviewState": "needs-review",
+    "scanType": "retrospective",
+    "clusterSize": 2,
+    "sourceRecordIds": [
+      "patreon-OQaGUv__6po-1143",
+      "patreon-OQaGUv__6po-1146"
+    ],
+    "auditFlags": [
+      "retrospective_scan",
+      "duplicate_cluster",
+      "quote_too_short"
+    ],
+    "sourceFile": "Patreon/20260220 - 🔴 ALMA DUFOUR veut PLUS DE POLICE pour les Kebab 👮 [OQaGUv__6po].fr-orig.srt",
+    "obsidianScanNote": "Patreon OQaGUv__6po 19-03 - Je vous l'ai dit, pour défendre les noirs et les...",
+    "obsidianVideoNote": "Patreon - OQaGUv__6po - 🔴 ALMA DUFOUR veut PLUS DE POLICE pour les Kebab 👮",
+    "obsidianTranscriptNote": "Patreon - OQaGUv__6po - 🔴 ALMA DUFOUR veut PLUS DE POLICE pour les Kebab 👮"
+  },
+  {
+    "id": "public-OQaGUv__6po-cluster-129",
     "videoId": "OQaGUv__6po",
     "source": "public",
     "title": "🔴 ALMA DUFOUR veut PLUS DE POLICE pour les Kebab 👮",
@@ -597,7 +817,47 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - OQaGUv__6po - 🔴 ALMA DUFOUR veut PLUS DE POLICE pour les Kebab 👮"
   },
   {
-    "id": "public-7HdOQgi14OQ-cluster-92",
+    "id": "patreon-7HdOQgi14OQ-cluster-18",
+    "videoId": "7HdOQgi14OQ",
+    "source": "patreon",
+    "title": "🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？",
+    "publishedAt": "20260205",
+    "quote": "Papacito, le petit TD scan pour les plus",
+    "topic": "Je vous avais pas dit qu'il invviterait à voter un jour LFI qu'au bout du bout bout du bout du bout du bout du...",
+    "prediction": "Euh les accélérationnistes, j'en avais rencontré euh ça ça ça vend des armes en banlieu aux noirs et aux arabes en disant un jour ils vont s'en servir...",
+    "context": "Ouais, je comprends. Euh les accélérationnistes, j'en avais rencontré euh ça ça ça vend des armes en banlieu aux noirs et aux arabes en disant un jour ils vont s'en servir pour faire la révolution, ils font jamais de révolution avec et puis à côté de ça, ça achète du cheat et ça mange des kebabs. Bon. Ah, par contre le petit scan sur Papacito, le petit TD scan pour les plus anciens d'entre vous. Petit Teddy scan sur Papacito, je me suis bien fait insulter sur celui-là. Je vous avais pas dit qu'il invviterait à voter un jour LFI qu'au bout du bout bout du bout du bout du...",
+    "timestamp": "00:42:43,119",
+    "timestampLabel": "42:43",
+    "startSeconds": 2563,
+    "clipStartSeconds": 2545,
+    "clipStartLabel": "42:25",
+    "clipEndSeconds": 2622,
+    "clipEndLabel": "43:42",
+    "youtubeUrl": "https://www.youtube.com/watch?v=7HdOQgi14OQ&t=2563s",
+    "contextYoutubeUrl": "https://www.youtube.com/watch?v=7HdOQgi14OQ&t=2545s",
+    "videoUrl": "https://www.youtube.com/watch?v=7HdOQgi14OQ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7HdOQgi14OQ/hqdefault.jpg",
+    "confidence": "medium",
+    "reviewState": "needs-review",
+    "scanType": "prediction",
+    "clusterSize": 3,
+    "sourceRecordIds": [
+      "patreon-7HdOQgi14OQ-2563",
+      "patreon-7HdOQgi14OQ-2564",
+      "patreon-7HdOQgi14OQ-2567"
+    ],
+    "auditFlags": [
+      "duplicate_cluster",
+      "weak_topic",
+      "weak_prediction"
+    ],
+    "sourceFile": "Patreon/20260205 - 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？ [7HdOQgi14OQ].fr-orig.srt",
+    "obsidianScanNote": "Patreon 7HdOQgi14OQ 42-43 - Je vous avais pas dit qu'il invviterait à voter un...",
+    "obsidianVideoNote": "Patreon - 7HdOQgi14OQ - 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？",
+    "obsidianTranscriptNote": "Patreon - 7HdOQgi14OQ - 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？"
+  },
+  {
+    "id": "public-7HdOQgi14OQ-cluster-113",
     "videoId": "7HdOQgi14OQ",
     "source": "public",
     "title": "🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？",
@@ -637,7 +897,41 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - 7HdOQgi14OQ - 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？"
   },
   {
-    "id": "public-7HdOQgi14OQ-cluster-93",
+    "id": "patreon-7HdOQgi14OQ-cluster-19",
+    "videoId": "7HdOQgi14OQ",
+    "source": "patreon",
+    "title": "🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？",
+    "publishedAt": "20260205",
+    "quote": "l'état. Moi, c'est mon Tiscan personnel.",
+    "topic": "Ils feront juste avant la mort des vieux, ils vont faire passer des lois pour taxer plus de 70 % sur tout type d'héritage,...",
+    "prediction": "Ils feront juste avant la mort des vieux, ils vont faire passer des lois pour taxer plus de 70 % sur tout type d'héritage, c'est sûr et certain.",
+    "context": "enfler un bon 60 % 70 %. Ils feront juste avant la mort des vieux, ils vont faire passer des lois pour taxer plus de 70 % sur tout type d'héritage, c'est sûr et certain. Ce qui fait que tous les vieux auront acheté, collecté des ressources et le moment où ils vont crever, ils vont juste donner 70 % à l'état. Moi, c'est mon Tiscan personnel. Euh et ça remboursera pas la dette puisqu'ils vont recréer de la dépense après. Mais c'est vrai qu'on va avoir l'écroulement du marché de l'immobilier avec ça. Cabe est en train de dire à son audience qu'il fait qu'il faut absolument acheter sa...",
+    "timestamp": "01:14:25,960",
+    "timestampLabel": "1:14:25",
+    "startSeconds": 4465,
+    "clipStartSeconds": 4447,
+    "clipStartLabel": "1:14:07",
+    "clipEndSeconds": 4520,
+    "clipEndLabel": "1:15:20",
+    "youtubeUrl": "https://www.youtube.com/watch?v=7HdOQgi14OQ&t=4465s",
+    "contextYoutubeUrl": "https://www.youtube.com/watch?v=7HdOQgi14OQ&t=4447s",
+    "videoUrl": "https://www.youtube.com/watch?v=7HdOQgi14OQ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7HdOQgi14OQ/hqdefault.jpg",
+    "confidence": "high",
+    "reviewState": "validated",
+    "scanType": "prediction",
+    "clusterSize": 1,
+    "sourceRecordIds": [
+      "patreon-7HdOQgi14OQ-4465"
+    ],
+    "auditFlags": [],
+    "sourceFile": "Patreon/20260205 - 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？ [7HdOQgi14OQ].fr-orig.srt",
+    "obsidianScanNote": "Patreon 7HdOQgi14OQ 1-14-25 - Ils feront juste avant la mort des vieux, ils vont...",
+    "obsidianVideoNote": "Patreon - 7HdOQgi14OQ - 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？",
+    "obsidianTranscriptNote": "Patreon - 7HdOQgi14OQ - 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？"
+  },
+  {
+    "id": "public-7HdOQgi14OQ-cluster-114",
     "videoId": "7HdOQgi14OQ",
     "source": "public",
     "title": "🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？",
@@ -671,7 +965,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - 7HdOQgi14OQ - 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？"
   },
   {
-    "id": "patreon-q6lCJUjlcQs-cluster-57",
+    "id": "patreon-q6lCJUjlcQs-cluster-74",
     "videoId": "q6lCJUjlcQs",
     "source": "patreon",
     "title": "🔴 MISS FRANCE & les guerrières du Soleil",
@@ -705,7 +999,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - q6lCJUjlcQs - 🔴 MISS FRANCE & les guerrières du Soleil"
   },
   {
-    "id": "patreon-BOkxceq0Ex0-cluster-19",
+    "id": "patreon-BOkxceq0Ex0-cluster-28",
     "videoId": "BOkxceq0Ex0",
     "source": "patreon",
     "title": "🔴 LE PROHÈTE DE LA CLASSE MOYENNE & La sainte carte",
@@ -742,7 +1036,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - BOkxceq0Ex0 - 🔴 LE PROHÈTE DE LA CLASSE MOYENNE & La sainte carte"
   },
   {
-    "id": "public-wLVd92EF1Sc-cluster-123",
+    "id": "public-wLVd92EF1Sc-cluster-145",
     "videoId": "wLVd92EF1Sc",
     "source": "public",
     "title": "🔴 BARDELLA n'est pas candidat pour 2027 ？!",
@@ -778,7 +1072,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - wLVd92EF1Sc - 🔴 BARDELLA n'est pas candidat pour 2027 ？!"
   },
   {
-    "id": "patreon-nXxiKQzEzMU-cluster-43",
+    "id": "patreon-nXxiKQzEzMU-cluster-59",
     "videoId": "nXxiKQzEzMU",
     "source": "patreon",
     "title": "🔴 Le bilan carbone des éco-consultants",
@@ -812,7 +1106,43 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - nXxiKQzEzMU - 🔴 Le bilan carbone des éco-consultants"
   },
   {
-    "id": "public-qB8lNSEY2YI-cluster-113",
+    "id": "patreon-qB8lNSEY2YI-cluster-78",
+    "videoId": "qB8lNSEY2YI",
+    "source": "patreon",
+    "title": "🔴 À 34 ans... Le streamer PONCE découvre le ＂POSITIONNEMENT POLITIQUE＂.",
+    "publishedAt": "20260107",
+    "quote": "juste tiscan",
+    "topic": "Les les gros débiles mentaux en France aiment les élections parce qu'ils peuvent se comparer, parce qu'ils pensent que les gens qui votent à...",
+    "prediction": "Les les gros débiles mentaux en France aiment les élections parce qu'ils peuvent se comparer, parce qu'ils pensent que les gens qui votent à droite sont complètement débiles.",
+    "context": "la totale. Moi c'est j'ai en fait c'est Maxwell dégénéré parce que Maxwell il a à ce côté-là un peu mais mais là c'est la version dégénérée de Maxwell. tellement hâte de alors voilà, lui il a hâte de 2027, il dit \"J'ai tellement hâte, je vous mets plus fort de 2027, moi je vous dis juste tiscan c'est il est l'expression du PNisme. Les les gros débiles mentaux en France aiment les élections parce qu'ils peuvent se comparer, parce qu'ils pensent que les gens qui votent à droite sont complètement débiles. Donc ils disent what? Les gens ils sont cons, moi je suis intelligent.\" Et les gens de droite...",
+    "timestamp": "00:15:32,399",
+    "timestampLabel": "15:32",
+    "startSeconds": 932,
+    "clipStartSeconds": 914,
+    "clipStartLabel": "15:14",
+    "clipEndSeconds": 987,
+    "clipEndLabel": "16:27",
+    "youtubeUrl": "https://www.youtube.com/watch?v=qB8lNSEY2YI&t=932s",
+    "contextYoutubeUrl": "https://www.youtube.com/watch?v=qB8lNSEY2YI&t=914s",
+    "videoUrl": "https://www.youtube.com/watch?v=qB8lNSEY2YI",
+    "thumbnailUrl": "https://i.ytimg.com/vi/qB8lNSEY2YI/hqdefault.jpg",
+    "confidence": "medium",
+    "reviewState": "needs-review",
+    "scanType": "prediction",
+    "clusterSize": 1,
+    "sourceRecordIds": [
+      "patreon-qB8lNSEY2YI-932"
+    ],
+    "auditFlags": [
+      "quote_too_short"
+    ],
+    "sourceFile": "Patreon/20260107 - 🔴 À 34 ans... Le streamer PONCE découvre le ＂POSITIONNEMENT POLITIQUE＂. [qB8lNSEY2YI].fr-orig.srt",
+    "obsidianScanNote": "Patreon qB8lNSEY2YI 15-32 - Les les gros débiles mentaux en France aiment les élections...",
+    "obsidianVideoNote": "Patreon - qB8lNSEY2YI - 🔴 À 34 ans... Le streamer PONCE découvre le ＂POSITIONNEMENT POLITIQUE＂.",
+    "obsidianTranscriptNote": "Patreon - qB8lNSEY2YI - 🔴 À 34 ans... Le streamer PONCE découvre le ＂POSITIONNEMENT POLITIQUE＂."
+  },
+  {
+    "id": "public-qB8lNSEY2YI-cluster-134",
     "videoId": "qB8lNSEY2YI",
     "source": "public",
     "title": "🔴 À 34 ans... Le streamer PONCE découvre le ＂POSITIONNEMENT POLITIQUE＂.",
@@ -848,7 +1178,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - qB8lNSEY2YI - 🔴 À 34 ans... Le streamer PONCE découvre le ＂POSITIONNEMENT POLITIQUE＂."
   },
   {
-    "id": "patreon-Uw6mw5EBIuQ-cluster-66",
+    "id": "patreon-Uw6mw5EBIuQ-cluster-87",
     "videoId": "Uw6mw5EBIuQ",
     "source": "patreon",
     "title": "🔴 TON HISTORIQUE P＊RNHUB est désormais PUBLIC 😱",
@@ -887,7 +1217,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - Uw6mw5EBIuQ - 🔴 TON HISTORIQUE P＊RNHUB est désormais PUBLIC 😱"
   },
   {
-    "id": "patreon-NGue00dxAN0-cluster-41",
+    "id": "patreon-NGue00dxAN0-cluster-57",
     "videoId": "NGue00dxAN0",
     "source": "patreon",
     "title": "🔴 ATTALI, SATAN & LES WOKES",
@@ -923,7 +1253,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - NGue00dxAN0 - 🔴 ATTALI, SATAN & LES WOKES"
   },
   {
-    "id": "patreon-NGue00dxAN0-cluster-42",
+    "id": "patreon-NGue00dxAN0-cluster-58",
     "videoId": "NGue00dxAN0",
     "source": "patreon",
     "title": "🔴 ATTALI, SATAN & LES WOKES",
@@ -959,7 +1289,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - NGue00dxAN0 - 🔴 ATTALI, SATAN & LES WOKES"
   },
   {
-    "id": "patreon-P0zY9msTG7A-cluster-44",
+    "id": "patreon-P0zY9msTG7A-cluster-61",
     "videoId": "P0zY9msTG7A",
     "source": "patreon",
     "title": "🔴 4500 net ： Le techno-gauchisme contre l'émancipation de la classe moyenne",
@@ -995,7 +1325,44 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - P0zY9msTG7A - 🔴 4500 net ： Le techno-gauchisme contre l'émancipation de la classe moyenne"
   },
   {
-    "id": "public-3fBp8m61nuM-cluster-88",
+    "id": "patreon-3fBp8m61nuM-cluster-11",
+    "videoId": "3fBp8m61nuM",
+    "source": "patreon",
+    "title": "🔴 ON CLASH LES MANGAS Avant les fêtes 🎄",
+    "publishedAt": "20251222",
+    "quote": "c'est tout le temps ça. Oups. Tiscan.",
+    "topic": "Parce qu'en plus Chen Soman, ça commence dans une école donc c'est l'histoire d'un adolescent trop dark.",
+    "prediction": "J'irai regarder en redif en zappant et je vais faire OK lui comme je fais d'habitude, je vais noter les noms.",
+    "context": "Parce qu'en plus Chen Soman, ça commence dans une école donc c'est l'histoire d'un adolescent trop dark. Non, c'est fake. OK, tu as tout bon. Qui s'appelle Nathalie? Juste sans le délire famille. Ouais mais c'est tout le temps ça. Oups. Tiscan. Ouais il lui manque une couille. OK. Bon bah s'il lui manque une couille, c'est bon là ça là ça là ça subverti le genre tcad en partie. [ __ ] vous êtes sérieux c'est chaud. Mais je vais les regarder. Je vais le regarder. Je ferai un back test dessus. Et attention parce que moi si si c'est ça, si vous avez je relirai tous vos commentaires....",
+    "timestamp": "01:09:09,000",
+    "timestampLabel": "1:09:09",
+    "startSeconds": 4149,
+    "clipStartSeconds": 4131,
+    "clipStartLabel": "1:08:51",
+    "clipEndSeconds": 4204,
+    "clipEndLabel": "1:10:04",
+    "youtubeUrl": "https://www.youtube.com/watch?v=3fBp8m61nuM&t=4149s",
+    "contextYoutubeUrl": "https://www.youtube.com/watch?v=3fBp8m61nuM&t=4131s",
+    "videoUrl": "https://www.youtube.com/watch?v=3fBp8m61nuM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/3fBp8m61nuM/hqdefault.jpg",
+    "confidence": "medium",
+    "reviewState": "needs-review",
+    "scanType": "prediction",
+    "clusterSize": 1,
+    "sourceRecordIds": [
+      "patreon-3fBp8m61nuM-4149"
+    ],
+    "auditFlags": [
+      "weak_prediction",
+      "no_future_hint_in_expanded_context"
+    ],
+    "sourceFile": "Patreon/20251222 - 🔴 ON CLASH LES MANGAS Avant les fêtes 🎄 [3fBp8m61nuM].fr-orig.srt",
+    "obsidianScanNote": "Patreon 3fBp8m61nuM 1-09-09 - Parce qu'en plus Chen Soman, ça commence dans une école...",
+    "obsidianVideoNote": "Patreon - 3fBp8m61nuM - 🔴 ON CLASH LES MANGAS Avant les fêtes 🎄",
+    "obsidianTranscriptNote": "Patreon - 3fBp8m61nuM - 🔴 ON CLASH LES MANGAS Avant les fêtes 🎄"
+  },
+  {
+    "id": "public-3fBp8m61nuM-cluster-109",
     "videoId": "3fBp8m61nuM",
     "source": "public",
     "title": "🔴 ON CLASH LES MANGAS Avant les fêtes 🎄",
@@ -1032,7 +1399,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - 3fBp8m61nuM - 🔴 ON CLASH LES MANGAS Avant les fêtes 🎄"
   },
   {
-    "id": "patreon-zYF8rbBMarg-cluster-85",
+    "id": "patreon-zYF8rbBMarg-cluster-106",
     "videoId": "zYF8rbBMarg",
     "source": "patreon",
     "title": "🔴 LES SOUVERAINISTES veulent sauver TOUTES LES VACHES de France !",
@@ -1069,7 +1436,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - zYF8rbBMarg - 🔴 LES SOUVERAINISTES veulent sauver TOUTES LES VACHES de France !"
   },
   {
-    "id": "public-VhtUwygM-Fs-cluster-122",
+    "id": "public-VhtUwygM-Fs-cluster-144",
     "videoId": "VhtUwygM-Fs",
     "source": "public",
     "title": "🔴 BÉGAUDEAU DÉBAT avec des AFRICAINS",
@@ -1105,7 +1472,43 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - VhtUwygM-Fs - 🔴 BÉGAUDEAU DÉBAT avec des AFRICAINS"
   },
   {
-    "id": "public-4IudQ6CpQSg-cluster-90",
+    "id": "patreon-4IudQ6CpQSg-cluster-14",
+    "videoId": "4IudQ6CpQSg",
+    "source": "patreon",
+    "title": "🔴 PATRIMOINE & FROMAGE ： La nouvelle ligne politique de Pierre-Yves Rougeyron",
+    "publishedAt": "20251128",
+    "quote": "scan [ __ ] Oh [ __ ] ils le font.",
+    "topic": "C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique.",
+    "prediction": "Mais alors ouais, le banquet, les bonnes bouffes, la bonne chair et puis les [ __ ] tu on y vient.",
+    "context": "plus il affinité. Donc on est au moins uni là-dessus. Chaque jour on paye une TVA qui nous la met au cul. Donc ça déjà c'est c'est euh c'est ce qui nous réunit tous. OK. Euh l'habitude de faire par exemple des banquets. Ah bah voilà le banquet. Oh [ __ ] td scan [ __ ] Oh [ __ ] ils le font. C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique. C'est vraiment ça. Cospl ber c'est vraiment ça les mecs. Du vin et du saucisson. Le banquet gaulois, c'est un juif Gosini qui a scénarisé euh euh nous les ancêtres les Gaulois après avoir...",
+    "timestamp": "00:53:59,960",
+    "timestampLabel": "53:59",
+    "startSeconds": 3239,
+    "clipStartSeconds": 3221,
+    "clipStartLabel": "53:41",
+    "clipEndSeconds": 3294,
+    "clipEndLabel": "54:54",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4IudQ6CpQSg&t=3239s",
+    "contextYoutubeUrl": "https://www.youtube.com/watch?v=4IudQ6CpQSg&t=3221s",
+    "videoUrl": "https://www.youtube.com/watch?v=4IudQ6CpQSg",
+    "thumbnailUrl": "https://i.ytimg.com/vi/4IudQ6CpQSg/hqdefault.jpg",
+    "confidence": "medium",
+    "reviewState": "needs-review",
+    "scanType": "prediction",
+    "clusterSize": 1,
+    "sourceRecordIds": [
+      "patreon-4IudQ6CpQSg-3239"
+    ],
+    "auditFlags": [
+      "no_future_hint_in_expanded_context"
+    ],
+    "sourceFile": "Patreon/20251128 - 🔴 PATRIMOINE & FROMAGE ： La nouvelle ligne politique de Pierre-Yves Rougeyron [4IudQ6CpQSg].fr-orig.srt",
+    "obsidianScanNote": "Patreon 4IudQ6CpQSg 53-59 - C'est vraiment ça, [ __ ] C'est vraiment ça la...",
+    "obsidianVideoNote": "Patreon - 4IudQ6CpQSg - 🔴 PATRIMOINE & FROMAGE ： La nouvelle ligne politique de Pierre-Yves Rougeyron",
+    "obsidianTranscriptNote": "Patreon - 4IudQ6CpQSg - 🔴 PATRIMOINE & FROMAGE ： La nouvelle ligne politique de Pierre-Yves Rougeyron"
+  },
+  {
+    "id": "public-4IudQ6CpQSg-cluster-111",
     "videoId": "4IudQ6CpQSg",
     "source": "public",
     "title": "🔴 PATRIMOINE & FROMAGE ： La nouvelle ligne politique de Pierre-Yves Rougeyron",
@@ -1141,7 +1544,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - 4IudQ6CpQSg - 🔴 PATRIMOINE & FROMAGE ： La nouvelle ligne politique de Pierre-Yves Rougeyron"
   },
   {
-    "id": "patreon-PEhivdf5Aaw-cluster-45",
+    "id": "patreon-PEhivdf5Aaw-cluster-62",
     "videoId": "PEhivdf5Aaw",
     "source": "patreon",
     "title": "🔴 LE FILS DE OSS 117 en AFRIQUE",
@@ -1178,7 +1581,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - PEhivdf5Aaw - 🔴 LE FILS DE OSS 117 en AFRIQUE"
   },
   {
-    "id": "public-UpKCV7GswSA-cluster-121",
+    "id": "public-UpKCV7GswSA-cluster-142",
     "videoId": "UpKCV7GswSA",
     "source": "public",
     "title": "🔴 RADIO LIBRE ： Identité Française, le sujet piège",
@@ -1212,7 +1615,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - UpKCV7GswSA - 🔴 RADIO LIBRE ： Identité Française, le sujet piège"
   },
   {
-    "id": "patreon-NDkdK5VSyxE-cluster-40",
+    "id": "patreon-NDkdK5VSyxE-cluster-56",
     "videoId": "NDkdK5VSyxE",
     "source": "patreon",
     "title": "🔴 FAITES DES BÉBÉS ： Oui mais pourquoi faire ？",
@@ -1246,7 +1649,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - NDkdK5VSyxE - 🔴 FAITES DES BÉBÉS ： Oui mais pourquoi faire ？"
   },
   {
-    "id": "patreon-pVnQBjGXX4o-cluster-56",
+    "id": "patreon-pVnQBjGXX4o-cluster-73",
     "videoId": "pVnQBjGXX4o",
     "source": "patreon",
     "title": "🔴 On analyse la statue géante de l'Atelier Missor",
@@ -1351,7 +1754,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - 2G3jmxJF2OA - 🔴 Pourquoi j’arrête avec les Feats, la stratégie de Trump, mon avancée sur l’IA"
   },
   {
-    "id": "patreon-KNdV3kg8L1I-cluster-36",
+    "id": "patreon-KNdV3kg8L1I-cluster-49",
     "videoId": "KNdV3kg8L1I",
     "source": "patreon",
     "title": "PHILO IA (Partie 2⧸2) ： Par delà le bien & le mal... Ou les deux pieds dans la sophistique !",
@@ -1387,7 +1790,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - KNdV3kg8L1I - PHILO IA (Partie 2⧸2) ： Par delà le bien & le mal... Ou les deux pieds dans la sophistique !"
   },
   {
-    "id": "patreon-KNdV3kg8L1I-cluster-37",
+    "id": "patreon-KNdV3kg8L1I-cluster-50",
     "videoId": "KNdV3kg8L1I",
     "source": "patreon",
     "title": "PHILO IA (Partie 2⧸2) ： Par delà le bien & le mal... Ou les deux pieds dans la sophistique !",
@@ -1424,7 +1827,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - KNdV3kg8L1I - PHILO IA (Partie 2⧸2) ： Par delà le bien & le mal... Ou les deux pieds dans la sophistique !"
   },
   {
-    "id": "public-q0JsTp-ILX8-cluster-109",
+    "id": "public-q0JsTp-ILX8-cluster-130",
     "videoId": "q0JsTp-ILX8",
     "source": "public",
     "title": "Le pot de départ de Retailleau (intégrale version)",
@@ -1458,7 +1861,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - q0JsTp-ILX8 - Le pot de départ de Retailleau (intégrale version)"
   },
   {
-    "id": "patreon-8ghLqhyzVtg-cluster-14",
+    "id": "patreon-8ghLqhyzVtg-cluster-20",
     "videoId": "8ghLqhyzVtg",
     "source": "patreon",
     "title": "Votre feuilleton politique de l'été, continue en automne ｜ MACRON DÉMISSION saison 9",
@@ -1494,7 +1897,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - 8ghLqhyzVtg - Votre feuilleton politique de l'été, continue en automne ｜ MACRON DÉMISSION saison 9"
   },
   {
-    "id": "patreon-TvvPD9rFqSY-cluster-65",
+    "id": "patreon-TvvPD9rFqSY-cluster-86",
     "videoId": "TvvPD9rFqSY",
     "source": "patreon",
     "title": "DELOGU s＊ce des mecs ？ Les critiques de cinémas sont nuls ？ L'art n'existe pas ？ (Tant de questions)",
@@ -1530,7 +1933,43 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - TvvPD9rFqSY - DELOGU s＊ce des mecs ？ Les critiques de cinémas sont nuls ？ L'art n'existe pas ？ (Tant de questions)"
   },
   {
-    "id": "public-9gft2XP6kM4-cluster-94",
+    "id": "patreon-9gft2XP6kM4-cluster-23",
+    "videoId": "9gft2XP6kM4",
+    "source": "patreon",
+    "title": "RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels",
+    "publishedAt": "20250917",
+    "quote": "j'ai Ouais le tiscan et j'ai trouvé ça",
+    "topic": "Ils sont très pertinents et c'est vrai que Begodo pour le coup euh a a mis Pierre Rougéron en face de certaines limites de...",
+    "prediction": "J'ai trouvé ton analyse mais j'ai enfin j'ai vu que tu avais anticipé des trucs et je me suis dit même par rapport à la gestion de de...",
+    "context": "passionnant. J'ai trouvé ton analyse mais j'ai enfin j'ai vu que tu avais anticipé des trucs et je me suis dit même par rapport à la gestion de de la meuf quand tu as dit ouais Rougéron il a attaqué la nana à partir de maintenant il aura plus le droit de parler bah effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais le tiscan et j'ai trouvé ça vraiment passionnant quo même au sujet des des thématiques parce que c'est vrai que Pierre Riv Rougéron et Begodo malgré tout c'est quand même des intellectuels qui qui ont des choses à dire et qui enfin pour Pour...",
+    "timestamp": "00:15:54,560",
+    "timestampLabel": "15:54",
+    "startSeconds": 954,
+    "clipStartSeconds": 936,
+    "clipStartLabel": "15:36",
+    "clipEndSeconds": 1009,
+    "clipEndLabel": "16:49",
+    "youtubeUrl": "https://www.youtube.com/watch?v=9gft2XP6kM4&t=954s",
+    "contextYoutubeUrl": "https://www.youtube.com/watch?v=9gft2XP6kM4&t=936s",
+    "videoUrl": "https://www.youtube.com/watch?v=9gft2XP6kM4",
+    "thumbnailUrl": "https://i.ytimg.com/vi/9gft2XP6kM4/hqdefault.jpg",
+    "confidence": "medium",
+    "reviewState": "needs-review",
+    "scanType": "prediction",
+    "clusterSize": 1,
+    "sourceRecordIds": [
+      "patreon-9gft2XP6kM4-954"
+    ],
+    "auditFlags": [
+      "weak_prediction"
+    ],
+    "sourceFile": "Patreon/20250917 - RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels [9gft2XP6kM4].fr-orig.srt",
+    "obsidianScanNote": "Patreon 9gft2XP6kM4 15-54 - Ils sont très pertinents et c'est vrai que Begodo pour...",
+    "obsidianVideoNote": "Patreon - 9gft2XP6kM4 - RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels",
+    "obsidianTranscriptNote": "Patreon - 9gft2XP6kM4 - RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels"
+  },
+  {
+    "id": "public-9gft2XP6kM4-cluster-115",
     "videoId": "9gft2XP6kM4",
     "source": "public",
     "title": "RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels",
@@ -1566,7 +2005,41 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - 9gft2XP6kM4 - RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels"
   },
   {
-    "id": "public-9gft2XP6kM4-cluster-95",
+    "id": "patreon-9gft2XP6kM4-cluster-24",
+    "videoId": "9gft2XP6kM4",
+    "source": "patreon",
+    "title": "RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels",
+    "publishedAt": "20250917",
+    "quote": "j'aurais pu faire un té scan. Je suis",
+    "topic": "a le point alors ça peut être traduit par le stoïisme, le cynisme, beaucoup de d'éléments qui diraient en fait on s'en fout quoi.",
+    "prediction": "Donc par moi moi ça m'est arrivé d'être cynique ou de puiser dans mon cynisme le côté un peu...",
+    "context": "a le point alors ça peut être traduit par le stoïisme, le cynisme, beaucoup de d'éléments qui diraient en fait on s'en fout quoi. J'aurais vraiment dû faire le sketch au début. Le sketch que je voulais vous faire c'était exactement ça. Je voulais conclure par il faut cultiver son cynisme. C'est terrible. [ __ ] j'aurais pu faire un té scan. Je suis vraiment trop con quoi. Vas-y, vas-y, continue. OK, mais je suis en pleine dent. C'est-à-dire que une fois qu'on a fait le constat, c'est-à-dire toi, moi, le le chat et peu importe, une fois qu'on a fait le constat, euh il faut se placer quelque part,...",
+    "timestamp": "00:40:58,960",
+    "timestampLabel": "40:58",
+    "startSeconds": 2458,
+    "clipStartSeconds": 2440,
+    "clipStartLabel": "40:40",
+    "clipEndSeconds": 2513,
+    "clipEndLabel": "41:53",
+    "youtubeUrl": "https://www.youtube.com/watch?v=9gft2XP6kM4&t=2458s",
+    "contextYoutubeUrl": "https://www.youtube.com/watch?v=9gft2XP6kM4&t=2440s",
+    "videoUrl": "https://www.youtube.com/watch?v=9gft2XP6kM4",
+    "thumbnailUrl": "https://i.ytimg.com/vi/9gft2XP6kM4/hqdefault.jpg",
+    "confidence": "high",
+    "reviewState": "validated",
+    "scanType": "prediction",
+    "clusterSize": 1,
+    "sourceRecordIds": [
+      "patreon-9gft2XP6kM4-2458"
+    ],
+    "auditFlags": [],
+    "sourceFile": "Patreon/20250917 - RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels [9gft2XP6kM4].fr-orig.srt",
+    "obsidianScanNote": "Patreon 9gft2XP6kM4 40-58 - a le point alors ça peut être traduit par le...",
+    "obsidianVideoNote": "Patreon - 9gft2XP6kM4 - RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels",
+    "obsidianTranscriptNote": "Patreon - 9gft2XP6kM4 - RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels"
+  },
+  {
+    "id": "public-9gft2XP6kM4-cluster-116",
     "videoId": "9gft2XP6kM4",
     "source": "public",
     "title": "RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels",
@@ -1600,7 +2073,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - 9gft2XP6kM4 - RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels"
   },
   {
-    "id": "patreon-ykkjgo7rPjY-cluster-83",
+    "id": "patreon-ykkjgo7rPjY-cluster-104",
     "videoId": "ykkjgo7rPjY",
     "source": "patreon",
     "title": "LA TOTALE DURAS - Cours de littérature",
@@ -1670,7 +2143,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - _3BScmfl5Aw - 10h ： Ah merde... C'est la rentrée politique..."
   },
   {
-    "id": "patreon-yHGIqy6INjQ-cluster-77",
+    "id": "patreon-yHGIqy6INjQ-cluster-98",
     "videoId": "yHGIqy6INjQ",
     "source": "patreon",
     "title": "Les vautours ont leur sujet ： Jean Pormanove",
@@ -1706,7 +2179,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - yHGIqy6INjQ - Les vautours ont leur sujet ： Jean Pormanove"
   },
   {
-    "id": "patreon-yHGIqy6INjQ-cluster-78",
+    "id": "patreon-yHGIqy6INjQ-cluster-99",
     "videoId": "yHGIqy6INjQ",
     "source": "patreon",
     "title": "Les vautours ont leur sujet ： Jean Pormanove",
@@ -1742,7 +2215,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - yHGIqy6INjQ - Les vautours ont leur sujet ： Jean Pormanove"
   },
   {
-    "id": "patreon-yHGIqy6INjQ-cluster-80",
+    "id": "patreon-yHGIqy6INjQ-cluster-101",
     "videoId": "yHGIqy6INjQ",
     "source": "patreon",
     "title": "Les vautours ont leur sujet ： Jean Pormanove",
@@ -1776,7 +2249,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - yHGIqy6INjQ - Les vautours ont leur sujet ： Jean Pormanove"
   },
   {
-    "id": "patreon-yHGIqy6INjQ-cluster-81",
+    "id": "patreon-yHGIqy6INjQ-cluster-102",
     "videoId": "yHGIqy6INjQ",
     "source": "patreon",
     "title": "Les vautours ont leur sujet ： Jean Pormanove",
@@ -1812,7 +2285,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - yHGIqy6INjQ - Les vautours ont leur sujet ： Jean Pormanove"
   },
   {
-    "id": "patreon-yHGIqy6INjQ-cluster-82",
+    "id": "patreon-yHGIqy6INjQ-cluster-103",
     "videoId": "yHGIqy6INjQ",
     "source": "patreon",
     "title": "Les vautours ont leur sujet ： Jean Pormanove",
@@ -1849,7 +2322,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - yHGIqy6INjQ - Les vautours ont leur sujet ： Jean Pormanove"
   },
   {
-    "id": "patreon-Auil7lDmDgw-cluster-17",
+    "id": "patreon-Auil7lDmDgw-cluster-26",
     "videoId": "Auil7lDmDgw",
     "source": "patreon",
     "title": "Aujourd'hui, le sujet c'est vous !",
@@ -1883,7 +2356,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - Auil7lDmDgw - Aujourd'hui, le sujet c'est vous !"
   },
   {
-    "id": "patreon-ycXJl_9z1xo-cluster-76",
+    "id": "patreon-ycXJl_9z1xo-cluster-97",
     "videoId": "ycXJl_9z1xo",
     "source": "patreon",
     "title": "PYR, IL VA LE FAIRE !",
@@ -1919,7 +2392,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - ycXJl_9z1xo - PYR, IL VA LE FAIRE !"
   },
   {
-    "id": "patreon-vdKFrTNwcUQ-cluster-67",
+    "id": "patreon-vdKFrTNwcUQ-cluster-88",
     "videoId": "vdKFrTNwcUQ",
     "source": "patreon",
     "title": "On recycle la liste ou pas cette fois ？!",
@@ -1953,7 +2426,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - vdKFrTNwcUQ - On recycle la liste ou pas cette fois ？!"
   },
   {
-    "id": "patreon-H8OwLShXVyA-cluster-26",
+    "id": "patreon-H8OwLShXVyA-cluster-36",
     "videoId": "H8OwLShXVyA",
     "source": "patreon",
     "title": "4500 net (Hors série) - LA CRISE DE 2008 selon Jovanovic & le PYR",
@@ -1991,7 +2464,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - H8OwLShXVyA - 4500 net (Hors série) - LA CRISE DE 2008 selon Jovanovic & le PYR"
   },
   {
-    "id": "patreon-H8OwLShXVyA-cluster-27",
+    "id": "patreon-H8OwLShXVyA-cluster-37",
     "videoId": "H8OwLShXVyA",
     "source": "patreon",
     "title": "4500 net (Hors série) - LA CRISE DE 2008 selon Jovanovic & le PYR",
@@ -2025,7 +2498,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - H8OwLShXVyA - 4500 net (Hors série) - LA CRISE DE 2008 selon Jovanovic & le PYR"
   },
   {
-    "id": "patreon-H8OwLShXVyA-cluster-29",
+    "id": "patreon-H8OwLShXVyA-cluster-39",
     "videoId": "H8OwLShXVyA",
     "source": "patreon",
     "title": "4500 net (Hors série) - LA CRISE DE 2008 selon Jovanovic & le PYR",
@@ -2062,7 +2535,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - H8OwLShXVyA - 4500 net (Hors série) - LA CRISE DE 2008 selon Jovanovic & le PYR"
   },
   {
-    "id": "patreon-igybgPPCWgQ-cluster-30",
+    "id": "patreon-igybgPPCWgQ-cluster-42",
     "videoId": "igybgPPCWgQ",
     "source": "patreon",
     "title": "La revanche des vieux est sur Le Figaro",
@@ -2096,7 +2569,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - igybgPPCWgQ - La revanche des vieux est sur Le Figaro"
   },
   {
-    "id": "patreon-igybgPPCWgQ-cluster-31",
+    "id": "patreon-igybgPPCWgQ-cluster-43",
     "videoId": "igybgPPCWgQ",
     "source": "patreon",
     "title": "La revanche des vieux est sur Le Figaro",
@@ -2133,7 +2606,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - igybgPPCWgQ - La revanche des vieux est sur Le Figaro"
   },
   {
-    "id": "patreon-igybgPPCWgQ-cluster-32",
+    "id": "patreon-igybgPPCWgQ-cluster-44",
     "videoId": "igybgPPCWgQ",
     "source": "patreon",
     "title": "La revanche des vieux est sur Le Figaro",
@@ -2170,7 +2643,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - igybgPPCWgQ - La revanche des vieux est sur Le Figaro"
   },
   {
-    "id": "patreon-igybgPPCWgQ-cluster-33",
+    "id": "patreon-igybgPPCWgQ-cluster-45",
     "videoId": "igybgPPCWgQ",
     "source": "patreon",
     "title": "La revanche des vieux est sur Le Figaro",
@@ -2241,7 +2714,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - -N4kVueHhB0 - Un petit lundi avec vous"
   },
   {
-    "id": "public-xb-li2SVJWk-cluster-124",
+    "id": "public-xb-li2SVJWk-cluster-147",
     "videoId": "xb-li2SVJWk",
     "source": "public",
     "title": "🎙️ RADIO LIBRE 2 🎙️： Afuera, libéralisme, débat gauche-droite, gendarmerie",
@@ -2275,7 +2748,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - xb-li2SVJWk - 🎙️ RADIO LIBRE 2 🎙️： Afuera, libéralisme, débat gauche-droite, gendarmerie"
   },
   {
-    "id": "public-b94lUkiF4F4-cluster-99",
+    "id": "public-b94lUkiF4F4-cluster-120",
     "videoId": "b94lUkiF4F4",
     "source": "public",
     "title": "LE PROBLÈME DE LA PHYSIQUE QUANTIQUE",
@@ -2312,7 +2785,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - b94lUkiF4F4 - LE PROBLÈME DE LA PHYSIQUE QUANTIQUE"
   },
   {
-    "id": "patreon-tf-I-cG7o5I-cluster-63",
+    "id": "patreon-tf-I-cG7o5I-cluster-84",
     "videoId": "tf-I-cG7o5I",
     "source": "patreon",
     "title": "Ma réponse à Wissam (le live)",
@@ -2350,7 +2823,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - tf-I-cG7o5I - Ma réponse à Wissam (le live)"
   },
   {
-    "id": "patreon-tf-I-cG7o5I-cluster-64",
+    "id": "patreon-tf-I-cG7o5I-cluster-85",
     "videoId": "tf-I-cG7o5I",
     "source": "patreon",
     "title": "Ma réponse à Wissam (le live)",
@@ -2386,7 +2859,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - tf-I-cG7o5I - Ma réponse à Wissam (le live)"
   },
   {
-    "id": "patreon-vQXviJGyvmE-cluster-68",
+    "id": "patreon-vQXviJGyvmE-cluster-89",
     "videoId": "vQXviJGyvmE",
     "source": "patreon",
     "title": "J'ESSAYE DE RESTER DE DROITE en live",
@@ -2423,7 +2896,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - vQXviJGyvmE - J'ESSAYE DE RESTER DE DROITE en live"
   },
   {
-    "id": "patreon-vQXviJGyvmE-cluster-69",
+    "id": "patreon-vQXviJGyvmE-cluster-90",
     "videoId": "vQXviJGyvmE",
     "source": "patreon",
     "title": "J'ESSAYE DE RESTER DE DROITE en live",
@@ -2529,7 +3002,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - 1JX6yxMYCEA - Louis Sarkozy ： ON DECOUVRE NOTRE FUTUR PRÉSIDENTIABLE"
   },
   {
-    "id": "public-YCQrCdrvx58-cluster-125",
+    "id": "public-YCQrCdrvx58-cluster-148",
     "videoId": "YCQrCdrvx58",
     "source": "public",
     "title": "IL FAUT RENDRE L'HUMOUR AUX ACTIFS",
@@ -2566,7 +3039,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - YCQrCdrvx58 - IL FAUT RENDRE L'HUMOUR AUX ACTIFS"
   },
   {
-    "id": "patreon-KKUhXGwHAm4-cluster-34",
+    "id": "patreon-KKUhXGwHAm4-cluster-47",
     "videoId": "KKUhXGwHAm4",
     "source": "patreon",
     "title": "TOUS LES JOURS, DEVANT LA MAIRIE, LE 20 AVRIL 🦆",
@@ -2600,7 +3073,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - KKUhXGwHAm4 - TOUS LES JOURS, DEVANT LA MAIRIE, LE 20 AVRIL 🦆"
   },
   {
-    "id": "patreon-KKUhXGwHAm4-cluster-35",
+    "id": "patreon-KKUhXGwHAm4-cluster-48",
     "videoId": "KKUhXGwHAm4",
     "source": "patreon",
     "title": "TOUS LES JOURS, DEVANT LA MAIRIE, LE 20 AVRIL 🦆",
@@ -2636,7 +3109,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - KKUhXGwHAm4 - TOUS LES JOURS, DEVANT LA MAIRIE, LE 20 AVRIL 🦆"
   },
   {
-    "id": "patreon-YQIL7-BO1WE-cluster-84",
+    "id": "patreon-YQIL7-BO1WE-cluster-105",
     "videoId": "YQIL7-BO1WE",
     "source": "patreon",
     "title": "L'HUMILITÉ - Live philosophie",
@@ -2674,7 +3147,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - YQIL7-BO1WE - L'HUMILITÉ - Live philosophie"
   },
   {
-    "id": "patreon-pTrevIm0cyk-cluster-50",
+    "id": "patreon-pTrevIm0cyk-cluster-67",
     "videoId": "pTrevIm0cyk",
     "source": "patreon",
     "title": "🍩 ON VA AU FOND 🍩",
@@ -2708,7 +3181,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - pTrevIm0cyk - 🍩 ON VA AU FOND 🍩"
   },
   {
-    "id": "patreon-pTrevIm0cyk-cluster-51",
+    "id": "patreon-pTrevIm0cyk-cluster-68",
     "videoId": "pTrevIm0cyk",
     "source": "patreon",
     "title": "🍩 ON VA AU FOND 🍩",
@@ -2744,7 +3217,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - pTrevIm0cyk - 🍩 ON VA AU FOND 🍩"
   },
   {
-    "id": "patreon-pTrevIm0cyk-cluster-52",
+    "id": "patreon-pTrevIm0cyk-cluster-69",
     "videoId": "pTrevIm0cyk",
     "source": "patreon",
     "title": "🍩 ON VA AU FOND 🍩",
@@ -2780,7 +3253,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - pTrevIm0cyk - 🍩 ON VA AU FOND 🍩"
   },
   {
-    "id": "patreon-pTrevIm0cyk-cluster-53",
+    "id": "patreon-pTrevIm0cyk-cluster-70",
     "videoId": "pTrevIm0cyk",
     "source": "patreon",
     "title": "🍩 ON VA AU FOND 🍩",
@@ -2816,7 +3289,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - pTrevIm0cyk - 🍩 ON VA AU FOND 🍩"
   },
   {
-    "id": "public-zT8vpxgXkY0-cluster-129",
+    "id": "public-zT8vpxgXkY0-cluster-152",
     "videoId": "zT8vpxgXkY0",
     "source": "public",
     "title": "🍩 L'ÉCONOMIE DE GUERRE ： De l'antiquité à nos jours 🍩",
@@ -2852,7 +3325,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - zT8vpxgXkY0 - 🍩 L'ÉCONOMIE DE GUERRE ： De l'antiquité à nos jours 🍩"
   },
   {
-    "id": "patreon-WFhtQ8KHZRI-cluster-72",
+    "id": "patreon-WFhtQ8KHZRI-cluster-93",
     "videoId": "WFhtQ8KHZRI",
     "source": "patreon",
     "title": "BIENTÔT le VERDICT ： 50 nuances de serviette",
@@ -2886,7 +3359,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - WFhtQ8KHZRI - BIENTÔT le VERDICT ： 50 nuances de serviette"
   },
   {
-    "id": "patreon-GlOERuub9ck-cluster-23",
+    "id": "patreon-GlOERuub9ck-cluster-33",
     "videoId": "GlOERuub9ck",
     "source": "patreon",
     "title": "Les FEMMES se tapent plus de MECS qu'avant (c'est une information)",
@@ -2922,7 +3395,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - GlOERuub9ck - Les FEMMES se tapent plus de MECS qu'avant (c'est une information)"
   },
   {
-    "id": "patreon-GlOERuub9ck-cluster-24",
+    "id": "patreon-GlOERuub9ck-cluster-34",
     "videoId": "GlOERuub9ck",
     "source": "patreon",
     "title": "Les FEMMES se tapent plus de MECS qu'avant (c'est une information)",
@@ -2958,7 +3431,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - GlOERuub9ck - Les FEMMES se tapent plus de MECS qu'avant (c'est une information)"
   },
   {
-    "id": "patreon-GlOERuub9ck-cluster-25",
+    "id": "patreon-GlOERuub9ck-cluster-35",
     "videoId": "GlOERuub9ck",
     "source": "patreon",
     "title": "Les FEMMES se tapent plus de MECS qu'avant (c'est une information)",
@@ -2997,7 +3470,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - GlOERuub9ck - Les FEMMES se tapent plus de MECS qu'avant (c'est une information)"
   },
   {
-    "id": "patreon-C1ycvGtNXlA-cluster-20",
+    "id": "patreon-C1ycvGtNXlA-cluster-29",
     "videoId": "C1ycvGtNXlA",
     "source": "patreon",
     "title": "LE JARL vs Delavier",
@@ -3033,7 +3506,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - C1ycvGtNXlA - LE JARL vs Delavier"
   },
   {
-    "id": "patreon-5h8THMZzRk4-cluster-13",
+    "id": "patreon-5h8THMZzRk4-cluster-16",
     "videoId": "5h8THMZzRk4",
     "source": "patreon",
     "title": "Les Français ne parlent que de ça ... Mais nous allons parler d'autre chose !",
@@ -3067,7 +3540,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Patreon - 5h8THMZzRk4 - Les Français ne parlent que de ça ... Mais nous allons parler d'autre chose !"
   },
   {
-    "id": "public-yKL5nnpH7NI-cluster-126",
+    "id": "public-yKL5nnpH7NI-cluster-149",
     "videoId": "yKL5nnpH7NI",
     "source": "public",
     "title": "DÉBAT PADU VS TABIBIAN ： Va niqu＊er ta mère, salope ! (Le petit manifeste de la classe Baltrou)",
@@ -3106,7 +3579,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - yKL5nnpH7NI - DÉBAT PADU VS TABIBIAN ： Va niqu＊er ta mère, salope ! (Le petit manifeste de la classe Baltrou)"
   },
   {
-    "id": "public-yKL5nnpH7NI-cluster-127",
+    "id": "public-yKL5nnpH7NI-cluster-150",
     "videoId": "yKL5nnpH7NI",
     "source": "public",
     "title": "DÉBAT PADU VS TABIBIAN ： Va niqu＊er ta mère, salope ! (Le petit manifeste de la classe Baltrou)",
@@ -3144,7 +3617,7 @@ window.TEDDYSCAN_DATA = [
     "obsidianTranscriptNote": "Public - yKL5nnpH7NI - DÉBAT PADU VS TABIBIAN ： Va niqu＊er ta mère, salope ! (Le petit manifeste de la classe Baltrou)"
   },
   {
-    "id": "public-yKL5nnpH7NI-cluster-128",
+    "id": "public-yKL5nnpH7NI-cluster-151",
     "videoId": "yKL5nnpH7NI",
     "source": "public",
     "title": "DÉBAT PADU VS TABIBIAN ： Va niqu＊er ta mère, salope ! (Le petit manifeste de la classe Baltrou)",

@@ -1,6 +1,7 @@
 param(
   [string]$LinksPath = "patreon_links\video_links.txt",
   [string]$CookiesPath = "$env:USERPROFILE\Downloads\youtube_cookies.txt",
+  [string]$CutoffDate = "",
   [int]$DelaySeconds = 15
 )
 
@@ -8,8 +9,17 @@ $ErrorActionPreference = "Continue"
 
 $OutDir = Join-Path $env:USERPROFILE "Documents\Transcripts\Patreon"
 $null = New-Item -ItemType Directory -Force -Path $OutDir
-$archive = Join-Path $OutDir "downloaded_ids_fr_orig.txt"
-$logFile = Join-Path $OutDir "run_log.txt"
+$RootDir = Join-Path $env:USERPROFILE "Documents\Transcripts"
+$archive = Join-Path $RootDir "downloaded_ids_fr_orig.txt"
+$logFile = Join-Path $RootDir "run_log.txt"
+
+if (-not $CutoffDate) {
+  if (Test-Path $logFile) {
+    $CutoffDate = (Get-Item $logFile).LastWriteTime.ToString("yyyyMMdd")
+  } else {
+    $CutoffDate = "19000101"
+  }
+}
 
 if (!(Test-Path $LinksPath)) {
   Write-Error "Liste de liens introuvable: $LinksPath"
@@ -31,7 +41,7 @@ if (-not $urls -or $urls.Count -eq 0) {
   exit 1
 }
 
-"[$(Get-Date -Format s)] Start Patreon transcript run: $($urls.Count) urls" | Out-File -FilePath $logFile -Append -Encoding utf8
+"[$(Get-Date -Format s)] Start Patreon transcript run: $($urls.Count) urls; CutoffDate=$CutoffDate" | Out-File -FilePath $logFile -Append -Encoding utf8
 
 for ($i = 0; $i -lt $urls.Count; $i++) {
   $url = $urls[$i]
@@ -42,6 +52,7 @@ for ($i = 0; $i -lt $urls.Count; $i++) {
   py -m yt_dlp `
     --skip-download `
     --ignore-no-formats-error `
+    --dateafter "$CutoffDate" `
     --write-sub --write-auto-sub `
     --sub-langs "fr-orig" `
     --sub-format srt `

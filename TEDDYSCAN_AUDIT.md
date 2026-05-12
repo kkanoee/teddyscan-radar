@@ -1,20 +1,20 @@
 # TeddyScan Audit
 
-Generated: 2026-04-27T15:00:54.415Z
-Source dataset: 2026-04-27T14:50:04.839Z
+Generated: 2026-05-12T14:48:35.063Z
+Source dataset: 2026-05-12T14:46:26.328Z
 
-Records audited: 146
-Clusters detected: 130
-Keep: 30
-Expand: 98
-Merge: 16
-Drop: 2
+Records audited: 175
+Clusters detected: 153
+Keep: 34
+Expand: 116
+Merge: 22
+Drop: 3
 
-Predictions: 92
-Retrospectives: 7
-Meta scans: 44
-Uncertain: 1
-Negated: 2
+Predictions: 104
+Retrospectives: 11
+Meta scans: 55
+Uncertain: 2
+Negated: 3
 
 | Status | Type | Video | Timecode | Cluster | Flags | Topic | Prediction |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -29,141 +29,170 @@ Negated: 2
 | expand | meta | patreon:2G3jmxJF2OA | 17:17 | patreon-2G3jmxJF2OA-cluster-8 | retrospective_scan, meta_scan, weak_prediction | cuit dans le domaine de l'IA | Ironiquement, je vous avais dit si j'ai Teddy scan et c'est vous qui l'avez dit aussi la physique quantique, je... |
 | expand | meta | patreon:2G3jmxJF2OA | 17:38 | patreon-2G3jmxJF2OA-cluster-9 | retrospective_scan, meta_scan, quote_too_short | de la résolution de comment faire en sorte qu'une ait un cuit. | de la résolution de comment faire en sorte qu'une ait un cuit. |
 | keep | prediction | patreon:2G3jmxJF2OA | 57:25 | patreon-2G3jmxJF2OA-cluster-10 |  | l'économie américaine et la Fed | Ah ouais, c'est vendredi là pour Halloween. |
-| expand | meta | patreon:4hREqoL-d0I | 07:05 | patreon-4hREqoL-d0I-cluster-11 | meta_scan, quote_too_short | Tu vas chier contre quelques murs pour obtenir de nouveaux droits. | Tu vas chier contre quelques murs pour obtenir de nouveaux droits. |
-| expand | meta | patreon:5h8THMZzRk4 | 2:27:33 | patreon-5h8THMZzRk4-cluster-12 | meta_scan, quote_too_short, weak_prediction | voilà donc elle payait pas les courses merciallez fais les cœurs là fais les... | tiscan |
-| keep | prediction | patreon:5h8THMZzRk4 | 2:35:46 | patreon-5h8THMZzRk4-cluster-13 |  | ça qu'on arrive à s'entendre voilà il y a pas besoin d'un Tvont se... | ça qu'on arrive à s'entendre voilà il y a pas besoin d'un T scan vont se nourrir avec des produits... |
-| expand | prediction | patreon:8ghLqhyzVtg | 1:15:33 | patreon-8ghLqhyzVtg-cluster-14 | weak_prediction | que c'est vrai qu'on me dit tu sais quand on me dit il a... | que c'est vrai qu'on me dit tu sais quand on me dit il a rien compris Ty avec son TD... |
-| expand | prediction | patreon:8K2Qpd4oTpo | 40:40 | patreon-8K2Qpd4oTpo-cluster-15 | weak_prediction | Bon ensuite donc [raclement de gorge] la fille de Malcom elle est très intelligente,... | mon final c'est que je vais vous expliquer le plan marketing parce que moi j'ai un té scan là-dessus. |
-| expand | meta | patreon:8K2Qpd4oTpo | 1:26:18 | patreon-8K2Qpd4oTpo-cluster-16 | meta_scan, weak_prediction | Après, ça dépendra aussi du pogon que ça rapporte. | hein, c'est de c'est comme si vous regardiez un film de 2h et puis moi, je garde mon TD scan... |
-| keep | prediction | patreon:Auil7lDmDgw | 1:16:58 | patreon-Auil7lDmDgw-cluster-17 |  | Kick dit qu'il va engager une autre équipe de modération et bon bah ils... | Kick dit qu'il va engager une autre équipe de modération et bon bah ils vont devenir Twitch quoi. |
-| expand | meta | patreon:BOkxceq0Ex0 | 40:11 | patreon-BOkxceq0Ex0-cluster-18 | meta_scan, weak_prediction, no_future_hint_in_expanded_context | je crois que on l'a mis dans 4500 € net les l'économie de l'art... | Et au détour, j'avais fait un tiscan mais qui est pas difficile. |
-| expand | prediction | patreon:BOkxceq0Ex0 | 49:16 | patreon-BOkxceq0Ex0-cluster-19 | quote_too_short, no_future_hint_in_expanded_context | Mais bon, elle est elle est animée, c'est bien. | Quelles sont mes intentions? |
-| expand | prediction | patreon:C1ycvGtNXlA | 2:45:41 | patreon-C1ycvGtNXlA-cluster-20 | weak_prediction | fait rien hein en bande de miliciensam voilà merci [ __ ] milicien gamine... | gamine gazage qui ne fait rien TD scan |
-| expand | meta | patreon:cjG3_hZN8No | 13:16 | patreon-cjG3_hZN8No-cluster-21 | meta_scan | Je sais pas lesquels là pour le coup, mais euh là c'est les scadres... | parle maintenant et ça se trouve en fait le CNC va devoir euh Ouais. |
-| expand | meta | patreon:E4dcL5q48pM | 18:37 | patreon-E4dcL5q48pM-cluster-22 | meta_scan, weak_prediction | disant que il a jeté le projet Dodge à la poubelle. | poubelle. Tiscan. Donc à tous les |
-| expand | prediction | patreon:GlOERuub9ck | 11:43 | patreon-GlOERuub9ck-cluster-23 | weak_prediction | inédits à vous sortir je veux dire sur le plan réflexion vous allez encore... | avoir du TD scan je pense parce que je |
-| expand | prediction | patreon:GlOERuub9ck | 1:23:30 | patreon-GlOERuub9ck-cluster-24 | weak_prediction | ce qui est énorme là-dedans c'est que par contre j'ai mis du temps à... | mon tiscan pour arrêter pour comprendre |
-| expand | prediction | patreon:GlOERuub9ck | 2:51:10 | patreon-GlOERuub9ck-cluster-25 | duplicate_cluster, weak_prediction, no_future_hint_in_expanded_context | QR code là ok alors les 100 ou les 200 je sais plus un... | l'intégralité des mecs tiens je scanne |
-| merge | prediction | patreon:GlOERuub9ck | 2:51:12 | patreon-GlOERuub9ck-cluster-25 | duplicate_cluster, weak_prediction, no_future_hint_in_expanded_context | QR code là ok alors les 100 ou les 200 je sais plus un... | le le TD scan du du QR code là ok alors |
-| expand | prediction | patreon:H8OwLShXVyA | 1:52:11 | patreon-H8OwLShXVyA-cluster-26 | quote_too_short, weak_prediction, no_future_hint_in_expanded_context | Les complotistes se sont parce que elle s elle s'est opposé à Trump à... | monde. Voilà. Tiscan tcan. Les |
-| keep | prediction | patreon:H8OwLShXVyA | 2:04:46 | patreon-H8OwLShXVyA-cluster-27 |  | Voilà, son prochain livre, c'est comment l'ange gardien m'a | Et c'est vrai, il va vraiment écrire ça. |
-| expand | meta | patreon:H8OwLShXVyA | 4:10:39 | patreon-H8OwLShXVyA-cluster-28 | meta_scan | Ah mais donc en fait il est sincère donc c'est bien ce que je... | Td scan 2008 la France n'aurait il y a que native goal [ __ ] On va arrêter le live. |
-| expand | prediction | patreon:H8OwLShXVyA | 4:17:58 | patreon-H8OwLShXVyA-cluster-29 | weak_prediction, no_future_hint_in_expanded_context | Par exemple, la poll Ah, ils ont commencé à acheter de l'or. | Ça y est, tiscan. [ __ ] on connaît le |
-| keep | prediction | patreon:igybgPPCWgQ | 16:46 | patreon-igybgPPCWgQ-cluster-30 |  | dans 1 heure, je crois qu'il va y avoir un problème là avec ça. | dans 1 heure, je crois qu'il va y avoir un problème là avec ça. |
-| expand | prediction | patreon:igybgPPCWgQ | 1:16:08 | patreon-igybgPPCWgQ-cluster-31 | weak_prediction, no_future_hint_in_expanded_context | Euh si tu veux un indicateur de classe moyenisation de la de la banlieu... | tiscan. Euh si tu veux un indicateur de |
-| expand | prediction | patreon:igybgPPCWgQ | 2:09:36 | patreon-igybgPPCWgQ-cluster-32 | weak_prediction, no_future_hint_in_expanded_context | peu le serpent qui se mort la queue et donc il y a quand... | équilibre. J'ai calé mon Tiscan, il a |
-| keep | prediction | patreon:igybgPPCWgQ | 2:34:06 | patreon-igybgPPCWgQ-cluster-33 |  | le communisme du mec de Maxime mobiliser le patrimoine des vieux bourgeois du Figaro... | Il l'a dit discret. |
-| keep | prediction | patreon:KKUhXGwHAm4 | 1:16:17 | patreon-KKUhXGwHAm4-cluster-34 |  | Je vous fais un petit TDCAN pour l'écologie. | On va utiliser du papier recyclé qui brûle. |
-| expand | prediction | patreon:KKUhXGwHAm4 | 2:05:18 | patreon-KKUhXGwHAm4-cluster-35 | no_future_hint_in_expanded_context | y a dans ma liste, mais il y a des trucs. | Tiens, je vais vous mettre ça tiens |
-| expand | prediction | patreon:KNdV3kg8L1I | 50:37 | patreon-KNdV3kg8L1I-cluster-36 | no_future_hint_in_expanded_context | Euh très tôt, tu avais voulu m'inviter. | Euh très tôt, tu avais voulu m'inviter. |
-| expand | prediction | patreon:KNdV3kg8L1I | 1:05:22 | patreon-KNdV3kg8L1I-cluster-37 | weak_prediction, no_future_hint_in_expanded_context | surtout si pour contrer tout et surtout si c'est menaçant mais dans le doute... | on Ouais. Non mais là oui les TD scan. |
-| expand | meta | patreon:L5dX2EG9l3w | 53:36 | patreon-L5dX2EG9l3w-cluster-38 | meta_scan, quote_too_short, weak_prediction | c'est le sketch que j'ai fait au début. | 95 ans - 3 mois. |
-| expand | prediction | patreon:L8l3D7jjkYc | 11:45 | patreon-L8l3D7jjkYc-cluster-39 | duplicate_cluster, weak_prediction | Alors pour moi c'est forcément Israël. | Le Teddy scan 2 ans d'âge. Teddy Lorenzo |
-| merge | prediction | patreon:L8l3D7jjkYc | 11:48 | patreon-L8l3D7jjkYc-cluster-39 | duplicate_cluster, quote_too_short, weak_prediction | Alors pour moi c'est forcément Israël. | Teddy Lorenzo scan hein. |
-| merge | prediction | patreon:L8l3D7jjkYc | 11:50 | patreon-L8l3D7jjkYc-cluster-39 | duplicate_cluster | Alors pour moi c'est forcément Israël. | Donc euh Trump c'est un génie, vous allez voir, il va tout [ __ ] G |
-| keep | prediction | patreon:NDkdK5VSyxE | 1:27:47 | patreon-NDkdK5VSyxE-cluster-40 |  | l'adresse de cette fille, je vais la poster et et donc tu te retrouves... | l'adresse de cette fille, je vais la poster et et donc tu te retrouves avec la part du futur. |
-| expand | prediction | patreon:NGue00dxAN0 | 23:43 | patreon-NGue00dxAN0-cluster-41 | quote_too_short | Ce qui veut dire qu'aujourd'hui vous | Ce qui veut dire qu'aujourd'hui vous |
-| expand | prediction | patreon:NGue00dxAN0 | 40:16 | patreon-NGue00dxAN0-cluster-42 | weak_prediction | Mais c'est pour ça pour ça qu'on peut rien dire. | Teddy scan de Teddy en rou libre. Cet |
-| keep | prediction | patreon:nXxiKQzEzMU | 1:46:02 | patreon-nXxiKQzEzMU-cluster-43 |  | Euh donc il y a pas de problème, on va pas résoudre le problème... | Euh donc il y a pas de problème, on va pas résoudre le problème mais on emploie encore des [... |
-| expand | prediction | patreon:P0zY9msTG7A | 25:21 | patreon-P0zY9msTG7A-cluster-44 | weak_prediction | euh, attendez, je vais vous le chercher | Ce qui où il me dit ton tiscan, il me l'a envoyé sur euh, attendez, je vais vous le chercher. |
-| expand | prediction | patreon:PEhivdf5Aaw | 2:01:34 | patreon-PEhivdf5Aaw-cluster-45 | weak_prediction, no_future_hint_in_expanded_context | Voilà vous êtes donc noir intuitif. | intuitif. On y vient le Tiscan. |
-| expand | meta | patreon:PfyN1clYkdc | 29:15 | patreon-PfyN1clYkdc-cluster-46 | meta_scan | mécanique quantique, il va falloir regarder tout le live sur la quantique. | mécanique quantique, il va falloir regarder tout le live sur la quantique. |
-| drop | negated | patreon:pjA7XwxfVvs | 1:32:01 | patreon-pjA7XwxfVvs-cluster-47 | negated_scan, no_future_hint_in_expanded_context | parce que moi je les sens pas particulier. | parce que moi je les sens pas particulier. |
-| keep | prediction | patreon:pQSQZXTJ_D8 | 41:42 | patreon-pQSQZXTJ_D8-cluster-48 |  | Je vais pas dire que c'est c'est qu'une seule étude mais donc il y... | avant la récolte, soit en période de pauvreté. |
-| expand | meta | patreon:pTrevIm0cyk | 06:20 | patreon-pTrevIm0cyk-cluster-49 | meta_scan | Ça va ça va même malade je tiens le je tiens la barre mais... | Ça va ça va même malade je tiens le je tiens la barre mais c'est grâce à vous |
-| keep | prediction | patreon:pTrevIm0cyk | 14:59 | patreon-pTrevIm0cyk-cluster-50 |  | Je vous garantis que dans 5 ans, il y aura une CGT des auto-entrepreneurs... | Je vous garantis que dans 5 ans, il y aura une CGT des auto-entrepreneurs ou l'équivalent parce que Dani Eras... |
-| expand | prediction | patreon:pTrevIm0cyk | 2:05:22 | patreon-pTrevIm0cyk-cluster-51 | quote_too_short | Ah c'est exactement ce que j'avais dit. | Ah c'est exactement ce que j'avais dit. |
-| expand | prediction | patreon:pTrevIm0cyk | 3:17:19 | patreon-pTrevIm0cyk-cluster-52 | weak_prediction | La pensée magique en fait le carré magique de quoi? | mais il y a tout là. Tiscan de tesis |
-| expand | prediction | patreon:pTrevIm0cyk | 3:26:34 | patreon-pTrevIm0cyk-cluster-53 | quote_too_short | Alors, qu'est-ce que c'est la subisarité? | Alors, qu'est-ce que c'est la subisarité? |
-| expand | meta | patreon:pTrevIm0cyk | 3:28:14 | patreon-pTrevIm0cyk-cluster-54 | meta_scan, duplicate_cluster | Vas-y, je tourne autour du du pot, j'arrive. | Vas-y, je tourne autour du du pot, j'arrive. |
-| merge | meta | patreon:pTrevIm0cyk | 3:28:17 | patreon-pTrevIm0cyk-cluster-54 | meta_scan, duplicate_cluster | Je veux pas un commentaire qui est contre moi sur cette tracte, | On va bientôt arrêter le live. |
-| expand | meta | patreon:pTrevIm0cyk | 3:29:41 | patreon-pTrevIm0cyk-cluster-55 | meta_scan, weak_prediction, no_future_hint_in_expanded_context | Et ça fait techno parce que laarité de surcroix a été détournée dans le... | philosophie. Tis scan tiscan tiscan t |
-| expand | prediction | patreon:pVnQBjGXX4o | 37:37 | patreon-pVnQBjGXX4o-cluster-56 | weak_prediction, no_future_hint_in_expanded_context | Il s'agira de reconstruire des institutions soudées. | Donc là, je vous avais té scan le gauchisme hein, il faut investir, il faut donner de l'argent à moi... |
-| keep | prediction | patreon:q6lCJUjlcQs | 1:04:15 | patreon-q6lCJUjlcQs-cluster-57 |  | avec un bonus quoi. | Allez, on démarre depuis toute petite et on démarre à la base. |
-| expand | meta | patreon:qb9IoQbsYcI | 01:48 | patreon-qb9IoQbsYcI-cluster-58 | meta_scan | le service public avec Macron qui veut tout remplaced | Et donc lui qui était en train d'expliquer aux vieilles chattes, |
-| expand | prediction | patreon:qb9IoQbsYcI | 05:02 | patreon-qb9IoQbsYcI-cluster-59 | weak_prediction, no_future_hint_in_expanded_context | Et elle a parlé de ceux qui ont att prophète toi moi je je... | Ouais. |
-| expand | prediction | patreon:qq18fE-7dNc | 31:50 | patreon-qq18fE-7dNc-cluster-60 | no_future_hint_in_expanded_context | J'ai dit à Megan alors c'est terrible. | J'ai dit à Megan alors c'est terrible. |
-| expand | meta | patreon:RneHZhQZ-yc | 31:58 | patreon-RneHZhQZ-yc-cluster-61 | meta_scan, weak_prediction | Même si tu même si je suis une femme | Ah mais c'est marrant. Je t'ai té scan. |
-| expand | prediction | patreon:RneHZhQZ-yc | 1:13:53 | patreon-RneHZhQZ-yc-cluster-62 | duplicate_cluster, quote_too_short | Oh là là là là là là là là là là. | Oh là là là là là là là là là là. |
-| merge | prediction | patreon:RneHZhQZ-yc | 1:14:01 | patreon-RneHZhQZ-yc-cluster-62 | duplicate_cluster | Ghetto souris [ __ ] c'est monté souris pour les pour les pour le... | Ah celle-là le ghetto souris. |
-| expand | retrospective | patreon:tf-I-cG7o5I | 07:58 | patreon-tf-I-cG7o5I-cluster-63 | retrospective_scan, quote_too_short, weak_prediction | On va me dire "On te l'avait dit?" Oui, vous avez tout dit. | faut que je sache qu' un mensonge." Et en fait, j'ai Tiscan l'origine du mensonge. |
-| expand | prediction | patreon:tf-I-cG7o5I | 36:25 | patreon-tf-I-cG7o5I-cluster-64 | weak_prediction | J'ai pas un patron pour me payer avec un local des merdes comme ça. | c'est exactement du Teddy scan. Je suis |
-| expand | prediction | patreon:TvvPD9rFqSY | 1:13:54 | patreon-TvvPD9rFqSY-cluster-65 | weak_prediction | Moi, je suis plutôt content pour eux, je vous l'avoue. | l'avoue. Tiscan. Bah là, en l'occurrence |
-| expand | prediction | patreon:Uw6mw5EBIuQ | 06:31 | patreon-Uw6mw5EBIuQ-cluster-66 | duplicate_cluster, weak_topic, weak_prediction | Contexte à confirmer | tiscan. Je veux dire d'accord, j'y |
-| merge | prediction | patreon:Uw6mw5EBIuQ | 06:35 | patreon-Uw6mw5EBIuQ-cluster-66 | duplicate_cluster, weak_prediction | [rires] 2025 c'était l'année du téliscade et des meilleurs et 2026 c'est l'année des | Mentaliste. |
-| keep | prediction | patreon:vdKFrTNwcUQ | 2:05:44 | patreon-vdKFrTNwcUQ-cluster-67 |  | le gouvernement le dit un mois, 2 mois après. | Donc Gabriel Atal ou le gouvernement ou les pros de la communication, si vous êtes abonné |
-| expand | prediction | patreon:vQXviJGyvmE | 1:54:32 | patreon-vQXviJGyvmE-cluster-68 | quote_too_short, no_future_hint_in_expanded_context | Quand j'avais dit, ils viendront chercher votre richesse chez vous et si vous en... | Quand j'avais dit, ils viendront chercher votre richesse chez vous et si vous en avez pas chez vous, |
-| expand | prediction | patreon:vQXviJGyvmE | 1:54:59 | patreon-vQXviJGyvmE-cluster-69 | duplicate_cluster, weak_prediction | Combien d' combien d' combien d'années d'âge? | Tiscan. Combien d' combien d' combien |
-| merge | prediction | patreon:vQXviJGyvmE | 1:55:11 | patreon-vQXviJGyvmE-cluster-69 | duplicate_cluster, quote_too_short | C'était déjà les commentateurs de Raptor qui me disaient que j'allais trop loin, je... | C'était déjà les commentateurs de Raptor qui me disaient que j'allais trop loin, je racontais n'importe |
-| expand | meta | patreon:VvAhbkkKKT4 | 24:32 | patreon-VvAhbkkKKT4-cluster-70 | meta_scan, weak_prediction | Quelle connerie tu peux raconter sur la musique classique, tu n'y connais | Et le reste, il y a eu un canard et c'est exactement, je l'avais té scan, il y a un... |
-| expand | meta | patreon:WFhtQ8KHZRI | 10:45 | patreon-WFhtQ8KHZRI-cluster-71 | meta_scan, weak_prediction | h chîn parce que il y a un membre du patron qui veut pas... | h chîn parce que il y a un membre du patron qui veut pas comprendre que j'ai un TD scan... |
-| keep | prediction | patreon:WFhtQ8KHZRI | 1:22:06 | patreon-WFhtQ8KHZRI-cluster-72 |  | c'est écoute on va pas se mentir je vous ai fait en 2027 de... | c'est écoute on va pas se mentir je vous ai fait le TD scan en 2027 de toute façon il... |
-| expand | meta | patreon:WFhtQ8KHZRI | 3:37:05 | patreon-WFhtQ8KHZRI-cluster-73 | meta_scan, weak_prediction | tiens parce que minou fini de travailler à 18h je vais aller regarder vos... | tiens parce que minou fini de travailler à 18h je vais aller regarder vos Liv en redif alors TD scan... |
-| keep | prediction | patreon:Xp3Cp_tBs5A | 1:03:58 | patreon-Xp3Cp_tBs5A-cluster-74 |  | Il a fait un podcast sur le génération 2 sur C. | Je pense que ça va jouer sur l'humanité là. |
-| expand | meta | patreon:yb4K15FVgz4 | 1:56:42 | patreon-yb4K15FVgz4-cluster-75 | meta_scan, no_future_hint_in_expanded_context | Elle me répond la meuf, elle prend un exemple elle-même, elle est l'exemple | C'était contenu dans ma vidéo de base quoi. |
-| expand | prediction | patreon:ycXJl_9z1xo | 1:44:54 | patreon-ycXJl_9z1xo-cluster-76 | quote_too_short | Est-ce que l'Angleterre est dans la merde à cause du Brexit ou malgré le... | Nous on va faire Blues et Kazoi. |
-| expand | prediction | patreon:yHGIqy6INjQ | 1:09:52 | patreon-yHGIqy6INjQ-cluster-77 | quote_too_short | c'est parce que tu es jaloux. | Alors, on va donc regarder mon Tiscan 3 ans après. |
-| expand | prediction | patreon:yHGIqy6INjQ | 1:38:52 | patreon-yHGIqy6INjQ-cluster-78 | quote_too_short | Mais au moins alors tu vois, il a la main sous la sous la... | Mais au moins alors tu vois, il a la main sous la sous la sous la table, il est filmé... |
-| expand | meta | patreon:yHGIqy6INjQ | 2:16:51 | patreon-yHGIqy6INjQ-cluster-79 | meta_scan | J'avais dit on ne met pas en juste position la télé qui est sérieuse | J'avais dit on ne met pas en juste position la télé qui est sérieuse |
-| keep | prediction | patreon:yHGIqy6INjQ | 2:20:31 | patreon-yHGIqy6INjQ-cluster-80 |  | Sachant que c'est un scandale mondial, je le précise parce | de Kick qui dit qu'ils vont payer une autre équipe de modération et ça va devenir Teddy Scan la plateforme... |
-| expand | prediction | patreon:yHGIqy6INjQ | 3:31:08 | patreon-yHGIqy6INjQ-cluster-81 | weak_prediction | Les pro Nicolas, les rachats de Nicolas. | Enfin oui bah oui Teddy Scan mais enfin tes dit ça n'a aucun rapport la politique et Jean Portmanov enfin... |
-| expand | prediction | patreon:yHGIqy6INjQ | 3:38:48 | patreon-yHGIqy6INjQ-cluster-82 | quote_too_short, no_future_hint_in_expanded_context | Ah non c'est pas comme nous. | Bah c'est comme nous. |
-| expand | prediction | patreon:ykkjgo7rPjY | 1:42:16 | patreon-ykkjgo7rPjY-cluster-83 | quote_too_short | Rabier qui est l'agent de la guestapo qui arrête. | Et pourquoi le mari il est rentré en 45? |
-| expand | prediction | patreon:YQIL7-BO1WE | 1:38:30 | patreon-YQIL7-BO1WE-cluster-84 | quote_too_short, weak_prediction, no_future_hint_in_expanded_context | passer à la télé pour euh discuter avec des jeunes filles, enfin des jeunes... | Tiscan. Qu'est-ce qui t'intéresse? |
-| expand | prediction | patreon:zYF8rbBMarg | 26:35 | patreon-zYF8rbBMarg-cluster-85 | quote_too_short, no_future_hint_in_expanded_context | bio permaculture les petits paniers le git et le couvert. | bio permaculture les petits paniers le git et le couvert. |
-| expand | meta | public:_O41GD811Nc | 2:28:41 | public-_O41GD811Nc-cluster-86 | meta_scan | la société en devenant adulte et comment pour y arriver ite élumératif regardez ça... | la société en devenant adulte et comment pour y arriver ite élumératif regardez ça c'est tiscan c'est ce soir rien... |
-| expand | meta | public:_O41GD811Nc | 2:37:47 | public-_O41GD811Nc-cluster-87 | meta_scan | qu'est-ce qu'il y a d'expérimental est-ce que j'ai activé secret avec la connexion démoniaque... | qu'est-ce qu'il y a d'expérimental est-ce que j'ai activé un TD scan secret avec la connexion démoniaque qui va faire... |
-| expand | prediction | public:3fBp8m61nuM | 1:09:09 | public-3fBp8m61nuM-cluster-88 | weak_prediction, no_future_hint_in_expanded_context | Bon bah s'il lui manque une couille, c'est bon | c'est tout le temps ça. Oups. Tiscan. |
-| expand | meta | public:4IudQ6CpQSg | 04:27 | public-4IudQ6CpQSg-cluster-89 | meta_scan, weak_prediction | Je dis c'est typiquement le genre de mec à dire ça. | TD scan. Je dis c'est typiquement le |
-| expand | prediction | public:4IudQ6CpQSg | 53:59 | public-4IudQ6CpQSg-cluster-90 | no_future_hint_in_expanded_context | C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique. | C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique. |
-| expand | uncertain | public:79LBGulGlgk | 1:11:35 | public-79LBGulGlgk-cluster-91 | uncertain_scan | Les amis, les collectionneurs, c'est une | Mais il y a une histoire là-dedans. |
-| expand | prediction | public:7HdOQgi14OQ | 42:43 | public-7HdOQgi14OQ-cluster-92 | duplicate_cluster, weak_topic, weak_prediction | Papacito, le petit TD scan pour les plus anciens d'entre vous | Bon. Ah, par contre le petit scan sur |
-| merge | prediction | public:7HdOQgi14OQ | 42:44 | public-7HdOQgi14OQ-cluster-92 | duplicate_cluster, weak_topic, weak_prediction | Papacito, le petit TD scan pour les plus anciens d'entre vous | Je vous avais pas |
-| merge | prediction | public:7HdOQgi14OQ | 42:47 | public-7HdOQgi14OQ-cluster-92 | duplicate_cluster, weak_topic | Papacito, le petit TD scan pour les plus anciens d'entre vous | Je vous avais pas dit qu'il invviterait à voter un jour |
-| keep | prediction | public:7HdOQgi14OQ | 1:14:25 | public-7HdOQgi14OQ-cluster-93 |  | ressources et le moment où ils vont crever, ils vont juste donner 70 %... | ressources et le moment où ils vont crever, ils vont juste donner 70 % à l'état. |
-| expand | prediction | public:9gft2XP6kM4 | 15:54 | public-9gft2XP6kM4-cluster-94 | weak_prediction | effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais et j'ai... | effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais le tiscan et j'ai trouvé ça vraiment passionnant... |
-| keep | prediction | public:9gft2XP6kM4 | 40:58 | public-9gft2XP6kM4-cluster-95 |  | conclure par il faut cultiver son cynisme. | Vas-y, vas-y, continue. |
-| expand | meta | public:A3e8YCHZbJk | 07:33 | public-A3e8YCHZbJk-cluster-96 | meta_scan, weak_prediction | Là, c'est vraiment pour moi prioritaire et vous saurez à mon avis heinbon, je... | Là, c'est vraiment pour moi prioritaire et vous saurez à mon avis hein Teddy Scan, bon, je préfère le dire... |
-| expand | meta | public:b94lUkiF4F4 | 1:56:39 | public-b94lUkiF4F4-cluster-97 | meta_scan, duplicate_cluster, no_future_hint_in_expanded_context | Euh, la prédiction des réactions chimiques, donc il parle de Greg justement, les capteurs | Bah tu vois, il avait écrit ça avant le début du live. |
-| merge | meta | public:b94lUkiF4F4 | 1:56:57 | public-b94lUkiF4F4-cluster-97 | meta_scan, duplicate_cluster, no_future_hint_in_expanded_context | Alors, et il finit, il conclut par OK mais d'où vient l'engouement des ozo | Du coup, on est complètement d'accord. |
-| expand | meta | public:b94lUkiF4F4 | 2:36:21 | public-b94lUkiF4F4-cluster-98 | meta_scan, duplicate_cluster, quote_too_short | Ils vont regarder des cons et ils vont dire "Ah ouais, non mais en... | Ils vont regarder des cons et ils vont dire "Ah ouais, non mais en fait euh j'ai moi aussi scanné... |
-| merge | meta | public:b94lUkiF4F4 | 2:36:25 | public-b94lUkiF4F4-cluster-98 | meta_scan, duplicate_cluster | Et quoi de mieux que de montrer un vrai abruti pour se donner | Donc il va falloir en faire la démonstration. |
-| expand | prediction | public:b94lUkiF4F4 | 2:59:13 | public-b94lUkiF4F4-cluster-99 | quote_too_short, weak_prediction | Ah bah sur le sur le espèce de flou qui règne autour du mot... | Ah donc j'avais Tiscan la physique quantique. |
-| expand | meta | public:DDYYJSOFsQM | 1:45:55 | public-DDYYJSOFsQM-cluster-100 | meta_scan, weak_prediction, no_future_hint_in_expanded_context | Vous direz "Non, non, c'est toi | J'ai TD scan la [ __ ] de physique quantique et vous ne l'accepterez jamais quand je vais vous le... |
-| expand | meta | public:EpE5Nmfj7n0 | 1:14:22 | public-EpE5Nmfj7n0-cluster-101 | meta_scan, quote_too_short, no_future_hint_in_expanded_context | Trop fort George tu débile et l'autre c'est Teddy Eras ou quoi? | Ah [ __ ] il y en a qui a trouvé. |
-| expand | meta | public:haTX0CyYu-w | 2:55:20 | public-haTX0CyYu-w-cluster-102 | retrospective_scan, meta_scan | Quand on a entendu ça, j'ai dit attention s'il a menacer la ministre de... | Tu m'étonnes que les mecs ils vont se rétracter. |
-| drop | negated | public:i-vZR6k8jeQ | 3:15:45 | public-i-vZR6k8jeQ-cluster-103 | negated_scan, meta_scan, weak_prediction | Ah bah non, mais en fait, il est hyper important. | ça, c'est pas du tout un Tiscan. Là, je |
-| expand | prediction | public:imExgeOedcM | 10:55 | public-imExgeOedcM-cluster-104 | weak_prediction, no_future_hint_in_expanded_context | Alors ça n'est que le premier tour encore une fois, mais la gauche est | Tiscan bairou mer de peau. Bah oui mais |
-| expand | meta | public:kr7ak3UELuU | 1:10:20 | public-kr7ak3UELuU-cluster-105 | retrospective_scan, meta_scan, quote_too_short, weak_prediction, no_future_hint_in_expanded_context | Pour ceux qui savent pas, l'altérité l'altérité philosophie niveau lycée, niveau bac | Il a fait ou [ __ ] Je vous l'avais dit en début de live, c'est le tiscan. |
-| expand | meta | public:kr7ak3UELuU | 1:11:21 | public-kr7ak3UELuU-cluster-106 | meta_scan | Et puis il y a celles et ceux qui commencent à être de | Alors vas-y, on y retourne. |
-| keep | retrospective | public:KUWLS7XGBVk | 33:36 | public-KUWLS7XGBVk-cluster-107 | retrospective_scan | Et donc maintenant c'est la théorie des souverainistes français de dire en lisement enlisement... | Trump est foutu, il va s'en liser. |
-| expand | retrospective | public:OQaGUv__6po | 19:03 | public-OQaGUv__6po-cluster-108 | retrospective_scan, duplicate_cluster, quote_too_short | On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec... | On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec la gauche sécuritaire? |
-| merge | retrospective | public:OQaGUv__6po | 19:06 | public-OQaGUv__6po-cluster-108 | retrospective_scan, duplicate_cluster, weak_prediction | On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec... | tiscan. On me l'a encore dit la semaine |
-| keep | prediction | public:q0JsTp-ILX8 | 19:03 | public-q0JsTp-ILX8-cluster-109 |  | Même quand je foutais des papiers usagers, il les laissait. | Je pense à à Roger qui l'avait jamais par terre. |
-| expand | meta | public:Q7ZhkYuG0u0 | 02:08 | public-Q7ZhkYuG0u0-cluster-110 | retrospective_scan, meta_scan, duplicate_cluster | andages qui arrive | Voilà donc ça c'était petit scan de deux andages qui arrive. |
-| merge | meta | public:Q7ZhkYuG0u0 | 02:14 | public-Q7ZhkYuG0u0-cluster-110 | retrospective_scan, meta_scan, duplicate_cluster | Alors attention hop le petit bouton qui marche pas. | J'espère que ça va les mecs. |
-| keep | retrospective | public:Q7ZhkYuG0u0 | 03:14 | public-Q7ZhkYuG0u0-cluster-111 | retrospective_scan | Il dit "C'est quoi ta notion politique?" Et je dis "lain du capitalisme par... | OK bon bah ça déjà ça va être le premier truc. |
-| expand | prediction | public:Q7ZhkYuG0u0 | 29:57 | public-Q7ZhkYuG0u0-cluster-112 | weak_prediction | Et il y a un gars il me fait j'avais prévu ça 10 ans... | c'est pas fait par là parce que moi je dis bon là quand même vous pouvez faire confiance à mon... |
-| expand | prediction | public:qB8lNSEY2YI | 15:32 | public-qB8lNSEY2YI-cluster-113 | quote_too_short | Les les gros débiles mentaux en France aiment les élections parce qu'ils | il dit "J'ai tellement hâte, je vous mets plus fort de 2027, moi je vous dis juste tiscan c'est il... |
-| keep | retrospective | public:quG4bGhFGm8 | 11:00 | public-quG4bGhFGm8-cluster-114 | retrospective_scan | Je crois que c'est ça serait potentiellement | François Hollande il songe quasi candidat. |
-| keep | prediction | public:quG4bGhFGm8 | 14:04 | public-quG4bGhFGm8-cluster-115 |  | tous les mecs qui était dans la grande distribution sont à la ramasse, font... | Euh Michel et toir Leclerc, il y songe. |
-| keep | prediction | public:quG4bGhFGm8 | 1:17:35 | public-quG4bGhFGm8-cluster-116 |  | Oui, ben encore une fois 100 % d'accord avec papa ne vous taisez plus. | Il va dire alors je vais vous laisser parler. |
-| expand | meta | public:sMctI1v00PA | 05:26 | public-sMctI1v00PA-cluster-117 | retrospective_scan, meta_scan, weak_prediction | la rivalité Croblanc Avenur or alors j'ai vu qu'ils sont pris le bec à... | Alors oui, j'ai vu dans le chat que tu arrêtais pas de dire et d'autres que j'avais fait un TD... |
-| expand | prediction | public:TPTbWXOiuac | 06:32 | public-TPTbWXOiuac-cluster-118 | weak_prediction | la grande distribution et la future polémique politique | On parle du syndicat, je me moque des syndicats, je vous fais un té scan sur la grande distribution et... |
-| expand | meta | public:uF__qWIJxxA | 47:55 | public-uF__qWIJxxA-cluster-119 | meta_scan, quote_too_short, weak_prediction | Ma première impression crois est en train de se vérifier là. | Et oui. |
-| expand | meta | public:UpKCV7GswSA | 09:33 | public-UpKCV7GswSA-cluster-120 | meta_scan, weak_prediction | Je suis pas sûr mais je sens que le les chiffres et les infos... | Je sens le TD scan. Je suis pas sûr mais |
-| keep | prediction | public:UpKCV7GswSA | 24:59 | public-UpKCV7GswSA-cluster-121 |  | Je sens que on va renouveler le lexique mais finalement ce sera juste des... | Ils vont dire il est beau et il est en place ou quelque chose comme ça. |
-| expand | prediction | public:VhtUwygM-Fs | 12:28 | public-VhtUwygM-Fs-cluster-122 | quote_too_short | Comme ça, c'est réglé, ça peut pas me gêner. | meurent salot." C'est en fait il va je suis sûr qu'il va alors ben c'est mon tiscan en fait. |
-| expand | prediction | public:wLVd92EF1Sc | 13:32 | public-wLVd92EF1Sc-cluster-123 | no_future_hint_in_expanded_context | lavé là." Ah non, mais j'y vais pas finalement. | lavé là." Ah non, mais j'y vais pas finalement. |
-| keep | prediction | public:xb-li2SVJWk | 25:41 | public-xb-li2SVJWk-cluster-124 |  | Quand je vois de plus en plus d'idiots qui ont des propos faciles sur... | Quand je vois de plus en plus d'idiots qui ont des propos faciles sur internet et qui se regroupe |
-| expand | prediction | public:YCQrCdrvx58 | 1:48:21 | public-YCQrCdrvx58-cluster-125 | weak_prediction, no_future_hint_in_expanded_context | Ça y est, ça marche plus à la langue française. | Tiscan. [ __ ] j'ai trouvé. Faites |
-| expand | prediction | public:yKL5nnpH7NI | 5:18:41 | public-yKL5nnpH7NI-cluster-126 | duplicate_cluster, weak_prediction | raison c'est vrai que c'est c'est c'est c'est pertinent là vous avez faitlà vous... | scan là vous avez fait le meilleur |
-| merge | prediction | public:yKL5nnpH7NI | 5:18:43 | public-yKL5nnpH7NI-cluster-126 | duplicate_cluster, weak_topic, weak_prediction | c'est pertinent là vous avez faitlà vous avez fait le meilleur scan ça y... | scan ça y est voilà tu vois avec un peu |
-| merge | prediction | public:yKL5nnpH7NI | 5:18:52 | public-yKL5nnpH7NI-cluster-126 | duplicate_cluster, weak_prediction | développer un cerveau collectif c'est fou hein et du coup vous allez développer le... | développer un cerveau collectif c'est fou hein et du coup vous allez développer le meilleur scan donc oui s taxe... |
-| expand | retrospective | public:yKL5nnpH7NI | 5:50:56 | public-yKL5nnpH7NI-cluster-127 | retrospective_scan, weak_prediction, no_future_hint_in_expanded_context | à l'époque j'étais un peu déçu de ton point de vue sur les gilets... | depuis le tiscan a eu raison c'était |
-| expand | prediction | public:yKL5nnpH7NI | 6:00:24 | public-yKL5nnpH7NI-cluster-128 | weak_prediction, no_future_hint_in_expanded_context | transhistorique pour le coup voilà bah c'est exactement ce que je vous ai dit... | deuxème deuxème TD scan alléluia les |
-| expand | prediction | public:zT8vpxgXkY0 | 1:24:21 | public-zT8vpxgXkY0-cluster-129 | weak_prediction | d'ailleurs au passage il y a toute une part euh j'ai tout un dossier... | d'ailleurs au passage il y a toute une part euh j'ai tout un dossier sur TD scan à propos de... |
-| expand | meta | public:zT8vpxgXkY0 | 3:58:46 | public-zT8vpxgXkY0-cluster-130 | meta_scan, weak_prediction | tout bon donc on pioche direct dans l'épargne c'est encore un peut-être un petit... | c'est encore un petit tiscan peut-être |
+| expand | prediction | patreon:3fBp8m61nuM | 1:09:09 | patreon-3fBp8m61nuM-cluster-11 | weak_prediction, no_future_hint_in_expanded_context | Bon bah s'il lui manque une couille, c'est bon | c'est tout le temps ça. Oups. Tiscan. |
+| expand | meta | patreon:4hREqoL-d0I | 07:05 | patreon-4hREqoL-d0I-cluster-12 | meta_scan, quote_too_short | Tu vas chier contre quelques murs pour obtenir de nouveaux droits. | Tu vas chier contre quelques murs pour obtenir de nouveaux droits. |
+| expand | meta | patreon:4IudQ6CpQSg | 04:27 | patreon-4IudQ6CpQSg-cluster-13 | meta_scan, weak_prediction | Je dis c'est typiquement le genre de mec à dire ça. | TD scan. Je dis c'est typiquement le |
+| expand | prediction | patreon:4IudQ6CpQSg | 53:59 | patreon-4IudQ6CpQSg-cluster-14 | no_future_hint_in_expanded_context | C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique. | C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique. |
+| expand | meta | patreon:5h8THMZzRk4 | 2:27:33 | patreon-5h8THMZzRk4-cluster-15 | meta_scan, quote_too_short, weak_prediction | voilà donc elle payait pas les courses merciallez fais les cœurs là fais les... | tiscan |
+| keep | prediction | patreon:5h8THMZzRk4 | 2:35:46 | patreon-5h8THMZzRk4-cluster-16 |  | ça qu'on arrive à s'entendre voilà il y a pas besoin d'un Tvont se... | ça qu'on arrive à s'entendre voilà il y a pas besoin d'un T scan vont se nourrir avec des produits... |
+| expand | uncertain | patreon:79LBGulGlgk | 1:11:35 | patreon-79LBGulGlgk-cluster-17 | uncertain_scan | Les amis, les collectionneurs, c'est une | Mais il y a une histoire là-dedans. |
+| expand | prediction | patreon:7HdOQgi14OQ | 42:43 | patreon-7HdOQgi14OQ-cluster-18 | duplicate_cluster, weak_topic, weak_prediction | Papacito, le petit TD scan pour les plus anciens d'entre vous | Bon. Ah, par contre le petit scan sur |
+| merge | prediction | patreon:7HdOQgi14OQ | 42:44 | patreon-7HdOQgi14OQ-cluster-18 | duplicate_cluster, weak_topic, weak_prediction | Papacito, le petit TD scan pour les plus anciens d'entre vous | Je vous avais pas |
+| merge | prediction | patreon:7HdOQgi14OQ | 42:47 | patreon-7HdOQgi14OQ-cluster-18 | duplicate_cluster, weak_topic | Papacito, le petit TD scan pour les plus anciens d'entre vous | Je vous avais pas dit qu'il invviterait à voter un jour |
+| keep | prediction | patreon:7HdOQgi14OQ | 1:14:25 | patreon-7HdOQgi14OQ-cluster-19 |  | ressources et le moment où ils vont crever, ils vont juste donner 70 %... | ressources et le moment où ils vont crever, ils vont juste donner 70 % à l'état. |
+| expand | prediction | patreon:8ghLqhyzVtg | 1:15:33 | patreon-8ghLqhyzVtg-cluster-20 | weak_prediction | que c'est vrai qu'on me dit tu sais quand on me dit il a... | que c'est vrai qu'on me dit tu sais quand on me dit il a rien compris Ty avec son TD... |
+| expand | prediction | patreon:8K2Qpd4oTpo | 40:40 | patreon-8K2Qpd4oTpo-cluster-21 | weak_prediction | Bon ensuite donc [raclement de gorge] la fille de Malcom elle est très intelligente,... | mon final c'est que je vais vous expliquer le plan marketing parce que moi j'ai un té scan là-dessus. |
+| expand | meta | patreon:8K2Qpd4oTpo | 1:26:18 | patreon-8K2Qpd4oTpo-cluster-22 | meta_scan, weak_prediction | Après, ça dépendra aussi du pogon que ça rapporte. | hein, c'est de c'est comme si vous regardiez un film de 2h et puis moi, je garde mon TD scan... |
+| expand | prediction | patreon:9gft2XP6kM4 | 15:54 | patreon-9gft2XP6kM4-cluster-23 | weak_prediction | effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais et j'ai... | effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais le tiscan et j'ai trouvé ça vraiment passionnant... |
+| keep | prediction | patreon:9gft2XP6kM4 | 40:58 | patreon-9gft2XP6kM4-cluster-24 |  | conclure par il faut cultiver son cynisme. | Vas-y, vas-y, continue. |
+| expand | meta | patreon:A3e8YCHZbJk | 07:33 | patreon-A3e8YCHZbJk-cluster-25 | meta_scan, weak_prediction | Là, c'est vraiment pour moi prioritaire et vous saurez à mon avis heinbon, je... | Là, c'est vraiment pour moi prioritaire et vous saurez à mon avis hein Teddy Scan, bon, je préfère le dire... |
+| keep | prediction | patreon:Auil7lDmDgw | 1:16:58 | patreon-Auil7lDmDgw-cluster-26 |  | Kick dit qu'il va engager une autre équipe de modération et bon bah ils... | Kick dit qu'il va engager une autre équipe de modération et bon bah ils vont devenir Twitch quoi. |
+| expand | meta | patreon:BOkxceq0Ex0 | 40:11 | patreon-BOkxceq0Ex0-cluster-27 | meta_scan, weak_prediction, no_future_hint_in_expanded_context | je crois que on l'a mis dans 4500 € net les l'économie de l'art... | Et au détour, j'avais fait un tiscan mais qui est pas difficile. |
+| expand | prediction | patreon:BOkxceq0Ex0 | 49:16 | patreon-BOkxceq0Ex0-cluster-28 | quote_too_short, no_future_hint_in_expanded_context | Mais bon, elle est elle est animée, c'est bien. | Quelles sont mes intentions? |
+| expand | prediction | patreon:C1ycvGtNXlA | 2:45:41 | patreon-C1ycvGtNXlA-cluster-29 | weak_prediction | fait rien hein en bande de miliciensam voilà merci [ __ ] milicien gamine... | gamine gazage qui ne fait rien TD scan |
+| expand | meta | patreon:cjG3_hZN8No | 13:16 | patreon-cjG3_hZN8No-cluster-30 | meta_scan | Je sais pas lesquels là pour le coup, mais euh là c'est les scadres... | parle maintenant et ça se trouve en fait le CNC va devoir euh Ouais. |
+| expand | meta | patreon:E4dcL5q48pM | 18:37 | patreon-E4dcL5q48pM-cluster-31 | meta_scan, weak_prediction | disant que il a jeté le projet Dodge à la poubelle. | poubelle. Tiscan. Donc à tous les |
+| expand | meta | patreon:EpE5Nmfj7n0 | 1:14:22 | patreon-EpE5Nmfj7n0-cluster-32 | meta_scan, quote_too_short, no_future_hint_in_expanded_context | Trop fort George tu débile et l'autre c'est Teddy Eras ou quoi? | Ah [ __ ] il y en a qui a trouvé. |
+| expand | prediction | patreon:GlOERuub9ck | 11:43 | patreon-GlOERuub9ck-cluster-33 | weak_prediction | inédits à vous sortir je veux dire sur le plan réflexion vous allez encore... | avoir du TD scan je pense parce que je |
+| expand | prediction | patreon:GlOERuub9ck | 1:23:30 | patreon-GlOERuub9ck-cluster-34 | weak_prediction | ce qui est énorme là-dedans c'est que par contre j'ai mis du temps à... | mon tiscan pour arrêter pour comprendre |
+| expand | prediction | patreon:GlOERuub9ck | 2:51:10 | patreon-GlOERuub9ck-cluster-35 | duplicate_cluster, weak_prediction, no_future_hint_in_expanded_context | QR code là ok alors les 100 ou les 200 je sais plus un... | l'intégralité des mecs tiens je scanne |
+| merge | prediction | patreon:GlOERuub9ck | 2:51:12 | patreon-GlOERuub9ck-cluster-35 | duplicate_cluster, weak_prediction, no_future_hint_in_expanded_context | QR code là ok alors les 100 ou les 200 je sais plus un... | le le TD scan du du QR code là ok alors |
+| expand | prediction | patreon:H8OwLShXVyA | 1:52:11 | patreon-H8OwLShXVyA-cluster-36 | quote_too_short, weak_prediction, no_future_hint_in_expanded_context | Les complotistes se sont parce que elle s elle s'est opposé à Trump à... | monde. Voilà. Tiscan tcan. Les |
+| keep | prediction | patreon:H8OwLShXVyA | 2:04:46 | patreon-H8OwLShXVyA-cluster-37 |  | Voilà, son prochain livre, c'est comment l'ange gardien m'a | Et c'est vrai, il va vraiment écrire ça. |
+| expand | meta | patreon:H8OwLShXVyA | 4:10:39 | patreon-H8OwLShXVyA-cluster-38 | meta_scan | Ah mais donc en fait il est sincère donc c'est bien ce que je... | Td scan 2008 la France n'aurait il y a que native goal [ __ ] On va arrêter le live. |
+| expand | prediction | patreon:H8OwLShXVyA | 4:17:58 | patreon-H8OwLShXVyA-cluster-39 | weak_prediction, no_future_hint_in_expanded_context | Par exemple, la poll Ah, ils ont commencé à acheter de l'or. | Ça y est, tiscan. [ __ ] on connaît le |
+| expand | meta | patreon:haTX0CyYu-w | 2:55:20 | patreon-haTX0CyYu-w-cluster-40 | retrospective_scan, meta_scan | Quand on a entendu ça, j'ai dit attention s'il a menacer la ministre de... | Tu m'étonnes que les mecs ils vont se rétracter. |
+| drop | negated | patreon:i-vZR6k8jeQ | 3:15:45 | patreon-i-vZR6k8jeQ-cluster-41 | negated_scan, meta_scan, weak_prediction | Ah bah non, mais en fait, il est hyper important. | ça, c'est pas du tout un Tiscan. Là, je |
+| keep | prediction | patreon:igybgPPCWgQ | 16:46 | patreon-igybgPPCWgQ-cluster-42 |  | dans 1 heure, je crois qu'il va y avoir un problème là avec ça. | dans 1 heure, je crois qu'il va y avoir un problème là avec ça. |
+| expand | prediction | patreon:igybgPPCWgQ | 1:16:08 | patreon-igybgPPCWgQ-cluster-43 | weak_prediction, no_future_hint_in_expanded_context | Euh si tu veux un indicateur de classe moyenisation de la de la banlieu... | tiscan. Euh si tu veux un indicateur de |
+| expand | prediction | patreon:igybgPPCWgQ | 2:09:36 | patreon-igybgPPCWgQ-cluster-44 | weak_prediction, no_future_hint_in_expanded_context | peu le serpent qui se mort la queue et donc il y a quand... | équilibre. J'ai calé mon Tiscan, il a |
+| keep | prediction | patreon:igybgPPCWgQ | 2:34:06 | patreon-igybgPPCWgQ-cluster-45 |  | le communisme du mec de Maxime mobiliser le patrimoine des vieux bourgeois du Figaro... | Il l'a dit discret. |
+| expand | prediction | patreon:imExgeOedcM | 10:55 | patreon-imExgeOedcM-cluster-46 | weak_prediction, no_future_hint_in_expanded_context | Alors ça n'est que le premier tour encore une fois, mais la gauche est | Tiscan bairou mer de peau. Bah oui mais |
+| keep | prediction | patreon:KKUhXGwHAm4 | 1:16:17 | patreon-KKUhXGwHAm4-cluster-47 |  | Je vous fais un petit TDCAN pour l'écologie. | On va utiliser du papier recyclé qui brûle. |
+| expand | prediction | patreon:KKUhXGwHAm4 | 2:05:18 | patreon-KKUhXGwHAm4-cluster-48 | no_future_hint_in_expanded_context | y a dans ma liste, mais il y a des trucs. | Tiens, je vais vous mettre ça tiens |
+| expand | prediction | patreon:KNdV3kg8L1I | 50:37 | patreon-KNdV3kg8L1I-cluster-49 | no_future_hint_in_expanded_context | Euh très tôt, tu avais voulu m'inviter. | Euh très tôt, tu avais voulu m'inviter. |
+| expand | prediction | patreon:KNdV3kg8L1I | 1:05:22 | patreon-KNdV3kg8L1I-cluster-50 | weak_prediction, no_future_hint_in_expanded_context | surtout si pour contrer tout et surtout si c'est menaçant mais dans le doute... | on Ouais. Non mais là oui les TD scan. |
+| expand | meta | patreon:kr7ak3UELuU | 1:10:20 | patreon-kr7ak3UELuU-cluster-51 | retrospective_scan, meta_scan, quote_too_short, weak_prediction, no_future_hint_in_expanded_context | Pour ceux qui savent pas, l'altérité l'altérité philosophie niveau lycée, niveau bac | Il a fait ou [ __ ] Je vous l'avais dit en début de live, c'est le tiscan. |
+| expand | meta | patreon:kr7ak3UELuU | 1:11:21 | patreon-kr7ak3UELuU-cluster-52 | meta_scan | Et puis il y a celles et ceux qui commencent à être de | Alors vas-y, on y retourne. |
+| keep | retrospective | patreon:KUWLS7XGBVk | 33:36 | patreon-KUWLS7XGBVk-cluster-53 | retrospective_scan | Et donc maintenant c'est la théorie des souverainistes français de dire en lisement enlisement... | Trump est foutu, il va s'en liser. |
+| expand | meta | patreon:L5dX2EG9l3w | 53:36 | patreon-L5dX2EG9l3w-cluster-54 | meta_scan, quote_too_short, weak_prediction | c'est le sketch que j'ai fait au début. | 95 ans - 3 mois. |
+| expand | prediction | patreon:L8l3D7jjkYc | 11:45 | patreon-L8l3D7jjkYc-cluster-55 | duplicate_cluster, weak_prediction | Alors pour moi c'est forcément Israël. | Le Teddy scan 2 ans d'âge. Teddy Lorenzo |
+| merge | prediction | patreon:L8l3D7jjkYc | 11:48 | patreon-L8l3D7jjkYc-cluster-55 | duplicate_cluster, quote_too_short, weak_prediction | Alors pour moi c'est forcément Israël. | Teddy Lorenzo scan hein. |
+| merge | prediction | patreon:L8l3D7jjkYc | 11:50 | patreon-L8l3D7jjkYc-cluster-55 | duplicate_cluster | Alors pour moi c'est forcément Israël. | Donc euh Trump c'est un génie, vous allez voir, il va tout [ __ ] G |
+| keep | prediction | patreon:NDkdK5VSyxE | 1:27:47 | patreon-NDkdK5VSyxE-cluster-56 |  | l'adresse de cette fille, je vais la poster et et donc tu te retrouves... | l'adresse de cette fille, je vais la poster et et donc tu te retrouves avec la part du futur. |
+| expand | prediction | patreon:NGue00dxAN0 | 23:43 | patreon-NGue00dxAN0-cluster-57 | quote_too_short | Ce qui veut dire qu'aujourd'hui vous | Ce qui veut dire qu'aujourd'hui vous |
+| expand | prediction | patreon:NGue00dxAN0 | 40:16 | patreon-NGue00dxAN0-cluster-58 | weak_prediction | Mais c'est pour ça pour ça qu'on peut rien dire. | Teddy scan de Teddy en rou libre. Cet |
+| keep | prediction | patreon:nXxiKQzEzMU | 1:46:02 | patreon-nXxiKQzEzMU-cluster-59 |  | Euh donc il y a pas de problème, on va pas résoudre le problème... | Euh donc il y a pas de problème, on va pas résoudre le problème mais on emploie encore des [... |
+| expand | retrospective | patreon:OQaGUv__6po | 19:03 | patreon-OQaGUv__6po-cluster-60 | retrospective_scan, duplicate_cluster, quote_too_short | On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec... | On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec la gauche sécuritaire? |
+| merge | retrospective | patreon:OQaGUv__6po | 19:06 | patreon-OQaGUv__6po-cluster-60 | retrospective_scan, duplicate_cluster, weak_prediction | On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec... | tiscan. On me l'a encore dit la semaine |
+| expand | prediction | patreon:P0zY9msTG7A | 25:21 | patreon-P0zY9msTG7A-cluster-61 | weak_prediction | euh, attendez, je vais vous le chercher | Ce qui où il me dit ton tiscan, il me l'a envoyé sur euh, attendez, je vais vous le chercher. |
+| expand | prediction | patreon:PEhivdf5Aaw | 2:01:34 | patreon-PEhivdf5Aaw-cluster-62 | weak_prediction, no_future_hint_in_expanded_context | Voilà vous êtes donc noir intuitif. | intuitif. On y vient le Tiscan. |
+| expand | meta | patreon:PfyN1clYkdc | 29:15 | patreon-PfyN1clYkdc-cluster-63 | meta_scan | mécanique quantique, il va falloir regarder tout le live sur la quantique. | mécanique quantique, il va falloir regarder tout le live sur la quantique. |
+| drop | negated | patreon:pjA7XwxfVvs | 1:32:01 | patreon-pjA7XwxfVvs-cluster-64 | negated_scan, no_future_hint_in_expanded_context | parce que moi je les sens pas particulier. | parce que moi je les sens pas particulier. |
+| keep | prediction | patreon:pQSQZXTJ_D8 | 41:42 | patreon-pQSQZXTJ_D8-cluster-65 |  | Je vais pas dire que c'est c'est qu'une seule étude mais donc il y... | avant la récolte, soit en période de pauvreté. |
+| expand | meta | patreon:pTrevIm0cyk | 06:20 | patreon-pTrevIm0cyk-cluster-66 | meta_scan | Ça va ça va même malade je tiens le je tiens la barre mais... | Ça va ça va même malade je tiens le je tiens la barre mais c'est grâce à vous |
+| keep | prediction | patreon:pTrevIm0cyk | 14:59 | patreon-pTrevIm0cyk-cluster-67 |  | Je vous garantis que dans 5 ans, il y aura une CGT des auto-entrepreneurs... | Je vous garantis que dans 5 ans, il y aura une CGT des auto-entrepreneurs ou l'équivalent parce que Dani Eras... |
+| expand | prediction | patreon:pTrevIm0cyk | 2:05:22 | patreon-pTrevIm0cyk-cluster-68 | quote_too_short | Ah c'est exactement ce que j'avais dit. | Ah c'est exactement ce que j'avais dit. |
+| expand | prediction | patreon:pTrevIm0cyk | 3:17:19 | patreon-pTrevIm0cyk-cluster-69 | weak_prediction | La pensée magique en fait le carré magique de quoi? | mais il y a tout là. Tiscan de tesis |
+| expand | prediction | patreon:pTrevIm0cyk | 3:26:34 | patreon-pTrevIm0cyk-cluster-70 | quote_too_short | Alors, qu'est-ce que c'est la subisarité? | Alors, qu'est-ce que c'est la subisarité? |
+| expand | meta | patreon:pTrevIm0cyk | 3:28:14 | patreon-pTrevIm0cyk-cluster-71 | meta_scan, duplicate_cluster | Vas-y, je tourne autour du du pot, j'arrive. | Vas-y, je tourne autour du du pot, j'arrive. |
+| merge | meta | patreon:pTrevIm0cyk | 3:28:17 | patreon-pTrevIm0cyk-cluster-71 | meta_scan, duplicate_cluster | Je veux pas un commentaire qui est contre moi sur cette tracte, | On va bientôt arrêter le live. |
+| expand | meta | patreon:pTrevIm0cyk | 3:29:41 | patreon-pTrevIm0cyk-cluster-72 | meta_scan, weak_prediction, no_future_hint_in_expanded_context | Et ça fait techno parce que laarité de surcroix a été détournée dans le... | philosophie. Tis scan tiscan tiscan t |
+| expand | prediction | patreon:pVnQBjGXX4o | 37:37 | patreon-pVnQBjGXX4o-cluster-73 | weak_prediction, no_future_hint_in_expanded_context | Il s'agira de reconstruire des institutions soudées. | Donc là, je vous avais té scan le gauchisme hein, il faut investir, il faut donner de l'argent à moi... |
+| keep | prediction | patreon:q6lCJUjlcQs | 1:04:15 | patreon-q6lCJUjlcQs-cluster-74 |  | avec un bonus quoi. | Allez, on démarre depuis toute petite et on démarre à la base. |
+| expand | meta | patreon:Q7ZhkYuG0u0 | 02:08 | patreon-Q7ZhkYuG0u0-cluster-75 | retrospective_scan, meta_scan, duplicate_cluster | andages qui arrive | Voilà donc ça c'était petit scan de deux andages qui arrive. |
+| merge | meta | patreon:Q7ZhkYuG0u0 | 02:14 | patreon-Q7ZhkYuG0u0-cluster-75 | retrospective_scan, meta_scan, duplicate_cluster | Alors attention hop le petit bouton qui marche pas. | J'espère que ça va les mecs. |
+| keep | retrospective | patreon:Q7ZhkYuG0u0 | 03:14 | patreon-Q7ZhkYuG0u0-cluster-76 | retrospective_scan | Il dit "C'est quoi ta notion politique?" Et je dis "lain du capitalisme par... | OK bon bah ça déjà ça va être le premier truc. |
+| expand | prediction | patreon:Q7ZhkYuG0u0 | 29:57 | patreon-Q7ZhkYuG0u0-cluster-77 | weak_prediction | Et il y a un gars il me fait j'avais prévu ça 10 ans... | c'est pas fait par là parce que moi je dis bon là quand même vous pouvez faire confiance à mon... |
+| expand | prediction | patreon:qB8lNSEY2YI | 15:32 | patreon-qB8lNSEY2YI-cluster-78 | quote_too_short | Les les gros débiles mentaux en France aiment les élections parce qu'ils | il dit "J'ai tellement hâte, je vous mets plus fort de 2027, moi je vous dis juste tiscan c'est il... |
+| expand | meta | patreon:qb9IoQbsYcI | 01:48 | patreon-qb9IoQbsYcI-cluster-79 | meta_scan | le service public avec Macron qui veut tout remplaced | Et donc lui qui était en train d'expliquer aux vieilles chattes, |
+| expand | prediction | patreon:qb9IoQbsYcI | 05:02 | patreon-qb9IoQbsYcI-cluster-80 | weak_prediction, no_future_hint_in_expanded_context | Et elle a parlé de ceux qui ont att prophète toi moi je je... | Ouais. |
+| expand | prediction | patreon:qq18fE-7dNc | 31:50 | patreon-qq18fE-7dNc-cluster-81 | no_future_hint_in_expanded_context | J'ai dit à Megan alors c'est terrible. | J'ai dit à Megan alors c'est terrible. |
+| expand | meta | patreon:RneHZhQZ-yc | 31:58 | patreon-RneHZhQZ-yc-cluster-82 | meta_scan, weak_prediction | Même si tu même si je suis une femme | Ah mais c'est marrant. Je t'ai té scan. |
+| expand | prediction | patreon:RneHZhQZ-yc | 1:13:53 | patreon-RneHZhQZ-yc-cluster-83 | duplicate_cluster, quote_too_short | Oh là là là là là là là là là là. | Oh là là là là là là là là là là. |
+| merge | prediction | patreon:RneHZhQZ-yc | 1:14:01 | patreon-RneHZhQZ-yc-cluster-83 | duplicate_cluster | Ghetto souris [ __ ] c'est monté souris pour les pour les pour le... | Ah celle-là le ghetto souris. |
+| expand | retrospective | patreon:tf-I-cG7o5I | 07:58 | patreon-tf-I-cG7o5I-cluster-84 | retrospective_scan, quote_too_short, weak_prediction | On va me dire "On te l'avait dit?" Oui, vous avez tout dit. | faut que je sache qu' un mensonge." Et en fait, j'ai Tiscan l'origine du mensonge. |
+| expand | prediction | patreon:tf-I-cG7o5I | 36:25 | patreon-tf-I-cG7o5I-cluster-85 | weak_prediction | J'ai pas un patron pour me payer avec un local des merdes comme ça. | c'est exactement du Teddy scan. Je suis |
+| expand | prediction | patreon:TvvPD9rFqSY | 1:13:54 | patreon-TvvPD9rFqSY-cluster-86 | weak_prediction | Moi, je suis plutôt content pour eux, je vous l'avoue. | l'avoue. Tiscan. Bah là, en l'occurrence |
+| expand | prediction | patreon:Uw6mw5EBIuQ | 06:31 | patreon-Uw6mw5EBIuQ-cluster-87 | duplicate_cluster, weak_topic, weak_prediction | Contexte à confirmer | tiscan. Je veux dire d'accord, j'y |
+| merge | prediction | patreon:Uw6mw5EBIuQ | 06:35 | patreon-Uw6mw5EBIuQ-cluster-87 | duplicate_cluster, weak_prediction | [rires] 2025 c'était l'année du téliscade et des meilleurs et 2026 c'est l'année des | Mentaliste. |
+| keep | prediction | patreon:vdKFrTNwcUQ | 2:05:44 | patreon-vdKFrTNwcUQ-cluster-88 |  | le gouvernement le dit un mois, 2 mois après. | Donc Gabriel Atal ou le gouvernement ou les pros de la communication, si vous êtes abonné |
+| expand | prediction | patreon:vQXviJGyvmE | 1:54:32 | patreon-vQXviJGyvmE-cluster-89 | quote_too_short, no_future_hint_in_expanded_context | Quand j'avais dit, ils viendront chercher votre richesse chez vous et si vous en... | Quand j'avais dit, ils viendront chercher votre richesse chez vous et si vous en avez pas chez vous, |
+| expand | prediction | patreon:vQXviJGyvmE | 1:54:59 | patreon-vQXviJGyvmE-cluster-90 | duplicate_cluster, weak_prediction | Combien d' combien d' combien d'années d'âge? | Tiscan. Combien d' combien d' combien |
+| merge | prediction | patreon:vQXviJGyvmE | 1:55:11 | patreon-vQXviJGyvmE-cluster-90 | duplicate_cluster, quote_too_short | C'était déjà les commentateurs de Raptor qui me disaient que j'allais trop loin, je... | C'était déjà les commentateurs de Raptor qui me disaient que j'allais trop loin, je racontais n'importe |
+| expand | meta | patreon:VvAhbkkKKT4 | 24:32 | patreon-VvAhbkkKKT4-cluster-91 | meta_scan, weak_prediction | Quelle connerie tu peux raconter sur la musique classique, tu n'y connais | Et le reste, il y a eu un canard et c'est exactement, je l'avais té scan, il y a un... |
+| expand | meta | patreon:WFhtQ8KHZRI | 10:45 | patreon-WFhtQ8KHZRI-cluster-92 | meta_scan, weak_prediction | h chîn parce que il y a un membre du patron qui veut pas... | h chîn parce que il y a un membre du patron qui veut pas comprendre que j'ai un TD scan... |
+| keep | prediction | patreon:WFhtQ8KHZRI | 1:22:06 | patreon-WFhtQ8KHZRI-cluster-93 |  | c'est écoute on va pas se mentir je vous ai fait en 2027 de... | c'est écoute on va pas se mentir je vous ai fait le TD scan en 2027 de toute façon il... |
+| expand | meta | patreon:WFhtQ8KHZRI | 3:37:05 | patreon-WFhtQ8KHZRI-cluster-94 | meta_scan, weak_prediction | tiens parce que minou fini de travailler à 18h je vais aller regarder vos... | tiens parce que minou fini de travailler à 18h je vais aller regarder vos Liv en redif alors TD scan... |
+| keep | prediction | patreon:Xp3Cp_tBs5A | 1:03:58 | patreon-Xp3Cp_tBs5A-cluster-95 |  | Il a fait un podcast sur le génération 2 sur C. | Je pense que ça va jouer sur l'humanité là. |
+| expand | meta | patreon:yb4K15FVgz4 | 1:56:42 | patreon-yb4K15FVgz4-cluster-96 | meta_scan, no_future_hint_in_expanded_context | Elle me répond la meuf, elle prend un exemple elle-même, elle est l'exemple | C'était contenu dans ma vidéo de base quoi. |
+| expand | prediction | patreon:ycXJl_9z1xo | 1:44:54 | patreon-ycXJl_9z1xo-cluster-97 | quote_too_short | Est-ce que l'Angleterre est dans la merde à cause du Brexit ou malgré le... | Nous on va faire Blues et Kazoi. |
+| expand | prediction | patreon:yHGIqy6INjQ | 1:09:52 | patreon-yHGIqy6INjQ-cluster-98 | quote_too_short | c'est parce que tu es jaloux. | Alors, on va donc regarder mon Tiscan 3 ans après. |
+| expand | prediction | patreon:yHGIqy6INjQ | 1:38:52 | patreon-yHGIqy6INjQ-cluster-99 | quote_too_short | Mais au moins alors tu vois, il a la main sous la sous la... | Mais au moins alors tu vois, il a la main sous la sous la sous la table, il est filmé... |
+| expand | meta | patreon:yHGIqy6INjQ | 2:16:51 | patreon-yHGIqy6INjQ-cluster-100 | meta_scan | J'avais dit on ne met pas en juste position la télé qui est sérieuse | J'avais dit on ne met pas en juste position la télé qui est sérieuse |
+| keep | prediction | patreon:yHGIqy6INjQ | 2:20:31 | patreon-yHGIqy6INjQ-cluster-101 |  | Sachant que c'est un scandale mondial, je le précise parce | de Kick qui dit qu'ils vont payer une autre équipe de modération et ça va devenir Teddy Scan la plateforme... |
+| expand | prediction | patreon:yHGIqy6INjQ | 3:31:08 | patreon-yHGIqy6INjQ-cluster-102 | weak_prediction | Les pro Nicolas, les rachats de Nicolas. | Enfin oui bah oui Teddy Scan mais enfin tes dit ça n'a aucun rapport la politique et Jean Portmanov enfin... |
+| expand | prediction | patreon:yHGIqy6INjQ | 3:38:48 | patreon-yHGIqy6INjQ-cluster-103 | quote_too_short, no_future_hint_in_expanded_context | Ah non c'est pas comme nous. | Bah c'est comme nous. |
+| expand | prediction | patreon:ykkjgo7rPjY | 1:42:16 | patreon-ykkjgo7rPjY-cluster-104 | quote_too_short | Rabier qui est l'agent de la guestapo qui arrête. | Et pourquoi le mari il est rentré en 45? |
+| expand | prediction | patreon:YQIL7-BO1WE | 1:38:30 | patreon-YQIL7-BO1WE-cluster-105 | quote_too_short, weak_prediction, no_future_hint_in_expanded_context | passer à la télé pour euh discuter avec des jeunes filles, enfin des jeunes... | Tiscan. Qu'est-ce qui t'intéresse? |
+| expand | prediction | patreon:zYF8rbBMarg | 26:35 | patreon-zYF8rbBMarg-cluster-106 | quote_too_short, no_future_hint_in_expanded_context | bio permaculture les petits paniers le git et le couvert. | bio permaculture les petits paniers le git et le couvert. |
+| expand | meta | public:_O41GD811Nc | 2:28:41 | public-_O41GD811Nc-cluster-107 | meta_scan | la société en devenant adulte et comment pour y arriver ite élumératif regardez ça... | la société en devenant adulte et comment pour y arriver ite élumératif regardez ça c'est tiscan c'est ce soir rien... |
+| expand | meta | public:_O41GD811Nc | 2:37:47 | public-_O41GD811Nc-cluster-108 | meta_scan | qu'est-ce qu'il y a d'expérimental est-ce que j'ai activé secret avec la connexion démoniaque... | qu'est-ce qu'il y a d'expérimental est-ce que j'ai activé un TD scan secret avec la connexion démoniaque qui va faire... |
+| expand | prediction | public:3fBp8m61nuM | 1:09:09 | public-3fBp8m61nuM-cluster-109 | weak_prediction, no_future_hint_in_expanded_context | Bon bah s'il lui manque une couille, c'est bon | c'est tout le temps ça. Oups. Tiscan. |
+| expand | meta | public:4IudQ6CpQSg | 04:27 | public-4IudQ6CpQSg-cluster-110 | meta_scan, weak_prediction | Je dis c'est typiquement le genre de mec à dire ça. | TD scan. Je dis c'est typiquement le |
+| expand | prediction | public:4IudQ6CpQSg | 53:59 | public-4IudQ6CpQSg-cluster-111 | no_future_hint_in_expanded_context | C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique. | C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique. |
+| expand | uncertain | public:79LBGulGlgk | 1:11:35 | public-79LBGulGlgk-cluster-112 | uncertain_scan | Les amis, les collectionneurs, c'est une | Mais il y a une histoire là-dedans. |
+| expand | prediction | public:7HdOQgi14OQ | 42:43 | public-7HdOQgi14OQ-cluster-113 | duplicate_cluster, weak_topic, weak_prediction | Papacito, le petit TD scan pour les plus anciens d'entre vous | Bon. Ah, par contre le petit scan sur |
+| merge | prediction | public:7HdOQgi14OQ | 42:44 | public-7HdOQgi14OQ-cluster-113 | duplicate_cluster, weak_topic, weak_prediction | Papacito, le petit TD scan pour les plus anciens d'entre vous | Je vous avais pas |
+| merge | prediction | public:7HdOQgi14OQ | 42:47 | public-7HdOQgi14OQ-cluster-113 | duplicate_cluster, weak_topic | Papacito, le petit TD scan pour les plus anciens d'entre vous | Je vous avais pas dit qu'il invviterait à voter un jour |
+| keep | prediction | public:7HdOQgi14OQ | 1:14:25 | public-7HdOQgi14OQ-cluster-114 |  | ressources et le moment où ils vont crever, ils vont juste donner 70 %... | ressources et le moment où ils vont crever, ils vont juste donner 70 % à l'état. |
+| expand | prediction | public:9gft2XP6kM4 | 15:54 | public-9gft2XP6kM4-cluster-115 | weak_prediction | effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais et j'ai... | effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais le tiscan et j'ai trouvé ça vraiment passionnant... |
+| keep | prediction | public:9gft2XP6kM4 | 40:58 | public-9gft2XP6kM4-cluster-116 |  | conclure par il faut cultiver son cynisme. | Vas-y, vas-y, continue. |
+| expand | meta | public:A3e8YCHZbJk | 07:33 | public-A3e8YCHZbJk-cluster-117 | meta_scan, weak_prediction | Là, c'est vraiment pour moi prioritaire et vous saurez à mon avis heinbon, je... | Là, c'est vraiment pour moi prioritaire et vous saurez à mon avis hein Teddy Scan, bon, je préfère le dire... |
+| expand | meta | public:b94lUkiF4F4 | 1:56:39 | public-b94lUkiF4F4-cluster-118 | meta_scan, duplicate_cluster, no_future_hint_in_expanded_context | Euh, la prédiction des réactions chimiques, donc il parle de Greg justement, les capteurs | Bah tu vois, il avait écrit ça avant le début du live. |
+| merge | meta | public:b94lUkiF4F4 | 1:56:57 | public-b94lUkiF4F4-cluster-118 | meta_scan, duplicate_cluster, no_future_hint_in_expanded_context | Alors, et il finit, il conclut par OK mais d'où vient l'engouement des ozo | Du coup, on est complètement d'accord. |
+| expand | meta | public:b94lUkiF4F4 | 2:36:21 | public-b94lUkiF4F4-cluster-119 | meta_scan, duplicate_cluster, quote_too_short | Ils vont regarder des cons et ils vont dire "Ah ouais, non mais en... | Ils vont regarder des cons et ils vont dire "Ah ouais, non mais en fait euh j'ai moi aussi scanné... |
+| merge | meta | public:b94lUkiF4F4 | 2:36:25 | public-b94lUkiF4F4-cluster-119 | meta_scan, duplicate_cluster | Et quoi de mieux que de montrer un vrai abruti pour se donner | Donc il va falloir en faire la démonstration. |
+| expand | prediction | public:b94lUkiF4F4 | 2:59:13 | public-b94lUkiF4F4-cluster-120 | quote_too_short, weak_prediction | Ah bah sur le sur le espèce de flou qui règne autour du mot... | Ah donc j'avais Tiscan la physique quantique. |
+| expand | meta | public:DDYYJSOFsQM | 1:45:55 | public-DDYYJSOFsQM-cluster-121 | meta_scan, weak_prediction, no_future_hint_in_expanded_context | Vous direz "Non, non, c'est toi | J'ai TD scan la [ __ ] de physique quantique et vous ne l'accepterez jamais quand je vais vous le... |
+| expand | meta | public:EpE5Nmfj7n0 | 1:14:22 | public-EpE5Nmfj7n0-cluster-122 | meta_scan, quote_too_short, no_future_hint_in_expanded_context | Trop fort George tu débile et l'autre c'est Teddy Eras ou quoi? | Ah [ __ ] il y en a qui a trouvé. |
+| expand | meta | public:haTX0CyYu-w | 2:55:20 | public-haTX0CyYu-w-cluster-123 | retrospective_scan, meta_scan | Quand on a entendu ça, j'ai dit attention s'il a menacer la ministre de... | Tu m'étonnes que les mecs ils vont se rétracter. |
+| drop | negated | public:i-vZR6k8jeQ | 3:15:45 | public-i-vZR6k8jeQ-cluster-124 | negated_scan, meta_scan, weak_prediction | Ah bah non, mais en fait, il est hyper important. | ça, c'est pas du tout un Tiscan. Là, je |
+| expand | prediction | public:imExgeOedcM | 10:55 | public-imExgeOedcM-cluster-125 | weak_prediction, no_future_hint_in_expanded_context | Alors ça n'est que le premier tour encore une fois, mais la gauche est | Tiscan bairou mer de peau. Bah oui mais |
+| expand | meta | public:kr7ak3UELuU | 1:10:20 | public-kr7ak3UELuU-cluster-126 | retrospective_scan, meta_scan, quote_too_short, weak_prediction, no_future_hint_in_expanded_context | Pour ceux qui savent pas, l'altérité l'altérité philosophie niveau lycée, niveau bac | Il a fait ou [ __ ] Je vous l'avais dit en début de live, c'est le tiscan. |
+| expand | meta | public:kr7ak3UELuU | 1:11:21 | public-kr7ak3UELuU-cluster-127 | meta_scan | Et puis il y a celles et ceux qui commencent à être de | Alors vas-y, on y retourne. |
+| keep | retrospective | public:KUWLS7XGBVk | 33:36 | public-KUWLS7XGBVk-cluster-128 | retrospective_scan | Et donc maintenant c'est la théorie des souverainistes français de dire en lisement enlisement... | Trump est foutu, il va s'en liser. |
+| expand | retrospective | public:OQaGUv__6po | 19:03 | public-OQaGUv__6po-cluster-129 | retrospective_scan, duplicate_cluster, quote_too_short | On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec... | On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec la gauche sécuritaire? |
+| merge | retrospective | public:OQaGUv__6po | 19:06 | public-OQaGUv__6po-cluster-129 | retrospective_scan, duplicate_cluster, weak_prediction | On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec... | tiscan. On me l'a encore dit la semaine |
+| keep | prediction | public:q0JsTp-ILX8 | 19:03 | public-q0JsTp-ILX8-cluster-130 |  | Même quand je foutais des papiers usagers, il les laissait. | Je pense à à Roger qui l'avait jamais par terre. |
+| expand | meta | public:Q7ZhkYuG0u0 | 02:08 | public-Q7ZhkYuG0u0-cluster-131 | retrospective_scan, meta_scan, duplicate_cluster | andages qui arrive | Voilà donc ça c'était petit scan de deux andages qui arrive. |
+| merge | meta | public:Q7ZhkYuG0u0 | 02:14 | public-Q7ZhkYuG0u0-cluster-131 | retrospective_scan, meta_scan, duplicate_cluster | Alors attention hop le petit bouton qui marche pas. | J'espère que ça va les mecs. |
+| keep | retrospective | public:Q7ZhkYuG0u0 | 03:14 | public-Q7ZhkYuG0u0-cluster-132 | retrospective_scan | Il dit "C'est quoi ta notion politique?" Et je dis "lain du capitalisme par... | OK bon bah ça déjà ça va être le premier truc. |
+| expand | prediction | public:Q7ZhkYuG0u0 | 29:57 | public-Q7ZhkYuG0u0-cluster-133 | weak_prediction | Et il y a un gars il me fait j'avais prévu ça 10 ans... | c'est pas fait par là parce que moi je dis bon là quand même vous pouvez faire confiance à mon... |
+| expand | prediction | public:qB8lNSEY2YI | 15:32 | public-qB8lNSEY2YI-cluster-134 | quote_too_short | Les les gros débiles mentaux en France aiment les élections parce qu'ils | il dit "J'ai tellement hâte, je vous mets plus fort de 2027, moi je vous dis juste tiscan c'est il... |
+| keep | retrospective | public:quG4bGhFGm8 | 11:00 | public-quG4bGhFGm8-cluster-135 | retrospective_scan | Je crois que c'est ça serait potentiellement | François Hollande il songe quasi candidat. |
+| keep | prediction | public:quG4bGhFGm8 | 14:04 | public-quG4bGhFGm8-cluster-136 |  | tous les mecs qui était dans la grande distribution sont à la ramasse, font... | Euh Michel et toir Leclerc, il y songe. |
+| keep | prediction | public:quG4bGhFGm8 | 1:17:35 | public-quG4bGhFGm8-cluster-137 |  | Oui, ben encore une fois 100 % d'accord avec papa ne vous taisez plus. | Il va dire alors je vais vous laisser parler. |
+| expand | meta | public:sMctI1v00PA | 05:26 | public-sMctI1v00PA-cluster-138 | retrospective_scan, meta_scan, weak_prediction | la rivalité Croblanc Avenur or alors j'ai vu qu'ils sont pris le bec à... | Alors oui, j'ai vu dans le chat que tu arrêtais pas de dire et d'autres que j'avais fait un TD... |
+| expand | prediction | public:TPTbWXOiuac | 06:32 | public-TPTbWXOiuac-cluster-139 | weak_prediction | la grande distribution et la future polémique politique | On parle du syndicat, je me moque des syndicats, je vous fais un té scan sur la grande distribution et... |
+| expand | meta | public:uF__qWIJxxA | 47:55 | public-uF__qWIJxxA-cluster-140 | meta_scan, quote_too_short, weak_prediction | Ma première impression crois est en train de se vérifier là. | Et oui. |
+| expand | meta | public:UpKCV7GswSA | 09:33 | public-UpKCV7GswSA-cluster-141 | meta_scan, weak_prediction | Je suis pas sûr mais je sens que le les chiffres et les infos... | Je sens le TD scan. Je suis pas sûr mais |
+| keep | prediction | public:UpKCV7GswSA | 24:59 | public-UpKCV7GswSA-cluster-142 |  | Je sens que on va renouveler le lexique mais finalement ce sera juste des... | Ils vont dire il est beau et il est en place ou quelque chose comme ça. |
+| expand | prediction | public:UW_5K51IWjM | 53:29 | public-UW_5K51IWjM-cluster-143 | quote_too_short | Il se fout de notre gueule Teddy avec ces histoires de potes arabes qui... | Il se fout de notre gueule Teddy avec ces histoires de potes arabes qui vont |
+| expand | prediction | public:VhtUwygM-Fs | 12:28 | public-VhtUwygM-Fs-cluster-144 | quote_too_short | Comme ça, c'est réglé, ça peut pas me gêner. | meurent salot." C'est en fait il va je suis sûr qu'il va alors ben c'est mon tiscan en fait. |
+| expand | prediction | public:wLVd92EF1Sc | 13:32 | public-wLVd92EF1Sc-cluster-145 | no_future_hint_in_expanded_context | lavé là." Ah non, mais j'y vais pas finalement. | lavé là." Ah non, mais j'y vais pas finalement. |
+| expand | meta | public:wZIZCU5GW58 | 38:22 | public-wZIZCU5GW58-cluster-146 | meta_scan, duplicate_cluster, weak_prediction, no_future_hint_in_expanded_context | La question de pas être connu, des entrepreneurs connus et pas connus, il | Le TD scan il est comme ça? |
+| merge | meta | public:wZIZCU5GW58 | 38:25 | public-wZIZCU5GW58-cluster-146 | meta_scan, duplicate_cluster, weak_topic, weak_prediction, no_future_hint_in_expanded_context | pas être connu. | il est comment? Le TD scan il est comme |
+| merge | meta | public:wZIZCU5GW58 | 38:33 | public-wZIZCU5GW58-cluster-146 | meta_scan, duplicate_cluster, no_future_hint_in_expanded_context | Au contraire, je vais encore faire les | Au contraire, je vais encore faire les |
+| keep | prediction | public:xb-li2SVJWk | 25:41 | public-xb-li2SVJWk-cluster-147 |  | Quand je vois de plus en plus d'idiots qui ont des propos faciles sur... | Quand je vois de plus en plus d'idiots qui ont des propos faciles sur internet et qui se regroupe |
+| expand | prediction | public:YCQrCdrvx58 | 1:48:21 | public-YCQrCdrvx58-cluster-148 | weak_prediction, no_future_hint_in_expanded_context | Ça y est, ça marche plus à la langue française. | Tiscan. [ __ ] j'ai trouvé. Faites |
+| expand | prediction | public:yKL5nnpH7NI | 5:18:41 | public-yKL5nnpH7NI-cluster-149 | duplicate_cluster, weak_prediction | raison c'est vrai que c'est c'est c'est c'est pertinent là vous avez faitlà vous... | scan là vous avez fait le meilleur |
+| merge | prediction | public:yKL5nnpH7NI | 5:18:43 | public-yKL5nnpH7NI-cluster-149 | duplicate_cluster, weak_topic, weak_prediction | c'est pertinent là vous avez faitlà vous avez fait le meilleur scan ça y... | scan ça y est voilà tu vois avec un peu |
+| merge | prediction | public:yKL5nnpH7NI | 5:18:52 | public-yKL5nnpH7NI-cluster-149 | duplicate_cluster, weak_prediction | développer un cerveau collectif c'est fou hein et du coup vous allez développer le... | développer un cerveau collectif c'est fou hein et du coup vous allez développer le meilleur scan donc oui s taxe... |
+| expand | retrospective | public:yKL5nnpH7NI | 5:50:56 | public-yKL5nnpH7NI-cluster-150 | retrospective_scan, weak_prediction, no_future_hint_in_expanded_context | à l'époque j'étais un peu déçu de ton point de vue sur les gilets... | depuis le tiscan a eu raison c'était |
+| expand | prediction | public:yKL5nnpH7NI | 6:00:24 | public-yKL5nnpH7NI-cluster-151 | weak_prediction, no_future_hint_in_expanded_context | transhistorique pour le coup voilà bah c'est exactement ce que je vous ai dit... | deuxème deuxème TD scan alléluia les |
+| expand | prediction | public:zT8vpxgXkY0 | 1:24:21 | public-zT8vpxgXkY0-cluster-152 | weak_prediction | d'ailleurs au passage il y a toute une part euh j'ai tout un dossier... | d'ailleurs au passage il y a toute une part euh j'ai tout un dossier sur TD scan à propos de... |
+| expand | meta | public:zT8vpxgXkY0 | 3:58:46 | public-zT8vpxgXkY0-cluster-153 | meta_scan, weak_prediction | tout bon donc on pioche direct dans l'épargne c'est encore un peut-être un petit... | c'est encore un petit tiscan peut-être |
 
 ## Detailed Review
 
@@ -310,11 +339,24 @@ Negated: 2
 - Flags: none
 - Expanded context: Non, mais c'est pas qu'il divorce, mais c'est euh je sais pas, ils se font des C'est bizarre, c'est comme Croblanc Teddy Boy, quoi. C'est bizarre, c'est chelou. Ah, c'est vendredi pour la Fed. On saura si j'ai fait un TD scan sur l'économie américaine et la Fed. Ah ouais, c'est vendredi là pour Halloween. La sortie des monstres et il est en train de faire au sur le Bitcoin Trump. Il veut en faire le les États-Unis, la nation du Bitcoin. Mais ça, il l'avait déjà dit mais apparemment il a réamplifié ce trucl. Je crois qu'il veut écrouler le dollar mec. Je crois qu'il veut écrouler son propre dollar pour pointer du doigt la Fed comme étant responsable de la chute du dollar pour reprendre la Fed et la monnaie et éventuellement au mieux réindustrialiser son pays en joint sur la déflation de sa propre monnaie. Donc une monnaie très basse qui va permettre de de vendre des produits pas chers à l'étranger le temps de réindustrialiser son pays. C'est ma théorie. Et en compensation de quoi? Pour...
 
+### 3fBp8m61nuM 1:09:09 [expand]
+
+- Title: 🔴 ON CLASH LES MANGAS Avant les fêtes 🎄
+- Source: patreon
+- Cluster: patreon-3fBp8m61nuM-cluster-11 (1 occurrence)
+- Current quote: c'est tout le temps ça. Oups. Tiscan.
+- Current topic: Bon bah s'il lui manque une couille, c'est bon
+- Current prediction: c'est tout le temps ça. Oups. Tiscan.
+- Type: prediction
+- Suggested clip: 1:08:51 -> 1:10:04
+- Flags: weak_prediction, no_future_hint_in_expanded_context
+- Expanded context: Parce qu'en plus Chen Soman, ça commence dans une école donc c'est l'histoire d'un adolescent trop dark. Non, c'est fake. OK, tu as tout bon. Qui s'appelle Nathalie? Juste sans le délire famille. Ouais mais c'est tout le temps ça. Oups. Tiscan. Ouais il lui manque une couille. OK. Bon bah s'il lui manque une couille, c'est bon là ça là ça là ça subverti le genre tcad en partie. [ __ ] vous êtes sérieux c'est chaud. Mais je vais les regarder. Je vais le regarder. Je ferai un back test dessus. Et attention parce que moi si si c'est ça, si vous avez je relirai tous vos commentaires. J'irai regarder en redif en zappant et je vais faire OK lui comme je fais d'habitude, je vais noter les noms. Je vais faire des listes et des trains. Je vais noter lui de points je vais l'enculer. Lui de points, je vais l'encul. Ah, il a dit ça. OK, très bien. Et vous me direz en commentaire en redif fait le back test sur SNK. Mais j'en ai rien...
+
 ### 4hREqoL-d0I 07:05 [expand]
 
 - Title: 🔴 MAIS QUI EST RAZ de la Zawa Prod ？!
 - Source: patreon
-- Cluster: patreon-4hREqoL-d0I-cluster-11 (1 occurrence)
+- Cluster: patreon-4hREqoL-d0I-cluster-12 (1 occurrence)
 - Current quote: sais que c'était un tiscan.
 - Current topic: Tu vas chier contre quelques murs pour obtenir de nouveaux droits.
 - Current prediction: Tu vas chier contre quelques murs pour obtenir de nouveaux droits.
@@ -323,11 +365,37 @@ Negated: 2
 - Flags: meta_scan, quote_too_short
 - Expanded context: anecdotes hein. On a pas les mêmes hein. Quand il a fait caca hein. Voilà. Ouais le lord de malade. Racontez ça à mon à mon daron. Ils m'ont il m'a dit "C'est vrai mais tu déformes un peu, ça n ça n'est arrivé qu'une fois et on t'a beaucoup moins cassé les couilles après quand tu sortais pour aller chier." Comme quoi, faut se syndiquer, faut militer, faut faire des actions directes quoi. Je sais que c'était un tiscan. Oui oui. Tu vas chier contre quelques murs pour obtenir de nouveaux droits. J'ai gagné. C'est fou le kakatov. Je t'ai des du caca sur la police. Ça m'a rendu de gauche. Ça m'a rendu de gauche. C'est marrant, il le dit avec ironie. C'est vrai. Euh, j'avais 4 5. Ah, alors lawa prod les faire. Qu'est-ce qu'on a d'autre? Qu'est-ce qu'il propose les awiens là? Allez, on y va. Trump a kidnappé un président. Arrêtez de nous casser les couilles. Est-ce que vous condamnez Maduro? Est-ce que vous condamnez le Ramas? C'est comme en fait attends pour rendre acceptable...
 
+### 4IudQ6CpQSg 04:27 [expand]
+
+- Title: 🔴 PATRIMOINE & FROMAGE ： La nouvelle ligne politique de Pierre-Yves Rougeyron
+- Source: patreon
+- Cluster: patreon-4IudQ6CpQSg-cluster-13 (1 occurrence)
+- Current quote: TD scan. Je dis c'est typiquement le
+- Current topic: Je dis c'est typiquement le genre de mec à dire ça.
+- Current prediction: TD scan. Je dis c'est typiquement le
+- Type: meta
+- Suggested clip: 04:09 -> 05:22
+- Flags: meta_scan, weak_prediction
+- Expanded context: hésitaient à se faire un petit abonnement à 999 pour tester, moi j'ai j'ai ma paye demain. Donc c'est le moment. Ça c'est ça c'est c'est de la magie. Voilà, c'est magique. Exactement. Ouais, ça mais ça l' c'est exceptionnel. C'est exceptionnel. [rires] Et c'est de bout en bout en fait. Au début, je le capte le mec et je fais un TD scan. Je dis c'est typiquement le genre de mec à dire ça. Je dis et en fait il a fait pire. Donc ça c'est gratos. Enfin c'est gratos c'est payant mais c'est c'est vraiment du pain béni. Et je fais rarement la promo. Vous me vous me le l'accorderez mais là je je trouve qu'on a fait je suis malade et on a fait une très bonne session. Et alors là c'est arrivé avant la fin du mois. On a fait hier euh donc le jeudi, vous savez, je peux pas faire de live parce que YouTube me censure le jeudi, donc je peux pas faire de live public. Donc je fais toujours des lives privés maintenant...
+
+### 4IudQ6CpQSg 53:59 [expand]
+
+- Title: 🔴 PATRIMOINE & FROMAGE ： La nouvelle ligne politique de Pierre-Yves Rougeyron
+- Source: patreon
+- Cluster: patreon-4IudQ6CpQSg-cluster-14 (1 occurrence)
+- Current quote: scan [ __ ] Oh [ __ ] ils le font.
+- Current topic: C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique.
+- Current prediction: C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique.
+- Type: prediction
+- Suggested clip: 53:41 -> 54:54
+- Flags: no_future_hint_in_expanded_context
+- Expanded context: plus il affinité. Donc on est au moins uni là-dessus. Chaque jour on paye une TVA qui nous la met au cul. Donc ça déjà c'est c'est euh c'est ce qui nous réunit tous. OK. Euh l'habitude de faire par exemple des banquets. Ah bah voilà le banquet. Oh [ __ ] td scan [ __ ] Oh [ __ ] ils le font. C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique. C'est vraiment ça. Cospl ber c'est vraiment ça les mecs. Du vin et du saucisson. Le banquet gaulois, c'est un juif Gosini qui a scénarisé euh euh nous les ancêtres les Gaulois après avoir fait une formation aux États-Unis en avec les juifs de New York qui dessinaient des comics et les mecs on vit les Français vivent avec l'image d'épinale du Gaulois français. scénarisé par un juif en fait, c'est magnifique. Mais alors ouais, le banquet, les bonnes bouffes, la bonne chair et puis les [ __ ] tu on y vient. Alors, vas-y, c'est parti. Alors, attendez, on s'offre 5 minutes de...
+
 ### 5h8THMZzRk4 2:27:33 [expand]
 
 - Title: Les Français ne parlent que de ça ... Mais nous allons parler d'autre chose !
 - Source: patreon
-- Cluster: patreon-5h8THMZzRk4-cluster-12 (1 occurrence)
+- Cluster: patreon-5h8THMZzRk4-cluster-15 (1 occurrence)
 - Current quote: tiscan
 - Current topic: voilà donc elle payait pas les courses merciallez fais les cœurs là fais les...
 - Current prediction: tiscan
@@ -340,7 +408,7 @@ Negated: 2
 
 - Title: Les Français ne parlent que de ça ... Mais nous allons parler d'autre chose !
 - Source: patreon
-- Cluster: patreon-5h8THMZzRk4-cluster-13 (1 occurrence)
+- Cluster: patreon-5h8THMZzRk4-cluster-16 (1 occurrence)
 - Current quote: scan vont se nourrir avec des produits
 - Current topic: ça qu'on arrive à s'entendre voilà il y a pas besoin d'un Tvont se...
 - Current prediction: ça qu'on arrive à s'entendre voilà il y a pas besoin d'un T scan vont se nourrir avec des produits de moins...
@@ -349,11 +417,76 @@ Negated: 2
 - Flags: none
 - Expanded context: donc les populations les plus précaires vont se nourrir avec des produits de moins bonne qualité que les populations aisées et la population en plus Nathalie tu me sais vraiment pas en étude mais parce que tu en as le caractère parce qu'on a tous fait ça parce qu'on a dans le cul c'est pour ça qu'on arrive à s'entendre voilà il y a pas besoin d'un T scan vont se nourrir avec des produits de moins bonne qualité que les populations aisées et la population é qu'est-ce qu'elle dit ouais c'est ça menteuse vas-y de meilleure qualité donc c'est le c'est le problème qu'on rencontre donc les populations les plus précaires vont se nourrir avec des produits de moins bonne qualité oui ben c'est pour ça que quand tu veux te nourrir avec des produits de meilleure qualité tu travailles les produits de meilleure qualité ils mettent plus de temps à être fait il faut les payer ouais les populations aisées et la population étudiante elle elle est particulièrement touchée par la précarité puisqu'on a vu les fils d'attentes...
 
+### 79LBGulGlgk 1:11:35 [expand]
+
+- Title: 🔴 Les bijoux de la couronne ： Pierre-Jean CHALENÇON est-il le COMMANDITAIRE ？
+- Source: patreon
+- Cluster: patreon-79LBGulGlgk-cluster-17 (1 occurrence)
+- Current quote: je sais pas si c'est un tiscan.
+- Current topic: Les amis, les collectionneurs, c'est une
+- Current prediction: Mais il y a une histoire là-dedans.
+- Type: uncertain
+- Suggested clip: 1:11:17 -> 1:12:30
+- Flags: uncertain_scan
+- Expanded context: des r des rentes qui vont rembourser tout ça. Ouais, c'est un beau lor. Les mus ils sont ouverts. C'est les pass c'est ça. C'est Non mais servez-vous c'est ça je sais pas si c'est un tiscan. Mais il y a une histoire là-dedans. Ouais. Les amis, les collectionneurs, c'est une affaire conclue. Allez là, allez dans les musées. Affir sont ouverts. C'est les passir mais pass. C'est ça. C'est Non mais c'est au mieux, il a vu des gens dans son entourage faire ça. Franchement, c'est terrifiant. Il nous dit pas tout. Voilà, c'est ça. Ça c'est sûr. Envie de raner mais c'est terrifiant. Mais mais tu sais moi moi qui suis un collectionneur, tu sais, j'ai vendu une partie de de collection parce que ça fait 4 ans qu'on me poursuit que les impôt le machin. Mais moi j'ai mais j'ai j'ai tout ramassé. J'ai proposé à ce que la collection soit rachetée même par des milliardaires très en vues. Pas de son, pas d'image. On se fout de la culture en France. Et je comprends pas ce...
+
+### 7HdOQgi14OQ 42:43 [expand]
+
+- Title: 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？
+- Source: patreon
+- Cluster: patreon-7HdOQgi14OQ-cluster-18 (3 occurrences)
+- Current quote: Bon. Ah, par contre le petit scan sur
+- Current topic: Papacito, le petit TD scan pour les plus anciens d'entre vous
+- Current prediction: Bon. Ah, par contre le petit scan sur
+- Type: prediction
+- Suggested clip: 42:25 -> 43:42
+- Flags: duplicate_cluster, weak_topic, weak_prediction
+- Expanded context: Ouais, je comprends. Euh les accélérationnistes, j'en avais rencontré euh ça ça ça vend des armes en banlieu aux noirs et aux arabes en disant un jour ils vont s'en servir pour faire la révolution, ils font jamais de révolution avec et puis à côté de ça, ça achète du cheat et ça mange des kebabs. Bon. Ah, par contre le petit scan sur Papacito, le petit TD scan pour les plus anciens d'entre vous. Petit Teddy scan sur Papacito, je me suis bien fait insulter sur celui-là. Je vous avais pas dit qu'il invviterait à voter un jour LFI qu'au bout du bout bout du bout du bout du bout du chemin. Là, c'est celle-là, elle est celle-là, elle est pas mal. J'étais pas au courant, j'irai regarder. Ouais. Et je te remercie énormément. Rappelle-moi ton prénom. Hug. Hug, je te remercie énormément Hug. Et je te dis à la prochaine. Ça marche. Merci. Salut. Je coupe la r 2 minutes puisque comme je vous ai dit, j'ai un petit peu bu hier. Donc il faut que je me...
+
+### 7HdOQgi14OQ 42:44 [merge]
+
+- Title: 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？
+- Source: patreon
+- Cluster: patreon-7HdOQgi14OQ-cluster-18 (3 occurrences)
+- Current quote: Papacito, le petit TD scan pour les plus
+- Current topic: Papacito, le petit TD scan pour les plus anciens d'entre vous
+- Current prediction: Je vous avais pas
+- Type: prediction
+- Suggested clip: 42:25 -> 43:42
+- Flags: duplicate_cluster, weak_topic, weak_prediction
+- Expanded context: Ouais, je comprends. Euh les accélérationnistes, j'en avais rencontré euh ça ça ça vend des armes en banlieu aux noirs et aux arabes en disant un jour ils vont s'en servir pour faire la révolution, ils font jamais de révolution avec et puis à côté de ça, ça achète du cheat et ça mange des kebabs. Bon. Ah, par contre le petit scan sur Papacito, le petit TD scan pour les plus anciens d'entre vous. Petit Teddy scan sur Papacito, je me suis bien fait insulter sur celui-là. Je vous avais pas dit qu'il invviterait à voter un jour LFI qu'au bout du bout bout du bout du bout du bout du chemin. Là, c'est celle-là, elle est celle-là, elle est pas mal. J'étais pas au courant, j'irai regarder. Ouais. Et je te remercie énormément. Rappelle-moi ton prénom. Hug. Hug, je te remercie énormément Hug. Et je te dis à la prochaine. Ça marche. Merci. Salut. Je coupe la r 2 minutes puisque comme je vous ai dit, j'ai un petit peu bu hier. Donc il faut que je me...
+
+### 7HdOQgi14OQ 42:47 [merge]
+
+- Title: 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？
+- Source: patreon
+- Cluster: patreon-7HdOQgi14OQ-cluster-18 (3 occurrences)
+- Current quote: anciens d'entre vous. Petit Teddy scan
+- Current topic: Papacito, le petit TD scan pour les plus anciens d'entre vous
+- Current prediction: Je vous avais pas dit qu'il invviterait à voter un jour
+- Type: prediction
+- Suggested clip: 42:25 -> 43:42
+- Flags: duplicate_cluster, weak_topic
+- Expanded context: Ouais, je comprends. Euh les accélérationnistes, j'en avais rencontré euh ça ça ça vend des armes en banlieu aux noirs et aux arabes en disant un jour ils vont s'en servir pour faire la révolution, ils font jamais de révolution avec et puis à côté de ça, ça achète du cheat et ça mange des kebabs. Bon. Ah, par contre le petit scan sur Papacito, le petit TD scan pour les plus anciens d'entre vous. Petit Teddy scan sur Papacito, je me suis bien fait insulter sur celui-là. Je vous avais pas dit qu'il invviterait à voter un jour LFI qu'au bout du bout bout du bout du bout du bout du chemin. Là, c'est celle-là, elle est celle-là, elle est pas mal. J'étais pas au courant, j'irai regarder. Ouais. Et je te remercie énormément. Rappelle-moi ton prénom. Hug. Hug, je te remercie énormément Hug. Et je te dis à la prochaine. Ça marche. Merci. Salut. Je coupe la r 2 minutes puisque comme je vous ai dit, j'ai un petit peu bu hier. Donc il faut que je me...
+
+### 7HdOQgi14OQ 1:14:25 [keep]
+
+- Title: 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？
+- Source: patreon
+- Cluster: patreon-7HdOQgi14OQ-cluster-19 (1 occurrence)
+- Current quote: l'état. Moi, c'est mon Tiscan personnel.
+- Current topic: ressources et le moment où ils vont crever, ils vont juste donner 70 %...
+- Current prediction: ressources et le moment où ils vont crever, ils vont juste donner 70 % à l'état.
+- Type: prediction
+- Suggested clip: 1:14:07 -> 1:15:20
+- Flags: none
+- Expanded context: enfler un bon 60 % 70 %. Ils feront juste avant la mort des vieux, ils vont faire passer des lois pour taxer plus de 70 % sur tout type d'héritage, c'est sûr et certain. Ce qui fait que tous les vieux auront acheté, collecté des ressources et le moment où ils vont crever, ils vont juste donner 70 % à l'état. Moi, c'est mon Tiscan personnel. Euh et ça remboursera pas la dette puisqu'ils vont recréer de la dépense après. Mais c'est vrai qu'on va avoir l'écroulement du marché de l'immobilier avec ça. Cabe est en train de dire à son audience qu'il fait qu'il faut absolument acheter sa RP. C'est quoi sa RP? Je sais pas ce que c'est. Et vous pouvez appeler hein. Co esté juste Oh qu'est-ce que vous écrivez là? Faudra acheter l'immobilier dans 15 ans. Ouais. Ouais. Bah moi, c'est déjà fait en 2023. Ah c'est ils ont déjà commencé. Non mais ils iront plus loin. On en est où? RP c'est la résidence principale. Ah il dit ça. Euh je peux pas me...
+
 ### 8ghLqhyzVtg 1:15:33 [expand]
 
 - Title: Votre feuilleton politique de l'été, continue en automne ｜ MACRON DÉMISSION saison 9
 - Source: patreon
-- Cluster: patreon-8ghLqhyzVtg-cluster-14 (1 occurrence)
+- Cluster: patreon-8ghLqhyzVtg-cluster-20 (1 occurrence)
 - Current quote: avec son TD scan mais je vous explique
 - Current topic: que c'est vrai qu'on me dit tu sais quand on me dit il a...
 - Current prediction: que c'est vrai qu'on me dit tu sais quand on me dit il a rien compris Ty avec son TD scan mais...
@@ -366,7 +499,7 @@ Negated: 2
 
 - Title: 🔴 MALCOLM in the GOURBI ： C'était vraiment naze... Je vous explique
 - Source: patreon
-- Cluster: patreon-8K2Qpd4oTpo-cluster-15 (1 occurrence)
+- Cluster: patreon-8K2Qpd4oTpo-cluster-21 (1 occurrence)
 - Current quote: moi j'ai un té scan là-dessus. Bon
 - Current topic: Bon ensuite donc [raclement de gorge] la fille de Malcom elle est très intelligente,...
 - Current prediction: mon final c'est que je vais vous expliquer le plan marketing parce que moi j'ai un té scan là-dessus.
@@ -379,7 +512,7 @@ Negated: 2
 
 - Title: 🔴 MALCOLM in the GOURBI ： C'était vraiment naze... Je vous explique
 - Source: patreon
-- Cluster: patreon-8K2Qpd4oTpo-cluster-16 (1 occurrence)
+- Cluster: patreon-8K2Qpd4oTpo-cluster-22 (1 occurrence)
 - Current quote: garde mon TD scan de à mon avis, ils
 - Current topic: Après, ça dépendra aussi du pogon que ça rapporte.
 - Current prediction: hein, c'est de c'est comme si vous regardiez un film de 2h et puis moi, je garde mon TD scan de à...
@@ -388,11 +521,50 @@ Negated: 2
 - Flags: meta_scan, weak_prediction
 - Expanded context: redevenir français quoi, tu vois. [rires] Bon, allez. Donc, j'espère que ça vous a plu, que ça vous a intéressé. Hésitez pas à au moins zapper dedans histoire de voir ce que ça donne. C'est pas si long hein, c'est de c'est comme si vous regardiez un film de 2h et puis moi, je garde mon TD scan de à mon avis, ils vont tenter de faire une série annexe. Après, ça dépendra aussi du pogon que ça rapporte. Si ça se trouve, ils pourront pas le faire. Et euh voilà, je je j'étais c'était vérifiable. Allez, je mets le CSV, on se dit au revoir demain à 10h. Ouais, mais Camelot 2, [ __ ] je l'ai vu, hein. Il y a Je je On n'est pas tous fait pareil. Laorine, elle a dit qu'elle avait bien aimé Camote 2 là. Euh, moi je me rappelle déjà plus. Bah oui, on va refaire des lives classe moyennes. On fait des lives classe moyenne tout le temps. Eh, eh, Lucy, tu commences pas. C'est bon là, on fait un back...
 
+### 9gft2XP6kM4 15:54 [expand]
+
+- Title: RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels
+- Source: patreon
+- Cluster: patreon-9gft2XP6kM4-cluster-23 (1 occurrence)
+- Current quote: j'ai Ouais le tiscan et j'ai trouvé ça
+- Current topic: effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais et j'ai...
+- Current prediction: effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais le tiscan et j'ai trouvé ça vraiment passionnant quo même...
+- Type: prediction
+- Suggested clip: 15:36 -> 16:49
+- Flags: weak_prediction
+- Expanded context: passionnant. J'ai trouvé ton analyse mais j'ai enfin j'ai vu que tu avais anticipé des trucs et je me suis dit même par rapport à la gestion de de la meuf quand tu as dit ouais Rougéron il a attaqué la nana à partir de maintenant il aura plus le droit de parler bah effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais le tiscan et j'ai trouvé ça vraiment passionnant quo même au sujet des des thématiques parce que c'est vrai que Pierre Riv Rougéron et Begodo malgré tout c'est quand même des intellectuels qui qui ont des choses à dire et qui enfin pour Pour moi, ils ont une bonne vision Pierry Brougéron, tu vois, c'est pas un droitard qui va Ah non, mais il fait un travail de for Pierry Brougéron. Ah ouais, non mais ils sont ils sont très pertinents quoi. Ils sont très pertinents et c'est vrai que Begodo pour le coup euh a a mis Pierre Rougéron en face de certaines limites de son discours, notamment au sujet de l'invention des...
+
+### 9gft2XP6kM4 40:58 [keep]
+
+- Title: RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels
+- Source: patreon
+- Cluster: patreon-9gft2XP6kM4-cluster-24 (1 occurrence)
+- Current quote: j'aurais pu faire un té scan. Je suis
+- Current topic: conclure par il faut cultiver son cynisme.
+- Current prediction: Vas-y, vas-y, continue.
+- Type: prediction
+- Suggested clip: 40:40 -> 41:53
+- Flags: none
+- Expanded context: a le point alors ça peut être traduit par le stoïisme, le cynisme, beaucoup de d'éléments qui diraient en fait on s'en fout quoi. J'aurais vraiment dû faire le sketch au début. Le sketch que je voulais vous faire c'était exactement ça. Je voulais conclure par il faut cultiver son cynisme. C'est terrible. [ __ ] j'aurais pu faire un té scan. Je suis vraiment trop con quoi. Vas-y, vas-y, continue. OK, mais je suis en pleine dent. C'est-à-dire que une fois qu'on a fait le constat, c'est-à-dire toi, moi, le le chat et peu importe, une fois qu'on a fait le constat, euh il faut se placer quelque part, c'està dire on changera rien pour moi. Ça va, on va continuer à descendre en fait. Oui, mais alors pas je pourrais te répliquer quelque chose en tant que socialiste solide du coup euh le cyisme est ou ou le stoïisme pourrait être de très bons moteurs pour la réussite personnelle. Donc par moi moi ça m'est arrivé d'être cynique ou de puiser dans mon cynisme le côté un peu...
+
+### A3e8YCHZbJk 07:33 [expand]
+
+- Title: 🎙️ RADIO LIBRE 3 🎙️ - TRUMP va-t-il TRAHIR tous ses électeurs ？
+- Source: patreon
+- Cluster: patreon-A3e8YCHZbJk-cluster-25 (1 occurrence)
+- Current quote: saurez à mon avis hein Teddy Scan, bon,
+- Current topic: Là, c'est vraiment pour moi prioritaire et vous saurez à mon avis heinbon, je...
+- Current prediction: Là, c'est vraiment pour moi prioritaire et vous saurez à mon avis hein Teddy Scan, bon, je préfère le dire au début...
+- Type: meta
+- Suggested clip: 07:15 -> 08:28
+- Flags: meta_scan, weak_prediction
+- Expanded context: montrer au fur et à mesure pendant le show, d'accord? Et je veux pas qu'on se blinde le cerveau en début de show. Sachant que moi ce qui m'intéresse là pour le coup, c'est de mesurer l'opinion française et ce que vous en pensez en fait. Là, c'est vraiment pour moi prioritaire et vous saurez à mon avis hein Teddy Scan, bon, je préfère le dire au début en août, s'il se passe que je crois qu'il va se passer, le live d'aujourd'hui va tourner comme du très bon vin, contrairement à la piquette que je vais boire ce soir. Donc euh engagez-vous, hein, engagez-vous, ça sera historique, je pense. Faites-moi confiance. Allez, on fait passer le melting pote qui sera donc notre intervenant permanent de début de live quoi. Le premier des courageux en même temps. Ah ah oui, attends, on t'entend pas là. 2 secondes, 2 secondes. Voilà. Tac. Vas-y, redis bonjour. Bonjour. Bonjour. On m'entend, c'est bon. Est-ce que le fait que tu sois toujours premier sur mon territoire est lié à tes racines portugaises? l'envie de...
+
 ### Auil7lDmDgw 1:16:58 [keep]
 
 - Title: Aujourd'hui, le sujet c'est vous !
 - Source: patreon
-- Cluster: patreon-Auil7lDmDgw-cluster-17 (1 occurrence)
+- Cluster: patreon-Auil7lDmDgw-cluster-26 (1 occurrence)
 - Current quote: m'a tagué Teddis Scan. Kick dit qu'il va
 - Current topic: Kick dit qu'il va engager une autre équipe de modération et bon bah ils...
 - Current prediction: Kick dit qu'il va engager une autre équipe de modération et bon bah ils vont devenir Twitch quoi.
@@ -405,7 +577,7 @@ Negated: 2
 
 - Title: 🔴 LE PROHÈTE DE LA CLASSE MOYENNE & La sainte carte
 - Source: patreon
-- Cluster: patreon-BOkxceq0Ex0-cluster-18 (1 occurrence)
+- Cluster: patreon-BOkxceq0Ex0-cluster-27 (1 occurrence)
 - Current quote: détour, j'avais fait un tiscan mais qui
 - Current topic: je crois que on l'a mis dans 4500 € net les l'économie de l'art...
 - Current prediction: Et au détour, j'avais fait un tiscan mais qui est pas difficile.
@@ -418,7 +590,7 @@ Negated: 2
 
 - Title: 🔴 LE PROHÈTE DE LA CLASSE MOYENNE & La sainte carte
 - Source: patreon
-- Cluster: patreon-BOkxceq0Ex0-cluster-19 (1 occurrence)
+- Cluster: patreon-BOkxceq0Ex0-cluster-28 (1 occurrence)
 - Current quote: Alors le petit Tiscan,
 - Current topic: Mais bon, elle est elle est animée, c'est bien.
 - Current prediction: Quelles sont mes intentions?
@@ -431,7 +603,7 @@ Negated: 2
 
 - Title: LE JARL vs Delavier
 - Source: patreon
-- Cluster: patreon-C1ycvGtNXlA-cluster-20 (1 occurrence)
+- Cluster: patreon-C1ycvGtNXlA-cluster-29 (1 occurrence)
 - Current quote: gamine gazage qui ne fait rien TD scan
 - Current topic: fait rien hein en bande de miliciensam voilà merci [ __ ] milicien gamine...
 - Current prediction: gamine gazage qui ne fait rien TD scan
@@ -444,7 +616,7 @@ Negated: 2
 
 - Title: 🔴 Scandale du CNC TALENT ： Nicolas paye pour les gauchistes
 - Source: patreon
-- Cluster: patreon-cjG3_hZN8No-cluster-21 (1 occurrence)
+- Cluster: patreon-cjG3_hZN8No-cluster-30 (1 occurrence)
 - Current quote: scan validé. Ouais. Je sais pas lesquels
 - Current topic: Je sais pas lesquels là pour le coup, mais euh là c'est les scadres...
 - Current prediction: parle maintenant et ça se trouve en fait le CNC va devoir euh Ouais.
@@ -457,7 +629,7 @@ Negated: 2
 
 - Title: 🍩⧸20 - Déstockage
 - Source: patreon
-- Cluster: patreon-E4dcL5q48pM-cluster-22 (1 occurrence)
+- Cluster: patreon-E4dcL5q48pM-cluster-31 (1 occurrence)
 - Current quote: poubelle. Tiscan. Donc à tous les
 - Current topic: disant que il a jeté le projet Dodge à la poubelle.
 - Current prediction: poubelle. Tiscan. Donc à tous les
@@ -466,11 +638,24 @@ Negated: 2
 - Flags: meta_scan, weak_prediction
 - Expanded context: ai. Il me reste encore deux trois trucs à vérifier. Je pourrais pas être ultra synthétique ou ultra clair sur Trump, mais en gros je vous je vous spoile quand même dès maintenant. Musk, j'ai fait un télisc. Musk vient de désavouer Trump en disant que il a jeté le projet Dodge à la poubelle. Tiscan. Donc à tous les connards, écoutez-moi bien, à tous les connards qui m'ont expliqué que le Dodge c'était une merveille et que c'était évidemment incroyable et que on était sauvé et que j'avais rien compris et que gn gn et que vous l'avez officiellement dans le cul. C'est officiel, vous l'avez dans le cul. Vous verrez demain, on va en faire un live. Vous l'avez dans le cul, d'accord? C'est ici le là le niveau de bal trou, il est là, d'accord? sur Trump, votre bal trou, il est comme ça. Tous les mecs qui ont pris position pro Trump, c'est à peu près là parce que encore on pourrait y croire. Tous les mecs qui ont cru à Musk, bah c'est là, je...
 
+### EpE5Nmfj7n0 1:14:22 [expand]
+
+- Title: 🔴 LES ANECDOTES de gauchistes sous SUBUTEX ： Qui est RAZ de la Zawa Prod ？
+- Source: patreon
+- Cluster: patreon-EpE5Nmfj7n0-cluster-32 (1 occurrence)
+- Current quote: c'est deuxè Tiscan.
+- Current topic: Trop fort George tu débile et l'autre c'est Teddy Eras ou quoi?
+- Current prediction: Ah [ __ ] il y en a qui a trouvé.
+- Type: meta
+- Suggested clip: 1:14:04 -> 1:15:17
+- Flags: meta_scan, quote_too_short, no_future_hint_in_expanded_context
+- Expanded context: là, c'est une question pour vous. Bien bien vous. OK. Vive la chasse. Monsieur et madame ou quoi ont deux fils. Comment s'appelle-t-il? Monsieur et madame ou quoi ont deux fils. Comment s'appelle-t-il? Ah bah c'est deuxè Tiscan. Ah [ __ ] il y en a qui a trouvé. Trop fort George tu débile et l'autre c'est Teddy Eras ou quoi? Teddy Eraz ou quoi? Ouais tu es débile ou quoi? Bravo! Bravo! Bravo! Elle est connue. Ah ben moi, je je connais pas les blague. Tu es bête ou quoi? Ouais, mais tu ta Tis c'est pas une c'est pas un prénom parce que si sinon je dis tu as fait la vaisselle ou quoi? Mais c'est pas des prénoms, tu vois. Teddy et Bill ou quoi? Ouais. 19 janvier, c'est la dernière du jour. Alors, qu'est-ce qu'il ne faut jamais faire devant un poissonci? Qu'est-ce qu'il ne faut jamais faire devant un poisson si?
+
 ### GlOERuub9ck 11:43 [expand]
 
 - Title: Les FEMMES se tapent plus de MECS qu'avant (c'est une information)
 - Source: patreon
-- Cluster: patreon-GlOERuub9ck-cluster-23 (1 occurrence)
+- Cluster: patreon-GlOERuub9ck-cluster-33 (1 occurrence)
 - Current quote: avoir du TD scan je pense parce que je
 - Current topic: inédits à vous sortir je veux dire sur le plan réflexion vous allez encore...
 - Current prediction: avoir du TD scan je pense parce que je
@@ -483,7 +668,7 @@ Negated: 2
 
 - Title: Les FEMMES se tapent plus de MECS qu'avant (c'est une information)
 - Source: patreon
-- Cluster: patreon-GlOERuub9ck-cluster-24 (1 occurrence)
+- Cluster: patreon-GlOERuub9ck-cluster-34 (1 occurrence)
 - Current quote: mon tiscan pour arrêter pour comprendre
 - Current topic: ce qui est énorme là-dedans c'est que par contre j'ai mis du temps à...
 - Current prediction: mon tiscan pour arrêter pour comprendre
@@ -496,7 +681,7 @@ Negated: 2
 
 - Title: Les FEMMES se tapent plus de MECS qu'avant (c'est une information)
 - Source: patreon
-- Cluster: patreon-GlOERuub9ck-cluster-25 (2 occurrences)
+- Cluster: patreon-GlOERuub9ck-cluster-35 (2 occurrences)
 - Current quote: l'intégralité des mecs tiens je scanne
 - Current topic: QR code là ok alors les 100 ou les 200 je sais plus un...
 - Current prediction: l'intégralité des mecs tiens je scanne
@@ -509,7 +694,7 @@ Negated: 2
 
 - Title: Les FEMMES se tapent plus de MECS qu'avant (c'est une information)
 - Source: patreon
-- Cluster: patreon-GlOERuub9ck-cluster-25 (2 occurrences)
+- Cluster: patreon-GlOERuub9ck-cluster-35 (2 occurrences)
 - Current quote: le le TD scan du du QR code là ok alors
 - Current topic: QR code là ok alors les 100 ou les 200 je sais plus un...
 - Current prediction: le le TD scan du du QR code là ok alors
@@ -522,7 +707,7 @@ Negated: 2
 
 - Title: 4500 net (Hors série) - LA CRISE DE 2008 selon Jovanovic & le PYR
 - Source: patreon
-- Cluster: patreon-H8OwLShXVyA-cluster-26 (1 occurrence)
+- Cluster: patreon-H8OwLShXVyA-cluster-36 (1 occurrence)
 - Current quote: monde. Voilà. Tiscan tcan. Les
 - Current topic: Les complotistes se sont parce que elle s elle s'est opposé à Trump à...
 - Current prediction: monde. Voilà. Tiscan tcan. Les
@@ -535,7 +720,7 @@ Negated: 2
 
 - Title: 4500 net (Hors série) - LA CRISE DE 2008 selon Jovanovic & le PYR
 - Source: patreon
-- Cluster: patreon-H8OwLShXVyA-cluster-27 (1 occurrence)
+- Cluster: patreon-H8OwLShXVyA-cluster-37 (1 occurrence)
 - Current quote: vrai, il va vraiment écrire ça. Tiscan,
 - Current topic: Voilà, son prochain livre, c'est comment l'ange gardien m'a
 - Current prediction: Et c'est vrai, il va vraiment écrire ça.
@@ -548,7 +733,7 @@ Negated: 2
 
 - Title: 4500 net (Hors série) - LA CRISE DE 2008 selon Jovanovic & le PYR
 - Source: patreon
-- Cluster: patreon-H8OwLShXVyA-cluster-28 (1 occurrence)
+- Cluster: patreon-H8OwLShXVyA-cluster-38 (1 occurrence)
 - Current quote: que je disais. Td scan 2008 la France
 - Current topic: Ah mais donc en fait il est sincère donc c'est bien ce que je...
 - Current prediction: Td scan 2008 la France n'aurait il y a que native goal [ __ ] On va arrêter le live.
@@ -561,7 +746,7 @@ Negated: 2
 
 - Title: 4500 net (Hors série) - LA CRISE DE 2008 selon Jovanovic & le PYR
 - Source: patreon
-- Cluster: patreon-H8OwLShXVyA-cluster-29 (1 occurrence)
+- Cluster: patreon-H8OwLShXVyA-cluster-39 (1 occurrence)
 - Current quote: Ça y est, tiscan. [ __ ] on connaît le
 - Current topic: Par exemple, la poll Ah, ils ont commencé à acheter de l'or.
 - Current prediction: Ça y est, tiscan. [ __ ] on connaît le
@@ -570,11 +755,37 @@ Negated: 2
 - Flags: weak_prediction, no_future_hint_in_expanded_context
 - Expanded context: enfin la Pologne, elle est dans l'Europe. Après 2008, ils ont tous voulu devenir européens qui et cetera. Enfin, je veux dire, ils ils se sont tellement avec des normes bancaires qui les protègent, [ __ ] Et c'est à partir de là que eux-mêmes ont commencé à acheter de l'or. Par exemple, la poll Ah, ils ont commencé à acheter de l'or. Ça y est, tiscan. [ __ ] on connaît le truc par cœur. Je connais le truc par cœur. Je suis économiste les mecs. C'est bon, je suis le jeune lion. Ça y est, je suis économiste. Question : quand on dit que la France possède tant d'or, c'est possédé par l'État ou les ou l'État plus les Français? C'est possédé par l'État. Après, si tu rajoutes en plus les Français, mais je pense que les Français sont pas très très hors Pologne, elle a reconstitué quasiment son stock d'or qui n'existait plus depuis alors qu'avant il vendait justement grâce grâce au CDS de Black. Oui, mais c'est nul. Il y a eu une crise financière qui...
 
+### haTX0CyYu-w 2:55:20 [expand]
+
+- Title: 🔴 LE COMPLOT DU COVID DES VACHES ： Idriss Abrekane & Pierre-Guillaume Mercadal ONT-ILS RAISON ？
+- Source: patreon
+- Cluster: patreon-haTX0CyYu-w-cluster-40 (1 occurrence)
+- Current quote: rétracter. J'avais fait un TD scan. Je
+- Current topic: Quand on a entendu ça, j'ai dit attention s'il a menacer la ministre de...
+- Current prediction: Tu m'étonnes que les mecs ils vont se rétracter.
+- Type: meta
+- Suggested clip: 2:55:02 -> 2:56:15
+- Flags: retrospective_scan, meta_scan
+- Expanded context: continuez cette folie, ça va être la guerre." Elle m'a dit "Eh, vous ne pouvez pas employer le terme guerre." Je vous l'avais dit, j'avais couvert ça. J'avais dit, rappelez-vous, hein, les meilleurs, je crois que c'était en privé. J'avais dit "Ah, il a utilisé ce langage. On avait regardé toute la vidéo de Mercadal. Je dis "Ah, il l'a menacé. Tu m'étonnes que les mecs ils vont se rétracter. J'avais fait un TD scan. Je viens de m'en rappeler. Quand on a entendu ça, j'ai dit attention s'il a menacer la ministre de guerre, à chaque fois qu'il va se déplacer dans une manif, ils vont déplacer les flics. Je vous l'avais dit il quand hier en en live privé, on regardait le truc de Tatiana Ventos et je découvre que la manif, il y a Mercadal. Je dis [ __ ] il y a Mercadal, tu m'étonnes qu'il y a les flics. Et dans le chat, ouais, qu'est-ce que tu as contre Mercadal? Je dis j'ai rien contre Mercadal mais si à chaque fois qu'il se déplace il...
+
+### i-vZR6k8jeQ 3:15:45 [drop]
+
+- Title: 🔴 SHEIN ： La poupée sexu＊lle qui pose la question de la souveraineté
+- Source: patreon
+- Cluster: patreon-i-vZR6k8jeQ-cluster-41 (1 occurrence)
+- Current quote: ça, c'est pas du tout un Tiscan. Là, je
+- Current topic: Ah bah non, mais en fait, il est hyper important.
+- Current prediction: ça, c'est pas du tout un Tiscan. Là, je
+- Type: negated
+- Suggested clip: 3:15:27 -> 3:16:40
+- Flags: negated_scan, meta_scan, weak_prediction
+- Expanded context: réaction. On a été scandalisé. Voilà, cet objet de vendre des poupées à caractère pédopornographique. Il y a aucun doute là-dessus. C'est une vente, une mise en ligne qu'on a condamné très fermement. Alors, c'est Carl Stéphane Cotandin, directeur général du BHV, directeur général du groupe. Ah bah non, mais en fait, il est hyper important. J'ai dit ça, c'est pas du tout un Tiscan. Là, je me suis gouré. C'est le directeur général de BHV. Il est étrange. OK. Intéressant. Bah il y va au moins. Il s'est remonté les il a une cravate. Il y allit, il a pris personne. Il s'est dit "Je vais y aller, voilà, j'y vais près notre partenaire Chine et on sait pas euh on sait pas combien il y a de vente. Je j'ai dit au début du live, je sais que c'est il y a longtemps, mais la poupée sexuelle, j'ai fait mes recherches. Impossible de savoir qui est le vendeur, combien il y a eu de vente et depuis combien de temps elle est en ligne." à tel point que...
+
 ### igybgPPCWgQ 16:46 [keep]
 
 - Title: La revanche des vieux est sur Le Figaro
 - Source: patreon
-- Cluster: patreon-igybgPPCWgQ-cluster-30 (1 occurrence)
+- Cluster: patreon-igybgPPCWgQ-cluster-42 (1 occurrence)
 - Current quote: avec ça. Je vous fais un TD scan. Ouais.
 - Current topic: dans 1 heure, je crois qu'il va y avoir un problème là avec ça.
 - Current prediction: dans 1 heure, je crois qu'il va y avoir un problème là avec ça.
@@ -587,7 +798,7 @@ Negated: 2
 
 - Title: La revanche des vieux est sur Le Figaro
 - Source: patreon
-- Cluster: patreon-igybgPPCWgQ-cluster-31 (1 occurrence)
+- Cluster: patreon-igybgPPCWgQ-cluster-43 (1 occurrence)
 - Current quote: tiscan. Euh si tu veux un indicateur de
 - Current topic: Euh si tu veux un indicateur de classe moyenisation de la de la banlieu...
 - Current prediction: tiscan. Euh si tu veux un indicateur de
@@ -600,7 +811,7 @@ Negated: 2
 
 - Title: La revanche des vieux est sur Le Figaro
 - Source: patreon
-- Cluster: patreon-igybgPPCWgQ-cluster-32 (1 occurrence)
+- Cluster: patreon-igybgPPCWgQ-cluster-44 (1 occurrence)
 - Current quote: équilibre. J'ai calé mon Tiscan, il a
 - Current topic: peu le serpent qui se mort la queue et donc il y a quand...
 - Current prediction: équilibre. J'ai calé mon Tiscan, il a
@@ -613,7 +824,7 @@ Negated: 2
 
 - Title: La revanche des vieux est sur Le Figaro
 - Source: patreon
-- Cluster: patreon-igybgPPCWgQ-cluster-33 (1 occurrence)
+- Cluster: patreon-igybgPPCWgQ-cluster-45 (1 occurrence)
 - Current quote: euh tiscan sur le communisme du mec de
 - Current topic: le communisme du mec de Maxime mobiliser le patrimoine des vieux bourgeois du Figaro...
 - Current prediction: Il l'a dit discret.
@@ -622,11 +833,24 @@ Negated: 2
 - Flags: none
 - Expanded context: ça euh il y a des solutions alors peut-être mobiliser leur patrimoine euh et donc euh ça c'est là il y a des euh il faut leur permettre de de vivre leurs dernières années dans la dignité euh et ça euh il y a des solutions. Alors peut-être mobiliser leur patrimoine euh et euh tiscan sur le communisme du mec de Maxime mobiliser le patrimoine des vieux bourgeois du Figaro pour financer les jeunes. Il l'a dit discret. Je comprends mieux pourquoi au début de de l'intervention, il il y allait à Taton. Il est venu pour exploser le la table comme disait Raphaël euh sur la fin là. Il lui il a pas compris encore, il a pas capté. Il est là euh mobilizer les qu donc euh ça c'est l'immobilier, c'est le patrimoine financier leur demander en fait de de payer la facture eux-même où il y a des solutions assurantielles qui est de dire une assurance obligatoire dépendance dès que vous avez 50 ans euh qu'il faut peut-être prendre en charge pour mutualiser ce nouveau risque là....
 
+### imExgeOedcM 10:55 [expand]
+
+- Title: 🔴 RÉSULTATS des MUNICIPALES 2026 ： Les Français sont de gauche
+- Source: patreon
+- Cluster: patreon-imExgeOedcM-cluster-46 (1 occurrence)
+- Current quote: Tiscan bairou mer de peau. Bah oui mais
+- Current topic: Alors ça n'est que le premier tour encore une fois, mais la gauche est
+- Current prediction: Tiscan bairou mer de peau. Bah oui mais
+- Type: prediction
+- Suggested clip: 10:37 -> 11:50
+- Flags: weak_prediction, no_future_hint_in_expanded_context
+- Expanded context: J'ai vu chez les newser il y a Psyodé qui lui ont demandé mais tu as fait un sondage parmi ton audience et il y a 50 % de son audience qui vote pas. Grand il a rigolé a raison. Il dit moi c'est ce que je vous dis à chaque fois ouais psélique tu as raison il y en a marre faut changer les choses puis après il se lève pas. Tiscan bairou mer de peau. Bah oui mais c'était pas déjà le cas. La gauche en tête. OK. Alors ça n'est que le premier tour encore une fois, mais la gauche est en tête avec juste en dessous juste en dessous le RN et l'Union des droites, hein. C'est voilà c'est voilà, on peut encore faire quelque chose hein, mais bon, je doute que la droite emporte cette ville. Bref, Reince avec Arnaud Robinet divers droite. OK. Juste en dessous. Ah, c'est de droite Rin. C'est le côté cathédrale. Ah ouais, c'est bien de droite R. Oh là là là là là là. Oh [ __ ]! Ouais,...
+
 ### KKUhXGwHAm4 1:16:17 [keep]
 
 - Title: TOUS LES JOURS, DEVANT LA MAIRIE, LE 20 AVRIL 🦆
 - Source: patreon
-- Cluster: patreon-KKUhXGwHAm4-cluster-34 (1 occurrence)
+- Cluster: patreon-KKUhXGwHAm4-cluster-47 (1 occurrence)
 - Current quote: Oui. Et pourquoi pas? Tiens Teddy Scan.
 - Current topic: Je vous fais un petit TDCAN pour l'écologie.
 - Current prediction: On va utiliser du papier recyclé qui brûle.
@@ -639,7 +863,7 @@ Negated: 2
 
 - Title: TOUS LES JOURS, DEVANT LA MAIRIE, LE 20 AVRIL 🦆
 - Source: patreon
-- Cluster: patreon-KKUhXGwHAm4-cluster-35 (1 occurrence)
+- Cluster: patreon-KKUhXGwHAm4-cluster-48 (1 occurrence)
 - Current quote: tiscan. Ah, j'ai des trucs de
 - Current topic: y a dans ma liste, mais il y a des trucs.
 - Current prediction: Tiens, je vais vous mettre ça tiens
@@ -652,7 +876,7 @@ Negated: 2
 
 - Title: PHILO IA (Partie 2⧸2) ： Par delà le bien & le mal... Ou les deux pieds dans la sophistique !
 - Source: patreon
-- Cluster: patreon-KNdV3kg8L1I-cluster-36 (1 occurrence)
+- Cluster: patreon-KNdV3kg8L1I-cluster-49 (1 occurrence)
 - Current quote: On a petite tiscan sur l'entreoi.
 - Current topic: Euh très tôt, tu avais voulu m'inviter.
 - Current prediction: Euh très tôt, tu avais voulu m'inviter.
@@ -665,7 +889,7 @@ Negated: 2
 
 - Title: PHILO IA (Partie 2⧸2) ： Par delà le bien & le mal... Ou les deux pieds dans la sophistique !
 - Source: patreon
-- Cluster: patreon-KNdV3kg8L1I-cluster-37 (1 occurrence)
+- Cluster: patreon-KNdV3kg8L1I-cluster-50 (1 occurrence)
 - Current quote: on Ouais. Non mais là oui les TD scan.
 - Current topic: surtout si pour contrer tout et surtout si c'est menaçant mais dans le doute...
 - Current prediction: on Ouais. Non mais là oui les TD scan.
@@ -674,11 +898,50 @@ Negated: 2
 - Flags: weak_prediction, no_future_hint_in_expanded_context
 - Expanded context: tribunes ou des entretiens de façon à ce qu'on puisse intervenir comme j'ai dit autant que possible pour les contrô c'est des phénomènes qui risquent de nous menacer pour les contrer. surtout si pour contrer tout et surtout si c'est menaçant mais dans le doute on on Ouais. Non mais là oui les TD scan. Ah tiens, ça pourrait être marrant ça. Combination des moments où je me suis trompé, des moments où j'ai euh où j'ai où j'ai vu à l'avance. Ouais. Et il y a trois exemples qui sont il y en a d'autres he où je parle de surveillance, d'orientation algorithmique de la vie. La surveillance c'est son premier essai donc quasiment. Donc il il reboucle. Concept que j'avais développé de d'intelligence artificielle, de marchandisation intégrale de la vie. Donc c'est ça couvre une longue période hein. C'est vrai que la marchandisation intégrale de la vie, on a attendu les iPhones pour le faire. Mais je peux entendre je peux entendre par exemple la marchandisation du chez soi euh avec la caméra, la webcam, mais je suis...
 
+### kr7ak3UELuU 1:10:20 [expand]
+
+- Title: 🔴 Un BOOMER ZINZIN débat contre des JEUNES sur l'IA
+- Source: patreon
+- Cluster: patreon-kr7ak3UELuU-cluster-51 (1 occurrence)
+- Current quote: live, c'est le tiscan.
+- Current topic: Pour ceux qui savent pas, l'altérité l'altérité philosophie niveau lycée, niveau bac
+- Current prediction: Il a fait ou [ __ ] Je vous l'avais dit en début de live, c'est le tiscan.
+- Type: meta
+- Suggested clip: 1:10:02 -> 1:11:15
+- Flags: retrospective_scan, meta_scan, quote_too_short, weak_prediction, no_future_hint_in_expanded_context
+- Expanded context: contradiction dans le discours. Et puis il y a celles et ceux qui commencent à être de plus en plus nombreux qui comprennent à saisir que c'est la fin du monde que nous aimons. La fin de tout un monde fondé sur l'importance de l'altérité, sur des liens. Il a fait ou [ __ ] Je vous l'avais dit en début de live, c'est le tiscan. Pour ceux qui savent pas, l'altérité l'altérité philosophie niveau lycée, niveau bac l'autre le rapport à l'autre. L'autre est-il moi? Moi moi l'autre l'altérité. Qu'est-ce que que quel Quel est le rapport? Et c'est là on peut s'interroger sur le rapport que l'on entretient à la chose chose qui est mais qui n'est pas moi, il est l'autre. hein niveau lycée. Moi ce que j'adore la philosophie parce que ça me fait penser en fait à moi par rapport aux autres et à au monde. Le monde est moi, il est en moi, il est pour moi, il est face à moi, il est contre moi. J'aime bien moi la filo. Voilà. Alors l'altérité....
+
+### kr7ak3UELuU 1:11:21 [expand]
+
+- Title: 🔴 Un BOOMER ZINZIN débat contre des JEUNES sur l'IA
+- Source: patreon
+- Cluster: patreon-kr7ak3UELuU-cluster-52 (1 occurrence)
+- Current quote: Petit tiscan. Allez, on y va. On est en
+- Current topic: Et puis il y a celles et ceux qui commencent à être de
+- Current prediction: Alors vas-y, on y retourne.
+- Type: meta
+- Suggested clip: 1:11:03 -> 1:12:16
+- Flags: meta_scan
+- Expanded context: moi, il est pour moi, il est face à moi, il est contre moi. J'aime bien moi la filo. Voilà. Alors l'altérité. Alors on y vient. Alors ça c'était la finition. Alors vas-y, on y retourne. On met un peu en arrière. Petit tiscan. Allez, on y va. On est en mode altérité. C'est parti. L'heure auquel nous devons tenir. Et puis il y a celles et ceux qui commencent à être de plus en plus nombreux qui comprennent à saisir que c'est la fin du monde que nous aimons. La fin de tout un monde fondé sur l'importance de l'altérité, sur des liens d'interdépendance sur Ça c'est votre vision. C'est une vision très apocalyptique. C'est une vision très apocalyptique. Encore une fois, vous voyez pas. Je vous parle du monde que nous voulons. C'est pas apocalypse, c'est au contraire le monde que nous voulons. Il y a celles et ceux qui tiennent encore à ce mondeel. Mettez les likes si vous aimez bien parce que vous êtes 1100. C'est vra on est 1100 dans la classe là pour la...
+
+### KUWLS7XGBVk 33:36 [keep]
+
+- Title: 🔴 Pierre-Yves Rougeyron analyse l'enlisement de Trump en Iran
+- Source: patreon
+- Cluster: patreon-KUWLS7XGBVk-cluster-53 (1 occurrence)
+- Current quote: scan qui est visiblement correct. Et
+- Current topic: Et donc maintenant c'est la théorie des souverainistes français de dire en lisement enlisement...
+- Current prediction: Trump est foutu, il va s'en liser.
+- Type: retrospective
+- Suggested clip: 33:18 -> 34:31
+- Flags: retrospective_scan
+- Expanded context: l'attaque en Iran, il a fait "Bon ben, je suis déçu de Trump et de toute façon en fait tuer la tête c'est renforcer le combat puisque les islamistes vont le prendre comme martyre." Donc c'est une très mauvaise stratégie et il a annoncé direct dès l'attaque de Trump. Trump est foutu, il va s'en liser. Ça a été son scan qui est visiblement correct. Et donc maintenant c'est la théorie des souverainistes français de dire en lisement enlisement en lisement. Si Trump arrive à s'en sortir bah du coup ils diront "On avait raison quand même mais ils trouveront un autre truc. Moi je pense qu'il y a en lisement mais j'en suis pas certain tu vois. Mais eux ils en apportent les preuves. Alors et donc du coup c'est ça tuer le chef de tribu ça ne tue pas la tribu. Et ce mythe, on va flinguer. Exact. C'est drôle. Soit il plaque l'imaginaire des tribus, soit celui des organisations criminelles. C'est oui, le cartel de Mdelline a eu mal quand on a tué Pablo Escobar. Je l'entends...
+
 ### L5dX2EG9l3w 53:36 [expand]
 
 - Title: Que deviennent nos gauchistes ？
 - Source: patreon
-- Cluster: patreon-L5dX2EG9l3w-cluster-38 (1 occurrence)
+- Cluster: patreon-L5dX2EG9l3w-cluster-54 (1 occurrence)
 - Current quote: je fais des TD scan
 - Current topic: c'est le sketch que j'ai fait au début.
 - Current prediction: 95 ans - 3 mois.
@@ -691,7 +954,7 @@ Negated: 2
 
 - Title: 🔴 FELDUP ne regrette pas le chèque de Bolloré
 - Source: patreon
-- Cluster: patreon-L8l3D7jjkYc-cluster-39 (3 occurrences)
+- Cluster: patreon-L8l3D7jjkYc-cluster-55 (3 occurrences)
 - Current quote: Le Teddy scan 2 ans d'âge. Teddy Lorenzo
 - Current topic: Alors pour moi c'est forcément Israël.
 - Current prediction: Le Teddy scan 2 ans d'âge. Teddy Lorenzo
@@ -704,7 +967,7 @@ Negated: 2
 
 - Title: 🔴 FELDUP ne regrette pas le chèque de Bolloré
 - Source: patreon
-- Cluster: patreon-L8l3D7jjkYc-cluster-39 (3 occurrences)
+- Cluster: patreon-L8l3D7jjkYc-cluster-55 (3 occurrences)
 - Current quote: scan
 - Current topic: Alors pour moi c'est forcément Israël.
 - Current prediction: Teddy Lorenzo scan hein.
@@ -717,7 +980,7 @@ Negated: 2
 
 - Title: 🔴 FELDUP ne regrette pas le chèque de Bolloré
 - Source: patreon
-- Cluster: patreon-L8l3D7jjkYc-cluster-39 (3 occurrences)
+- Cluster: patreon-L8l3D7jjkYc-cluster-55 (3 occurrences)
 - Current quote: hein. Petit un petit TD scan.
 - Current topic: Alors pour moi c'est forcément Israël.
 - Current prediction: Donc euh Trump c'est un génie, vous allez voir, il va tout [ __ ] G
@@ -730,7 +993,7 @@ Negated: 2
 
 - Title: 🔴 FAITES DES BÉBÉS ： Oui mais pourquoi faire ？
 - Source: patreon
-- Cluster: patreon-NDkdK5VSyxE-cluster-40 (1 occurrence)
+- Cluster: patreon-NDkdK5VSyxE-cluster-56 (1 occurrence)
 - Current quote: la part du futur. Donc Teddy Scan, c'est
 - Current topic: l'adresse de cette fille, je vais la poster et et donc tu te retrouves...
 - Current prediction: l'adresse de cette fille, je vais la poster et et donc tu te retrouves avec la part du futur.
@@ -743,7 +1006,7 @@ Negated: 2
 
 - Title: 🔴 ATTALI, SATAN & LES WOKES
 - Source: patreon
-- Cluster: patreon-NGue00dxAN0-cluster-41 (1 occurrence)
+- Cluster: patreon-NGue00dxAN0-cluster-57 (1 occurrence)
 - Current quote: tiscan
 - Current topic: Ce qui veut dire qu'aujourd'hui vous
 - Current prediction: Ce qui veut dire qu'aujourd'hui vous
@@ -756,7 +1019,7 @@ Negated: 2
 
 - Title: 🔴 ATTALI, SATAN & LES WOKES
 - Source: patreon
-- Cluster: patreon-NGue00dxAN0-cluster-42 (1 occurrence)
+- Cluster: patreon-NGue00dxAN0-cluster-58 (1 occurrence)
 - Current quote: Teddy scan de Teddy en rou libre. Cet
 - Current topic: Mais c'est pour ça pour ça qu'on peut rien dire.
 - Current prediction: Teddy scan de Teddy en rou libre. Cet
@@ -769,7 +1032,7 @@ Negated: 2
 
 - Title: 🔴 Le bilan carbone des éco-consultants
 - Source: patreon
-- Cluster: patreon-nXxiKQzEzMU-cluster-43 (1 occurrence)
+- Cluster: patreon-nXxiKQzEzMU-cluster-59 (1 occurrence)
 - Current quote: TD scan, c'est bon, c'est réglé. Euh
 - Current topic: Euh donc il y a pas de problème, on va pas résoudre le problème...
 - Current prediction: Euh donc il y a pas de problème, on va pas résoudre le problème mais on emploie encore des [ __ ]...
@@ -778,11 +1041,37 @@ Negated: 2
 - Flags: none
 - Expanded context: OK. Faut faut alors madame madame Michel, comment on fait sur l'usage? Et pour ça, on recrute des ergothérapeutes expliqué aux familles et aux personnes âgées. Ça c'est la coopération. C'est le C. Ah, c'est le C dans le cul. Ouais. de la coopération. On emploie comme on la TD scan, c'est bon, c'est réglé. Euh donc il y a pas de problème, on va pas résoudre le problème mais on emploie encore des [ __ ] d'intermédiaires pour aller t'expliquer à ta grand-mère. Est-ce que vous avez bien compris comment on utilise la CAD madame? C'est-à-dire comment on utilise la CAD madame? Je n'en ai rien à [ __ ] de vos conneries madame. [rires] Franchement, si elle était encore vivante, là je je la mettrai devant ça, ma grand-mère. Mais qu'est-ce qu'il raconte? Dis-lui de partir. Dis dis-lui de partir. [rires] Ah oui! Et après il se foutaient de leur gueule grand-mère. Ah ah ah oui, c'est intéressant ça. [rires] Et après l'État taxe les individus qui font plus de 2500 €. Ouais, c'est c'est complètement dingue. Désolé,...
 
+### OQaGUv__6po 19:03 [expand]
+
+- Title: 🔴 ALMA DUFOUR veut PLUS DE POLICE pour les Kebab 👮
+- Source: patreon
+- Cluster: patreon-OQaGUv__6po-cluster-60 (2 occurrences)
+- Current quote: tiscan
+- Current topic: On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec...
+- Current prediction: On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec la gauche sécuritaire?
+- Type: retrospective
+- Suggested clip: 18:45 -> 20:01
+- Flags: retrospective_scan, duplicate_cluster, quote_too_short
+- Expanded context: policière renforcée. La dissolution td les mecs pour les anciens une police renforcée la gauche sécuritaire tiscan tiscan. On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec la gauche sécuritaire? C'est impossible. Je vous l'ai dit, pour défendre les noirs et les arabes de quartier, ils vont demander plus de police. Et et alors ça, j'avoue, c'était inattendu. Pour défendre les Antifa, il faudra plus de police. La gauche sécuritaire, je vous l'avais promis, ça fait 3 ans que je vous le dis, 4 ans je crois sur le plateau de depuis le mon passage chez chez Nicolas Ford. Ça fait 4 ans qu'on me traite d'abruti. Merci. Merci. C'est bon de ces groupes violents et le fait que la police soit là pour vraiment protéger les gens. Voilà, plus de polic mecs qui ont peur. Pour défendre les mecs qui ont des couteaux sur eux. Oh! [ __ ] ça me fait peur. Ça me fait peur.
+
+### OQaGUv__6po 19:06 [merge]
+
+- Title: 🔴 ALMA DUFOUR veut PLUS DE POLICE pour les Kebab 👮
+- Source: patreon
+- Cluster: patreon-OQaGUv__6po-cluster-60 (2 occurrences)
+- Current quote: tiscan. On me l'a encore dit la semaine
+- Current topic: On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec...
+- Current prediction: tiscan. On me l'a encore dit la semaine
+- Type: retrospective
+- Suggested clip: 18:45 -> 20:01
+- Flags: retrospective_scan, duplicate_cluster, weak_prediction
+- Expanded context: policière renforcée. La dissolution td les mecs pour les anciens une police renforcée la gauche sécuritaire tiscan tiscan. On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec la gauche sécuritaire? C'est impossible. Je vous l'ai dit, pour défendre les noirs et les arabes de quartier, ils vont demander plus de police. Et et alors ça, j'avoue, c'était inattendu. Pour défendre les Antifa, il faudra plus de police. La gauche sécuritaire, je vous l'avais promis, ça fait 3 ans que je vous le dis, 4 ans je crois sur le plateau de depuis le mon passage chez chez Nicolas Ford. Ça fait 4 ans qu'on me traite d'abruti. Merci. Merci. C'est bon de ces groupes violents et le fait que la police soit là pour vraiment protéger les gens. Voilà, plus de polic mecs qui ont peur. Pour défendre les mecs qui ont des couteaux sur eux. Oh! [ __ ] ça me fait peur. Ça me fait peur.
+
 ### P0zY9msTG7A 25:21 [expand]
 
 - Title: 🔴 4500 net ： Le techno-gauchisme contre l'émancipation de la classe moyenne
 - Source: patreon
-- Cluster: patreon-P0zY9msTG7A-cluster-44 (1 occurrence)
+- Cluster: patreon-P0zY9msTG7A-cluster-61 (1 occurrence)
 - Current quote: ton tiscan, il me l'a envoyé sur euh,
 - Current topic: euh, attendez, je vais vous le chercher
 - Current prediction: Ce qui où il me dit ton tiscan, il me l'a envoyé sur euh, attendez, je vais vous le chercher.
@@ -795,7 +1084,7 @@ Negated: 2
 
 - Title: 🔴 LE FILS DE OSS 117 en AFRIQUE
 - Source: patreon
-- Cluster: patreon-PEhivdf5Aaw-cluster-45 (1 occurrence)
+- Cluster: patreon-PEhivdf5Aaw-cluster-62 (1 occurrence)
 - Current quote: intuitif. On y vient le Tiscan.
 - Current topic: Voilà vous êtes donc noir intuitif.
 - Current prediction: intuitif. On y vient le Tiscan.
@@ -808,7 +1097,7 @@ Negated: 2
 
 - Title: PHILO IA (partie1⧸2) ： La conscience & le corps numérique
 - Source: patreon
-- Cluster: patreon-PfyN1clYkdc-cluster-46 (1 occurrence)
+- Cluster: patreon-PfyN1clYkdc-cluster-63 (1 occurrence)
 - Current quote: le live sur la quantique. Teddy, scan la
 - Current topic: mécanique quantique, il va falloir regarder tout le live sur la quantique.
 - Current prediction: mécanique quantique, il va falloir regarder tout le live sur la quantique.
@@ -821,7 +1110,7 @@ Negated: 2
 
 - Title: 10h ： Live d'anniversaire ❤️ Sujet ： 10 Septembre, la révolution des Normies
 - Source: patreon
-- Cluster: patreon-pjA7XwxfVvs-cluster-47 (1 occurrence)
+- Cluster: patreon-pjA7XwxfVvs-cluster-64 (1 occurrence)
 - Current quote: tiscan mais moi j'ai pas l'impression
 - Current topic: parce que moi je les sens pas particulier.
 - Current prediction: parce que moi je les sens pas particulier.
@@ -834,7 +1123,7 @@ Negated: 2
 
 - Title: 🔴 4500 NET ： Le revenu universel pour les Français
 - Source: patreon
-- Cluster: patreon-pQSQZXTJ_D8-cluster-48 (1 occurrence)
+- Cluster: patreon-pQSQZXTJ_D8-cluster-65 (1 occurrence)
 - Current quote: Teddy scan absolu. Alors ça faut qu'on
 - Current topic: Je vais pas dire que c'est c'est qu'une seule étude mais donc il y...
 - Current prediction: avant la récolte, soit en période de pauvreté.
@@ -847,7 +1136,7 @@ Negated: 2
 
 - Title: 🍩 ON VA AU FOND 🍩
 - Source: patreon
-- Cluster: patreon-pTrevIm0cyk-cluster-49 (1 occurrence)
+- Cluster: patreon-pTrevIm0cyk-cluster-66 (1 occurrence)
 - Current quote: merci à vous. Le Tiscan est très
 - Current topic: Ça va ça va même malade je tiens le je tiens la barre mais...
 - Current prediction: Ça va ça va même malade je tiens le je tiens la barre mais c'est grâce à vous
@@ -860,7 +1149,7 @@ Negated: 2
 
 - Title: 🍩 ON VA AU FOND 🍩
 - Source: patreon
-- Cluster: patreon-pTrevIm0cyk-cluster-50 (1 occurrence)
+- Cluster: patreon-pTrevIm0cyk-cluster-67 (1 occurrence)
 - Current quote: passage, vous voulez un TD scan? Je
 - Current topic: Je vous garantis que dans 5 ans, il y aura une CGT des auto-entrepreneurs...
 - Current prediction: Je vous garantis que dans 5 ans, il y aura une CGT des auto-entrepreneurs ou l'équivalent parce que Dani Eras et tous
@@ -873,7 +1162,7 @@ Negated: 2
 
 - Title: 🍩 ON VA AU FOND 🍩
 - Source: patreon
-- Cluster: patreon-pTrevIm0cyk-cluster-51 (1 occurrence)
+- Cluster: patreon-pTrevIm0cyk-cluster-68 (1 occurrence)
 - Current quote: dit. Tiscan
 - Current topic: Ah c'est exactement ce que j'avais dit.
 - Current prediction: Ah c'est exactement ce que j'avais dit.
@@ -886,7 +1175,7 @@ Negated: 2
 
 - Title: 🍩 ON VA AU FOND 🍩
 - Source: patreon
-- Cluster: patreon-pTrevIm0cyk-cluster-52 (1 occurrence)
+- Cluster: patreon-pTrevIm0cyk-cluster-69 (1 occurrence)
 - Current quote: mais il y a tout là. Tiscan de tesis
 - Current topic: La pensée magique en fait le carré magique de quoi?
 - Current prediction: mais il y a tout là. Tiscan de tesis
@@ -899,7 +1188,7 @@ Negated: 2
 
 - Title: 🍩 ON VA AU FOND 🍩
 - Source: patreon
-- Cluster: patreon-pTrevIm0cyk-cluster-53 (1 occurrence)
+- Cluster: patreon-pTrevIm0cyk-cluster-70 (1 occurrence)
 - Current quote: Tiscan
 - Current topic: Alors, qu'est-ce que c'est la subisarité?
 - Current prediction: Alors, qu'est-ce que c'est la subisarité?
@@ -912,7 +1201,7 @@ Negated: 2
 
 - Title: 🍩 ON VA AU FOND 🍩
 - Source: patreon
-- Cluster: patreon-pTrevIm0cyk-cluster-54 (2 occurrences)
+- Cluster: patreon-pTrevIm0cyk-cluster-71 (2 occurrences)
 - Current quote: du pot. Teddy scan. Bam, bam, bam, bam.
 - Current topic: Vas-y, je tourne autour du du pot, j'arrive.
 - Current prediction: Vas-y, je tourne autour du du pot, j'arrive.
@@ -925,7 +1214,7 @@ Negated: 2
 
 - Title: 🍩 ON VA AU FOND 🍩
 - Source: patreon
-- Cluster: patreon-pTrevIm0cyk-cluster-54 (2 occurrences)
+- Cluster: patreon-pTrevIm0cyk-cluster-71 (2 occurrences)
 - Current quote: teddy scan. Même lui, il tourne autour
 - Current topic: Je veux pas un commentaire qui est contre moi sur cette tracte,
 - Current prediction: On va bientôt arrêter le live.
@@ -938,7 +1227,7 @@ Negated: 2
 
 - Title: 🍩 ON VA AU FOND 🍩
 - Source: patreon
-- Cluster: patreon-pTrevIm0cyk-cluster-55 (1 occurrence)
+- Cluster: patreon-pTrevIm0cyk-cluster-72 (1 occurrence)
 - Current quote: philosophie. Tis scan tiscan tiscan t
 - Current topic: Et ça fait techno parce que laarité de surcroix a été détournée dans le...
 - Current prediction: philosophie. Tis scan tiscan tiscan t
@@ -951,7 +1240,7 @@ Negated: 2
 
 - Title: 🔴 On analyse la statue géante de l'Atelier Missor
 - Source: patreon
-- Cluster: patreon-pVnQBjGXX4o-cluster-56 (1 occurrence)
+- Cluster: patreon-pVnQBjGXX4o-cluster-73 (1 occurrence)
 - Current quote: avais té scan le gauchisme hein, il faut
 - Current topic: Il s'agira de reconstruire des institutions soudées.
 - Current prediction: Donc là, je vous avais té scan le gauchisme hein, il faut investir, il faut donner de l'argent à moi à la...
@@ -964,7 +1253,7 @@ Negated: 2
 
 - Title: 🔴 MISS FRANCE & les guerrières du Soleil
 - Source: patreon
-- Cluster: patreon-q6lCJUjlcQs-cluster-57 (1 occurrence)
+- Cluster: patreon-q6lCJUjlcQs-cluster-74 (1 occurrence)
 - Current quote: j'ai toujours Ah, tiscan misogin scan.
 - Current topic: avec un bonus quoi.
 - Current prediction: Allez, on démarre depuis toute petite et on démarre à la base.
@@ -973,11 +1262,76 @@ Negated: 2
 - Flags: none
 - Expanded context: bien. Sortez ça à vos copines ou à vos grand-mères. J'ai l'impression que tu fais partie de ces gens qui réfléchissent beaucoup sur eux-mêmes. Ah oui, qui parlent beaucoup d'eux-même aussi. Ah oui. Voilà. Tu peux payer le vin blanc ou pas? Au moins que je parte avec un bonus quoi. F pur. Ouais. Et en fait depuis toute petite parce que j'ai toujours Ah, tiscan misogin scan. Allez, on démarre depuis toute petite et on démarre à la base. Donc tu réfléchis beaucoup sur toi-même. Alors, on c'est à moi de parler. Oui. Oui, c'est à toi. Alors, en zéro, il y a la naissance. Ouais. Après, il y a la première année, 2e année, 3e année, 4e année, quand je rentre à l'école, quand je rentre au lycée, quand je fais c, quand je fais ça, mon premier mec, mon deuxè, mon 3è, mon 4e et hop, c'est parti. Et là, ça va être une énumération féminine. L'énumération féminine. Énumération run. Exactement. Alors, tout va aller en liste. PNJ plus farm égal tout linéarité dans le récit. Alors,...
 
+### Q7ZhkYuG0u0 02:08 [expand]
+
+- Title: 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027
+- Source: patreon
+- Cluster: patreon-Q7ZhkYuG0u0-cluster-75 (2 occurrences)
+- Current quote: petit scan de deux andages qui arrive.
+- Current topic: andages qui arrive
+- Current prediction: Voilà donc ça c'était petit scan de deux andages qui arrive.
+- Type: meta
+- Suggested clip: 01:50 -> 03:09
+- Flags: retrospective_scan, meta_scan, duplicate_cluster
+- Expanded context: N'importe quoi. Bon et ben évidemment non. Finalement c'est pas tant n'importe quoi que ça. Alors aujourd'hui de quoi on va parler? On va parler de deux trucs. [grognement] Petit Hollande ça vient. Voilà donc ça c'était petit scan de deux andages qui arrive. Alors attention hop le petit bouton qui marche pas. Il y a rien qui marche. Ça c'est ça c'est scanné aussi. J'espère que ça va les mecs. Voilà. Attention attention les yeux. Je me prépare. Non, celle-là, elle est belle parce que en privé quand je disais Hollande, c'est possible les mecs, je crois que c'est vraiment possible hein. Sarco, Hollande, Macron, Macron, Hollande, Sarco. Tout le monde disait non. On a quand même eu Sarco qui a tenté une espèce de retour par ces news avec des mecs qui commencent à dire "Moi Sarco, je vois très bien pour lui finalement." Bon après on me dire ouais mais quand même Hollande c'est pas possible. Tu dit pourquoi? Ben déjà il veut pas. Non il a pas dit qu'il voulait mais pourquoi pas? Je veux dire...
+
+### Q7ZhkYuG0u0 02:14 [merge]
+
+- Title: 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027
+- Source: patreon
+- Cluster: patreon-Q7ZhkYuG0u0-cluster-75 (2 occurrences)
+- Current quote: c'est ça c'est scanné aussi. J'espère
+- Current topic: Alors attention hop le petit bouton qui marche pas.
+- Current prediction: J'espère que ça va les mecs.
+- Type: meta
+- Suggested clip: 01:50 -> 03:09
+- Flags: retrospective_scan, meta_scan, duplicate_cluster
+- Expanded context: N'importe quoi. Bon et ben évidemment non. Finalement c'est pas tant n'importe quoi que ça. Alors aujourd'hui de quoi on va parler? On va parler de deux trucs. [grognement] Petit Hollande ça vient. Voilà donc ça c'était petit scan de deux andages qui arrive. Alors attention hop le petit bouton qui marche pas. Il y a rien qui marche. Ça c'est ça c'est scanné aussi. J'espère que ça va les mecs. Voilà. Attention attention les yeux. Je me prépare. Non, celle-là, elle est belle parce que en privé quand je disais Hollande, c'est possible les mecs, je crois que c'est vraiment possible hein. Sarco, Hollande, Macron, Macron, Hollande, Sarco. Tout le monde disait non. On a quand même eu Sarco qui a tenté une espèce de retour par ces news avec des mecs qui commencent à dire "Moi Sarco, je vois très bien pour lui finalement." Bon après on me dire ouais mais quand même Hollande c'est pas possible. Tu dit pourquoi? Ben déjà il veut pas. Non il a pas dit qu'il voulait mais pourquoi pas? Je veux dire...
+
+### Q7ZhkYuG0u0 03:14 [keep]
+
+- Title: 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027
+- Source: patreon
+- Cluster: patreon-Q7ZhkYuG0u0-cluster-76 (1 occurrence)
+- Current quote: Deuxième scan. Alors là, celui-là, j'en
+- Current topic: Il dit "C'est quoi ta notion politique?" Et je dis "lain du capitalisme par...
+- Current prediction: OK bon bah ça déjà ça va être le premier truc.
+- Type: retrospective
+- Suggested clip: 02:56 -> 04:09
+- Flags: retrospective_scan
+- Expanded context: finalement." Bon après on me dire ouais mais quand même Hollande c'est pas possible. Tu dit pourquoi? Ben déjà il veut pas. Non il a pas dit qu'il voulait mais pourquoi pas? Je veux dire je me prépare. OK bon bah ça déjà ça va être le premier truc. Deuxième scan. Alors là, celui-là, j'en ai parlé chez Jungo il y a 2 jours. Il dit "C'est quoi ta notion politique?" Et je dis "lain du capitalisme par sa propre mort euh par le les IA et la robotique, la création de richesse infinie. Et euh donc celui-là, ça fait bien un an et demi que je le défends, hein. Socialisme solide, ça fait bien 1 an qu'on l'affirme, 1 an et demi que je le défend. Donc c'était euh création de richesse automatisée. Donc la question de demain, c'est la répartition des richesses. Donc en gros le socialisme ou le communisme. Et alors là, celui-là, c'était inattendu. He ça m'a c'est quelqu'un qui m'a tagué dessus, c'est Jack Bigotte. C'est Elod M qui dit un revenu universel élevé via...
+
+### Q7ZhkYuG0u0 29:57 [expand]
+
+- Title: 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027
+- Source: patreon
+- Cluster: patreon-Q7ZhkYuG0u0-cluster-77 (1 occurrence)
+- Current quote: confiance à mon tiscan, il va revenir.
+- Current topic: Et il y a un gars il me fait j'avais prévu ça 10 ans...
+- Current prediction: c'est pas fait par là parce que moi je dis bon là quand même vous pouvez faire confiance à mon tiscan, il...
+- Type: prediction
+- Suggested clip: 29:39 -> 30:52
+- Flags: weak_prediction
+- Expanded context: chance qu'il passe, il va passer. Oh, je l'avais dit moi. Je l'avais déjà dit moi. Oui. Euh sur Twitter, il y a un mec, il m'a Attendez, il m'a envoyé et c'est vrai, c'est vrai de vrai. A priori si c'est pas fait par là parce que moi je dis bon là quand même vous pouvez faire confiance à mon tiscan, il va revenir. Et il y a un gars il me fait j'avais prévu ça 10 ans avant. Alors au début, je dis "Ouais e eh j'avais moi j'en étais sûr quoi. Tant tant que je le dis c'est non c'est pas vrai. Tu dit et puis après on dit je l'avais prévu 10 ans avant. Alors il dit petit joueur j'avais dit ça 10 ans avant. J'ai dit preuve sinon fake et il m'a envoyé la preuve. Alors je sais pas si elle est vraie mais il a dit Hollande 2027 le Ah il y a pas de preuve. Ah mais non mais ah non il y a pas de preuve. Ah ben non, mais il y...
+
+### qB8lNSEY2YI 15:32 [expand]
+
+- Title: 🔴 À 34 ans... Le streamer PONCE découvre le ＂POSITIONNEMENT POLITIQUE＂.
+- Source: patreon
+- Cluster: patreon-qB8lNSEY2YI-cluster-78 (1 occurrence)
+- Current quote: juste tiscan
+- Current topic: Les les gros débiles mentaux en France aiment les élections parce qu'ils
+- Current prediction: il dit "J'ai tellement hâte, je vous mets plus fort de 2027, moi je vous dis juste tiscan c'est il est l'expression...
+- Type: prediction
+- Suggested clip: 15:14 -> 16:27
+- Flags: quote_too_short
+- Expanded context: la totale. Moi c'est j'ai en fait c'est Maxwell dégénéré parce que Maxwell il a à ce côté-là un peu mais mais là c'est la version dégénérée de Maxwell. tellement hâte de alors voilà, lui il a hâte de 2027, il dit "J'ai tellement hâte, je vous mets plus fort de 2027, moi je vous dis juste tiscan c'est il est l'expression du PNisme. Les les gros débiles mentaux en France aiment les élections parce qu'ils peuvent se comparer, parce qu'ils pensent que les gens qui votent à droite sont complètement débiles. Donc ils disent what? Les gens ils sont cons, moi je suis intelligent." Et les gens de droite font pareil. Les gens pensent que les autres qui votent sont des débiles. Et les élections présidentielles, c'est l'occasion de voir plein de gens qu'on pense inférieur à soi. Donc c'est la c'est la fête quoi. C'est la fête à la comparaison. Les gens aiment se comparer hein. Quand on leur dit "Tu veux quoi pour l'avenir de ton pays et pour tes enfants?" Hein? De quoi? Qu'est-ce que tu...
+
 ### qb9IoQbsYcI 01:48 [expand]
 
 - Title: 🔴 IA, robot & socialisme ： Comment répartir les richesses de demain ？
 - Source: patreon
-- Cluster: patreon-qb9IoQbsYcI-cluster-58 (1 occurrence)
+- Cluster: patreon-qb9IoQbsYcI-cluster-79 (1 occurrence)
 - Current quote: quitté le live sur le Teddy Scan sur le
 - Current topic: le service public avec Macron qui veut tout remplaced
 - Current prediction: Et donc lui qui était en train d'expliquer aux vieilles chattes,
@@ -990,7 +1344,7 @@ Negated: 2
 
 - Title: 🔴 IA, robot & socialisme ： Comment répartir les richesses de demain ？
 - Source: patreon
-- Cluster: patreon-qb9IoQbsYcI-cluster-59 (1 occurrence)
+- Cluster: patreon-qb9IoQbsYcI-cluster-80 (1 occurrence)
 - Current quote: Oh le prophète ouais et je t'ai tiscan
 - Current topic: Et elle a parlé de ceux qui ont att prophète toi moi je je...
 - Current prediction: Ouais.
@@ -1003,7 +1357,7 @@ Negated: 2
 
 - Title: 🔴 LA CHUTE PROCHAINE DE LA GRANDE DISTRIBUTION FRANÇAISE
 - Source: patreon
-- Cluster: patreon-qq18fE-7dNc-cluster-60 (1 occurrence)
+- Cluster: patreon-qq18fE-7dNc-cluster-81 (1 occurrence)
 - Current quote: Teddy Scan, je m'appelle pas Teddy mais
 - Current topic: J'ai dit à Megan alors c'est terrible.
 - Current prediction: J'ai dit à Megan alors c'est terrible.
@@ -1016,7 +1370,7 @@ Negated: 2
 
 - Title: 🔴  Aujourd'hui on va au ZOO du Gourbistant !
 - Source: patreon
-- Cluster: patreon-RneHZhQZ-yc-cluster-61 (1 occurrence)
+- Cluster: patreon-RneHZhQZ-yc-cluster-82 (1 occurrence)
 - Current quote: Ah mais c'est marrant. Je t'ai té scan.
 - Current topic: Même si tu même si je suis une femme
 - Current prediction: Ah mais c'est marrant. Je t'ai té scan.
@@ -1029,7 +1383,7 @@ Negated: 2
 
 - Title: 🔴  Aujourd'hui on va au ZOO du Gourbistant !
 - Source: patreon
-- Cluster: patreon-RneHZhQZ-yc-cluster-62 (2 occurrences)
+- Cluster: patreon-RneHZhQZ-yc-cluster-83 (2 occurrences)
 - Current quote: le Tiscan.
 - Current topic: Oh là là là là là là là là là là.
 - Current prediction: Oh là là là là là là là là là là.
@@ -1042,7 +1396,7 @@ Negated: 2
 
 - Title: 🔴  Aujourd'hui on va au ZOO du Gourbistant !
 - Source: patreon
-- Cluster: patreon-RneHZhQZ-yc-cluster-62 (2 occurrences)
+- Cluster: patreon-RneHZhQZ-yc-cluster-83 (2 occurrences)
 - Current quote: C'est plus que du Tiscan là.
 - Current topic: Ghetto souris [ __ ] c'est monté souris pour les pour les pour le...
 - Current prediction: Ah celle-là le ghetto souris.
@@ -1055,7 +1409,7 @@ Negated: 2
 
 - Title: Ma réponse à Wissam (le live)
 - Source: patreon
-- Cluster: patreon-tf-I-cG7o5I-cluster-63 (1 occurrence)
+- Cluster: patreon-tf-I-cG7o5I-cluster-84 (1 occurrence)
 - Current quote: Tiscan l'origine du
 - Current topic: On va me dire "On te l'avait dit?" Oui, vous avez tout dit.
 - Current prediction: faut que je sache qu' un mensonge." Et en fait, j'ai Tiscan l'origine du mensonge.
@@ -1068,7 +1422,7 @@ Negated: 2
 
 - Title: Ma réponse à Wissam (le live)
 - Source: patreon
-- Cluster: patreon-tf-I-cG7o5I-cluster-64 (1 occurrence)
+- Cluster: patreon-tf-I-cG7o5I-cluster-85 (1 occurrence)
 - Current quote: c'est exactement du Teddy scan. Je suis
 - Current topic: J'ai pas un patron pour me payer avec un local des merdes comme ça.
 - Current prediction: c'est exactement du Teddy scan. Je suis
@@ -1081,7 +1435,7 @@ Negated: 2
 
 - Title: DELOGU s＊ce des mecs ？ Les critiques de cinémas sont nuls ？ L'art n'existe pas ？ (Tant de questions)
 - Source: patreon
-- Cluster: patreon-TvvPD9rFqSY-cluster-65 (1 occurrence)
+- Cluster: patreon-TvvPD9rFqSY-cluster-86 (1 occurrence)
 - Current quote: l'avoue. Tiscan. Bah là, en l'occurrence
 - Current topic: Moi, je suis plutôt content pour eux, je vous l'avoue.
 - Current prediction: l'avoue. Tiscan. Bah là, en l'occurrence
@@ -1094,7 +1448,7 @@ Negated: 2
 
 - Title: 🔴 TON HISTORIQUE P＊RNHUB est désormais PUBLIC 😱
 - Source: patreon
-- Cluster: patreon-Uw6mw5EBIuQ-cluster-66 (2 occurrences)
+- Cluster: patreon-Uw6mw5EBIuQ-cluster-87 (2 occurrences)
 - Current quote: tiscan. Je veux dire d'accord, j'y
 - Current topic: Contexte à confirmer
 - Current prediction: tiscan. Je veux dire d'accord, j'y
@@ -1107,7 +1461,7 @@ Negated: 2
 
 - Title: 🔴 TON HISTORIQUE P＊RNHUB est désormais PUBLIC 😱
 - Source: patreon
-- Cluster: patreon-Uw6mw5EBIuQ-cluster-66 (2 occurrences)
+- Cluster: patreon-Uw6mw5EBIuQ-cluster-87 (2 occurrences)
 - Current quote: mais je reste le tiscan officiel
 - Current topic: [rires] 2025 c'était l'année du téliscade et des meilleurs et 2026 c'est l'année des
 - Current prediction: Mentaliste.
@@ -1120,7 +1474,7 @@ Negated: 2
 
 - Title: On recycle la liste ou pas cette fois ？!
 - Source: patreon
-- Cluster: patreon-vdKFrTNwcUQ-cluster-67 (1 occurrence)
+- Cluster: patreon-vdKFrTNwcUQ-cluster-88 (1 occurrence)
 - Current quote: C'est plus du Teddy Scan, c'est euh
 - Current topic: le gouvernement le dit un mois, 2 mois après.
 - Current prediction: Donc Gabriel Atal ou le gouvernement ou les pros de la communication, si vous êtes abonné
@@ -1133,7 +1487,7 @@ Negated: 2
 
 - Title: J'ESSAYE DE RESTER DE DROITE en live
 - Source: patreon
-- Cluster: patreon-vQXviJGyvmE-cluster-68 (1 occurrence)
+- Cluster: patreon-vQXviJGyvmE-cluster-89 (1 occurrence)
 - Current quote: lavement TD scan 2018.
 - Current topic: Quand j'avais dit, ils viendront chercher votre richesse chez vous et si vous en...
 - Current prediction: Quand j'avais dit, ils viendront chercher votre richesse chez vous et si vous en avez pas chez vous,
@@ -1146,7 +1500,7 @@ Negated: 2
 
 - Title: J'ESSAYE DE RESTER DE DROITE en live
 - Source: patreon
-- Cluster: patreon-vQXviJGyvmE-cluster-69 (2 occurrences)
+- Cluster: patreon-vQXviJGyvmE-cluster-90 (2 occurrences)
 - Current quote: Tiscan. Combien d' combien d' combien
 - Current topic: Combien d' combien d' combien d'années d'âge?
 - Current prediction: Tiscan. Combien d' combien d' combien
@@ -1159,7 +1513,7 @@ Negated: 2
 
 - Title: J'ESSAYE DE RESTER DE DROITE en live
 - Source: patreon
-- Cluster: patreon-vQXviJGyvmE-cluster-69 (2 occurrences)
+- Cluster: patreon-vQXviJGyvmE-cluster-90 (2 occurrences)
 - Current quote: scan de 6 ans
 - Current topic: C'était déjà les commentateurs de Raptor qui me disaient que j'allais trop loin, je...
 - Current prediction: C'était déjà les commentateurs de Raptor qui me disaient que j'allais trop loin, je racontais n'importe
@@ -1172,7 +1526,7 @@ Negated: 2
 
 - Title: Sinon, comment vont nos gauchistes ？
 - Source: patreon
-- Cluster: patreon-VvAhbkkKKT4-cluster-70 (1 occurrence)
+- Cluster: patreon-VvAhbkkKKT4-cluster-91 (1 occurrence)
 - Current quote: l'avais té scan, il y a un mec qui m'a
 - Current topic: Quelle connerie tu peux raconter sur la musique classique, tu n'y connais
 - Current prediction: Et le reste, il y a eu un canard et c'est exactement, je l'avais té scan, il y a un mec qui...
@@ -1185,7 +1539,7 @@ Negated: 2
 
 - Title: BIENTÔT le VERDICT ： 50 nuances de serviette
 - Source: patreon
-- Cluster: patreon-WFhtQ8KHZRI-cluster-71 (1 occurrence)
+- Cluster: patreon-WFhtQ8KHZRI-cluster-92 (1 occurrence)
 - Current quote: un TD scan il m'a envoyé une vidéo il
 - Current topic: h chîn parce que il y a un membre du patron qui veut pas...
 - Current prediction: h chîn parce que il y a un membre du patron qui veut pas comprendre que j'ai un TD scan il m'a...
@@ -1198,7 +1552,7 @@ Negated: 2
 
 - Title: BIENTÔT le VERDICT ： 50 nuances de serviette
 - Source: patreon
-- Cluster: patreon-WFhtQ8KHZRI-cluster-72 (1 occurrence)
+- Cluster: patreon-WFhtQ8KHZRI-cluster-93 (1 occurrence)
 - Current quote: fait le TD scan en 2027 de toute façon
 - Current topic: c'est écoute on va pas se mentir je vous ai fait en 2027 de...
 - Current prediction: c'est écoute on va pas se mentir je vous ai fait le TD scan en 2027 de toute façon il y a...
@@ -1211,7 +1565,7 @@ Negated: 2
 
 - Title: BIENTÔT le VERDICT ： 50 nuances de serviette
 - Source: patreon
-- Cluster: patreon-WFhtQ8KHZRI-cluster-73 (1 occurrence)
+- Cluster: patreon-WFhtQ8KHZRI-cluster-94 (1 occurrence)
 - Current quote: redif alors TD scan ou pas TD scan
 - Current topic: tiens parce que minou fini de travailler à 18h je vais aller regarder vos...
 - Current prediction: tiens parce que minou fini de travailler à 18h je vais aller regarder vos Liv en redif alors TD scan ou pas...
@@ -1224,7 +1578,7 @@ Negated: 2
 
 - Title: 🔴 Cette ÉTUDIANTE en SOCIO gauchiste va vous surprendre !
 - Source: patreon
-- Cluster: patreon-Xp3Cp_tBs5A-cluster-74 (1 occurrence)
+- Cluster: patreon-Xp3Cp_tBs5A-cluster-95 (1 occurrence)
 - Current quote: Donc ça sera mon petit Tiscan là, mon
 - Current topic: Il a fait un podcast sur le génération 2 sur C.
 - Current prediction: Je pense que ça va jouer sur l'humanité là.
@@ -1237,7 +1591,7 @@ Negated: 2
 
 - Title: Ceci n’est pas une réponse à Madame Goya 🥸
 - Source: patreon
-- Cluster: patreon-yb4K15FVgz4-cluster-75 (1 occurrence)
+- Cluster: patreon-yb4K15FVgz4-cluster-96 (1 occurrence)
 - Current quote: Pourquoi on est au Teddy Scan?
 - Current topic: Elle me répond la meuf, elle prend un exemple elle-même, elle est l'exemple
 - Current prediction: C'était contenu dans ma vidéo de base quoi.
@@ -1250,7 +1604,7 @@ Negated: 2
 
 - Title: PYR, IL VA LE FAIRE !
 - Source: patreon
-- Cluster: patreon-ycXJl_9z1xo-cluster-76 (1 occurrence)
+- Cluster: patreon-ycXJl_9z1xo-cluster-97 (1 occurrence)
 - Current quote: Mais faudrait Tiscan. Est-ce que
 - Current topic: Est-ce que l'Angleterre est dans la merde à cause du Brexit ou malgré le...
 - Current prediction: Nous on va faire Blues et Kazoi.
@@ -1263,7 +1617,7 @@ Negated: 2
 
 - Title: Les vautours ont leur sujet ： Jean Pormanove
 - Source: patreon
-- Cluster: patreon-yHGIqy6INjQ-cluster-77 (1 occurrence)
+- Cluster: patreon-yHGIqy6INjQ-cluster-98 (1 occurrence)
 - Current quote: mon Tiscan
 - Current topic: c'est parce que tu es jaloux.
 - Current prediction: Alors, on va donc regarder mon Tiscan 3 ans après.
@@ -1276,7 +1630,7 @@ Negated: 2
 
 - Title: Les vautours ont leur sujet ： Jean Pormanove
 - Source: patreon
-- Cluster: patreon-yHGIqy6INjQ-cluster-78 (1 occurrence)
+- Cluster: patreon-yHGIqy6INjQ-cluster-99 (1 occurrence)
 - Current quote: exactement c'est Tiscan.
 - Current topic: Mais au moins alors tu vois, il a la main sous la sous la...
 - Current prediction: Mais au moins alors tu vois, il a la main sous la sous la sous la table, il est filmé de loin,...
@@ -1289,7 +1643,7 @@ Negated: 2
 
 - Title: Les vautours ont leur sujet ： Jean Pormanove
 - Source: patreon
-- Cluster: patreon-yHGIqy6INjQ-cluster-79 (1 occurrence)
+- Cluster: patreon-yHGIqy6INjQ-cluster-100 (1 occurrence)
 - Current quote: Td scan. C'est ce qu'il fallait pas dire
 - Current topic: J'avais dit on ne met pas en juste position la télé qui est sérieuse
 - Current prediction: J'avais dit on ne met pas en juste position la télé qui est sérieuse
@@ -1302,7 +1656,7 @@ Negated: 2
 
 - Title: Les vautours ont leur sujet ： Jean Pormanove
 - Source: patreon
-- Cluster: patreon-yHGIqy6INjQ-cluster-80 (1 occurrence)
+- Cluster: patreon-yHGIqy6INjQ-cluster-101 (1 occurrence)
 - Current quote: devenir Teddy Scan la plateforme la plus
 - Current topic: Sachant que c'est un scandale mondial, je le précise parce
 - Current prediction: de Kick qui dit qu'ils vont payer une autre équipe de modération et ça va devenir Teddy Scan la plateforme la plus...
@@ -1315,7 +1669,7 @@ Negated: 2
 
 - Title: Les vautours ont leur sujet ： Jean Pormanove
 - Source: patreon
-- Cluster: patreon-yHGIqy6INjQ-cluster-81 (1 occurrence)
+- Cluster: patreon-yHGIqy6INjQ-cluster-102 (1 occurrence)
 - Current quote: c'est fou! Enfin oui bah oui Teddy Scan
 - Current topic: Les pro Nicolas, les rachats de Nicolas.
 - Current prediction: Enfin oui bah oui Teddy Scan mais enfin tes dit ça n'a aucun rapport la politique et Jean Portmanov enfin la droite...
@@ -1328,7 +1682,7 @@ Negated: 2
 
 - Title: Les vautours ont leur sujet ： Jean Pormanove
 - Source: patreon
-- Cluster: patreon-yHGIqy6INjQ-cluster-82 (1 occurrence)
+- Cluster: patreon-yHGIqy6INjQ-cluster-103 (1 occurrence)
 - Current quote: tiscan
 - Current topic: Ah non c'est pas comme nous.
 - Current prediction: Bah c'est comme nous.
@@ -1341,7 +1695,7 @@ Negated: 2
 
 - Title: LA TOTALE DURAS - Cours de littérature
 - Source: patreon
-- Cluster: patreon-ykkjgo7rPjY-cluster-83 (1 occurrence)
+- Cluster: patreon-ykkjgo7rPjY-cluster-104 (1 occurrence)
 - Current quote: Tiscan,
 - Current topic: Rabier qui est l'agent de la guestapo qui arrête.
 - Current prediction: Et pourquoi le mari il est rentré en 45?
@@ -1354,7 +1708,7 @@ Negated: 2
 
 - Title: L'HUMILITÉ - Live philosophie
 - Source: patreon
-- Cluster: patreon-YQIL7-BO1WE-cluster-84 (1 occurrence)
+- Cluster: patreon-YQIL7-BO1WE-cluster-105 (1 occurrence)
 - Current quote: Tiscan. Qu'est-ce qui t'intéresse?
 - Current topic: passer à la télé pour euh discuter avec des jeunes filles, enfin des jeunes...
 - Current prediction: Tiscan. Qu'est-ce qui t'intéresse?
@@ -1367,7 +1721,7 @@ Negated: 2
 
 - Title: 🔴 LES SOUVERAINISTES veulent sauver TOUTES LES VACHES de France !
 - Source: patreon
-- Cluster: patreon-zYF8rbBMarg-cluster-85 (1 occurrence)
+- Cluster: patreon-zYF8rbBMarg-cluster-106 (1 occurrence)
 - Current quote: Tiscan
 - Current topic: bio permaculture les petits paniers le git et le couvert.
 - Current prediction: bio permaculture les petits paniers le git et le couvert.
@@ -1380,7 +1734,7 @@ Negated: 2
 
 - Title: Le père Paul-Ardien vs Sorcières - Trump vs USAID & les Palestiniens
 - Source: public
-- Cluster: public-_O41GD811Nc-cluster-86 (1 occurrence)
+- Cluster: public-_O41GD811Nc-cluster-107 (1 occurrence)
 - Current quote: ça c'est tiscan c'est ce soir rien que
 - Current topic: la société en devenant adulte et comment pour y arriver ite élumératif regardez ça...
 - Current prediction: la société en devenant adulte et comment pour y arriver ite élumératif regardez ça c'est tiscan c'est ce soir rien que pour...
@@ -1393,7 +1747,7 @@ Negated: 2
 
 - Title: Le père Paul-Ardien vs Sorcières - Trump vs USAID & les Palestiniens
 - Source: public
-- Cluster: public-_O41GD811Nc-cluster-87 (1 occurrence)
+- Cluster: public-_O41GD811Nc-cluster-108 (1 occurrence)
 - Current quote: TD scan secret avec la connexion
 - Current topic: qu'est-ce qu'il y a d'expérimental est-ce que j'ai activé secret avec la connexion démoniaque...
 - Current prediction: qu'est-ce qu'il y a d'expérimental est-ce que j'ai activé un TD scan secret avec la connexion démoniaque qui va faire que tout...
@@ -1406,7 +1760,7 @@ Negated: 2
 
 - Title: 🔴 ON CLASH LES MANGAS Avant les fêtes 🎄
 - Source: public
-- Cluster: public-3fBp8m61nuM-cluster-88 (1 occurrence)
+- Cluster: public-3fBp8m61nuM-cluster-109 (1 occurrence)
 - Current quote: c'est tout le temps ça. Oups. Tiscan.
 - Current topic: Bon bah s'il lui manque une couille, c'est bon
 - Current prediction: c'est tout le temps ça. Oups. Tiscan.
@@ -1419,7 +1773,7 @@ Negated: 2
 
 - Title: 🔴 PATRIMOINE & FROMAGE ： La nouvelle ligne politique de Pierre-Yves Rougeyron
 - Source: public
-- Cluster: public-4IudQ6CpQSg-cluster-89 (1 occurrence)
+- Cluster: public-4IudQ6CpQSg-cluster-110 (1 occurrence)
 - Current quote: TD scan. Je dis c'est typiquement le
 - Current topic: Je dis c'est typiquement le genre de mec à dire ça.
 - Current prediction: TD scan. Je dis c'est typiquement le
@@ -1432,7 +1786,7 @@ Negated: 2
 
 - Title: 🔴 PATRIMOINE & FROMAGE ： La nouvelle ligne politique de Pierre-Yves Rougeyron
 - Source: public
-- Cluster: public-4IudQ6CpQSg-cluster-90 (1 occurrence)
+- Cluster: public-4IudQ6CpQSg-cluster-111 (1 occurrence)
 - Current quote: scan [ __ ] Oh [ __ ] ils le font.
 - Current topic: C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique.
 - Current prediction: C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique.
@@ -1445,7 +1799,7 @@ Negated: 2
 
 - Title: 🔴 Les bijoux de la couronne ： Pierre-Jean CHALENÇON est-il le COMMANDITAIRE ？
 - Source: public
-- Cluster: public-79LBGulGlgk-cluster-91 (1 occurrence)
+- Cluster: public-79LBGulGlgk-cluster-112 (1 occurrence)
 - Current quote: je sais pas si c'est un tiscan.
 - Current topic: Les amis, les collectionneurs, c'est une
 - Current prediction: Mais il y a une histoire là-dedans.
@@ -1458,7 +1812,7 @@ Negated: 2
 
 - Title: 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？
 - Source: public
-- Cluster: public-7HdOQgi14OQ-cluster-92 (3 occurrences)
+- Cluster: public-7HdOQgi14OQ-cluster-113 (3 occurrences)
 - Current quote: Bon. Ah, par contre le petit scan sur
 - Current topic: Papacito, le petit TD scan pour les plus anciens d'entre vous
 - Current prediction: Bon. Ah, par contre le petit scan sur
@@ -1471,7 +1825,7 @@ Negated: 2
 
 - Title: 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？
 - Source: public
-- Cluster: public-7HdOQgi14OQ-cluster-92 (3 occurrences)
+- Cluster: public-7HdOQgi14OQ-cluster-113 (3 occurrences)
 - Current quote: Papacito, le petit TD scan pour les plus
 - Current topic: Papacito, le petit TD scan pour les plus anciens d'entre vous
 - Current prediction: Je vous avais pas
@@ -1484,7 +1838,7 @@ Negated: 2
 
 - Title: 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？
 - Source: public
-- Cluster: public-7HdOQgi14OQ-cluster-92 (3 occurrences)
+- Cluster: public-7HdOQgi14OQ-cluster-113 (3 occurrences)
 - Current quote: anciens d'entre vous. Petit Teddy scan
 - Current topic: Papacito, le petit TD scan pour les plus anciens d'entre vous
 - Current prediction: Je vous avais pas dit qu'il invviterait à voter un jour
@@ -1497,7 +1851,7 @@ Negated: 2
 
 - Title: 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？
 - Source: public
-- Cluster: public-7HdOQgi14OQ-cluster-93 (1 occurrence)
+- Cluster: public-7HdOQgi14OQ-cluster-114 (1 occurrence)
 - Current quote: l'état. Moi, c'est mon Tiscan personnel.
 - Current topic: ressources et le moment où ils vont crever, ils vont juste donner 70 %...
 - Current prediction: ressources et le moment où ils vont crever, ils vont juste donner 70 % à l'état.
@@ -1510,7 +1864,7 @@ Negated: 2
 
 - Title: RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels
 - Source: public
-- Cluster: public-9gft2XP6kM4-cluster-94 (1 occurrence)
+- Cluster: public-9gft2XP6kM4-cluster-115 (1 occurrence)
 - Current quote: j'ai Ouais le tiscan et j'ai trouvé ça
 - Current topic: effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais et j'ai...
 - Current prediction: effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais le tiscan et j'ai trouvé ça vraiment passionnant quo même...
@@ -1523,7 +1877,7 @@ Negated: 2
 
 - Title: RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels
 - Source: public
-- Cluster: public-9gft2XP6kM4-cluster-95 (1 occurrence)
+- Cluster: public-9gft2XP6kM4-cluster-116 (1 occurrence)
 - Current quote: j'aurais pu faire un té scan. Je suis
 - Current topic: conclure par il faut cultiver son cynisme.
 - Current prediction: Vas-y, vas-y, continue.
@@ -1536,7 +1890,7 @@ Negated: 2
 
 - Title: 🎙️ RADIO LIBRE 3 🎙️ - TRUMP va-t-il TRAHIR tous ses électeurs ？
 - Source: public
-- Cluster: public-A3e8YCHZbJk-cluster-96 (1 occurrence)
+- Cluster: public-A3e8YCHZbJk-cluster-117 (1 occurrence)
 - Current quote: saurez à mon avis hein Teddy Scan, bon,
 - Current topic: Là, c'est vraiment pour moi prioritaire et vous saurez à mon avis heinbon, je...
 - Current prediction: Là, c'est vraiment pour moi prioritaire et vous saurez à mon avis hein Teddy Scan, bon, je préfère le dire au début...
@@ -1549,7 +1903,7 @@ Negated: 2
 
 - Title: LE PROBLÈME DE LA PHYSIQUE QUANTIQUE
 - Source: public
-- Cluster: public-b94lUkiF4F4-cluster-97 (2 occurrences)
+- Cluster: public-b94lUkiF4F4-cluster-118 (2 occurrences)
 - Current quote: Finalement, j'ai vraiment TD scan la
 - Current topic: Euh, la prédiction des réactions chimiques, donc il parle de Greg justement, les capteurs
 - Current prediction: Bah tu vois, il avait écrit ça avant le début du live.
@@ -1562,7 +1916,7 @@ Negated: 2
 
 - Title: LE PROBLÈME DE LA PHYSIQUE QUANTIQUE
 - Source: public
-- Cluster: public-b94lUkiF4F4-cluster-97 (2 occurrences)
+- Cluster: public-b94lUkiF4F4-cluster-118 (2 occurrences)
 - Current quote: j'ai TD scan la physique quanti antique.
 - Current topic: Alors, et il finit, il conclut par OK mais d'où vient l'engouement des ozo
 - Current prediction: Du coup, on est complètement d'accord.
@@ -1575,7 +1929,7 @@ Negated: 2
 
 - Title: LE PROBLÈME DE LA PHYSIQUE QUANTIQUE
 - Source: public
-- Cluster: public-b94lUkiF4F4-cluster-98 (2 occurrences)
+- Cluster: public-b94lUkiF4F4-cluster-119 (2 occurrences)
 - Current quote: j'ai moi aussi scanné physique
 - Current topic: Ils vont regarder des cons et ils vont dire "Ah ouais, non mais en...
 - Current prediction: Ils vont regarder des cons et ils vont dire "Ah ouais, non mais en fait euh j'ai moi aussi scanné physique quantique."...
@@ -1588,7 +1942,7 @@ Negated: 2
 
 - Title: LE PROBLÈME DE LA PHYSIQUE QUANTIQUE
 - Source: public
-- Cluster: public-b94lUkiF4F4-cluster-98 (2 occurrences)
+- Cluster: public-b94lUkiF4F4-cluster-119 (2 occurrences)
 - Current quote: live c'est que j'ai TD scan la physique
 - Current topic: Et quoi de mieux que de montrer un vrai abruti pour se donner
 - Current prediction: Donc il va falloir en faire la démonstration.
@@ -1601,7 +1955,7 @@ Negated: 2
 
 - Title: LE PROBLÈME DE LA PHYSIQUE QUANTIQUE
 - Source: public
-- Cluster: public-b94lUkiF4F4-cluster-99 (1 occurrence)
+- Cluster: public-b94lUkiF4F4-cluster-120 (1 occurrence)
 - Current quote: j'avais Tiscan la physique quantique.
 - Current topic: Ah bah sur le sur le espèce de flou qui règne autour du mot...
 - Current prediction: Ah donc j'avais Tiscan la physique quantique.
@@ -1614,7 +1968,7 @@ Negated: 2
 
 - Title: RADIO LIBRE 1 ： Expatriation, immigration, Trumpisme
 - Source: public
-- Cluster: public-DDYYJSOFsQM-cluster-100 (1 occurrence)
+- Cluster: public-DDYYJSOFsQM-cluster-121 (1 occurrence)
 - Current quote: pas en public. J'ai TD scan la [ __ ] de
 - Current topic: Vous direz "Non, non, c'est toi
 - Current prediction: J'ai TD scan la [ __ ] de physique quantique et vous ne l'accepterez jamais quand je vais vous le dire.
@@ -1627,7 +1981,7 @@ Negated: 2
 
 - Title: 🔴 LES ANECDOTES de gauchistes sous SUBUTEX ： Qui est RAZ de la Zawa Prod ？
 - Source: public
-- Cluster: public-EpE5Nmfj7n0-cluster-101 (1 occurrence)
+- Cluster: public-EpE5Nmfj7n0-cluster-122 (1 occurrence)
 - Current quote: c'est deuxè Tiscan.
 - Current topic: Trop fort George tu débile et l'autre c'est Teddy Eras ou quoi?
 - Current prediction: Ah [ __ ] il y en a qui a trouvé.
@@ -1640,7 +1994,7 @@ Negated: 2
 
 - Title: 🔴 LE COMPLOT DU COVID DES VACHES ： Idriss Abrekane & Pierre-Guillaume Mercadal ONT-ILS RAISON ？
 - Source: public
-- Cluster: public-haTX0CyYu-w-cluster-102 (1 occurrence)
+- Cluster: public-haTX0CyYu-w-cluster-123 (1 occurrence)
 - Current quote: rétracter. J'avais fait un TD scan. Je
 - Current topic: Quand on a entendu ça, j'ai dit attention s'il a menacer la ministre de...
 - Current prediction: Tu m'étonnes que les mecs ils vont se rétracter.
@@ -1653,7 +2007,7 @@ Negated: 2
 
 - Title: 🔴 SHEIN ： La poupée sexu＊lle qui pose la question de la souveraineté
 - Source: public
-- Cluster: public-i-vZR6k8jeQ-cluster-103 (1 occurrence)
+- Cluster: public-i-vZR6k8jeQ-cluster-124 (1 occurrence)
 - Current quote: ça, c'est pas du tout un Tiscan. Là, je
 - Current topic: Ah bah non, mais en fait, il est hyper important.
 - Current prediction: ça, c'est pas du tout un Tiscan. Là, je
@@ -1666,7 +2020,7 @@ Negated: 2
 
 - Title: 🔴 RÉSULTATS des MUNICIPALES 2026 ： Les Français sont de gauche
 - Source: public
-- Cluster: public-imExgeOedcM-cluster-104 (1 occurrence)
+- Cluster: public-imExgeOedcM-cluster-125 (1 occurrence)
 - Current quote: Tiscan bairou mer de peau. Bah oui mais
 - Current topic: Alors ça n'est que le premier tour encore une fois, mais la gauche est
 - Current prediction: Tiscan bairou mer de peau. Bah oui mais
@@ -1679,7 +2033,7 @@ Negated: 2
 
 - Title: 🔴 Un BOOMER ZINZIN débat contre des JEUNES sur l'IA
 - Source: public
-- Cluster: public-kr7ak3UELuU-cluster-105 (1 occurrence)
+- Cluster: public-kr7ak3UELuU-cluster-126 (1 occurrence)
 - Current quote: live, c'est le tiscan.
 - Current topic: Pour ceux qui savent pas, l'altérité l'altérité philosophie niveau lycée, niveau bac
 - Current prediction: Il a fait ou [ __ ] Je vous l'avais dit en début de live, c'est le tiscan.
@@ -1692,7 +2046,7 @@ Negated: 2
 
 - Title: 🔴 Un BOOMER ZINZIN débat contre des JEUNES sur l'IA
 - Source: public
-- Cluster: public-kr7ak3UELuU-cluster-106 (1 occurrence)
+- Cluster: public-kr7ak3UELuU-cluster-127 (1 occurrence)
 - Current quote: Petit tiscan. Allez, on y va. On est en
 - Current topic: Et puis il y a celles et ceux qui commencent à être de
 - Current prediction: Alors vas-y, on y retourne.
@@ -1705,7 +2059,7 @@ Negated: 2
 
 - Title: 🔴 Pierre-Yves Rougeyron analyse l'enlisement de Trump en Iran
 - Source: public
-- Cluster: public-KUWLS7XGBVk-cluster-107 (1 occurrence)
+- Cluster: public-KUWLS7XGBVk-cluster-128 (1 occurrence)
 - Current quote: scan qui est visiblement correct. Et
 - Current topic: Et donc maintenant c'est la théorie des souverainistes français de dire en lisement enlisement...
 - Current prediction: Trump est foutu, il va s'en liser.
@@ -1718,7 +2072,7 @@ Negated: 2
 
 - Title: 🔴 ALMA DUFOUR veut PLUS DE POLICE pour les Kebab 👮
 - Source: public
-- Cluster: public-OQaGUv__6po-cluster-108 (2 occurrences)
+- Cluster: public-OQaGUv__6po-cluster-129 (2 occurrences)
 - Current quote: tiscan
 - Current topic: On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec...
 - Current prediction: On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec la gauche sécuritaire?
@@ -1731,7 +2085,7 @@ Negated: 2
 
 - Title: 🔴 ALMA DUFOUR veut PLUS DE POLICE pour les Kebab 👮
 - Source: public
-- Cluster: public-OQaGUv__6po-cluster-108 (2 occurrences)
+- Cluster: public-OQaGUv__6po-cluster-129 (2 occurrences)
 - Current quote: tiscan. On me l'a encore dit la semaine
 - Current topic: On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec...
 - Current prediction: tiscan. On me l'a encore dit la semaine
@@ -1744,7 +2098,7 @@ Negated: 2
 
 - Title: Le pot de départ de Retailleau (intégrale version)
 - Source: public
-- Cluster: public-q0JsTp-ILX8-cluster-109 (1 occurrence)
+- Cluster: public-q0JsTp-ILX8-cluster-130 (1 occurrence)
 - Current quote: bon. Oui Tiscan. Il est en train de le
 - Current topic: Même quand je foutais des papiers usagers, il les laissait.
 - Current prediction: Je pense à à Roger qui l'avait jamais par terre.
@@ -1757,7 +2111,7 @@ Negated: 2
 
 - Title: 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027
 - Source: public
-- Cluster: public-Q7ZhkYuG0u0-cluster-110 (2 occurrences)
+- Cluster: public-Q7ZhkYuG0u0-cluster-131 (2 occurrences)
 - Current quote: petit scan de deux andages qui arrive.
 - Current topic: andages qui arrive
 - Current prediction: Voilà donc ça c'était petit scan de deux andages qui arrive.
@@ -1770,7 +2124,7 @@ Negated: 2
 
 - Title: 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027
 - Source: public
-- Cluster: public-Q7ZhkYuG0u0-cluster-110 (2 occurrences)
+- Cluster: public-Q7ZhkYuG0u0-cluster-131 (2 occurrences)
 - Current quote: c'est ça c'est scanné aussi. J'espère
 - Current topic: Alors attention hop le petit bouton qui marche pas.
 - Current prediction: J'espère que ça va les mecs.
@@ -1783,7 +2137,7 @@ Negated: 2
 
 - Title: 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027
 - Source: public
-- Cluster: public-Q7ZhkYuG0u0-cluster-111 (1 occurrence)
+- Cluster: public-Q7ZhkYuG0u0-cluster-132 (1 occurrence)
 - Current quote: Deuxième scan. Alors là, celui-là, j'en
 - Current topic: Il dit "C'est quoi ta notion politique?" Et je dis "lain du capitalisme par...
 - Current prediction: OK bon bah ça déjà ça va être le premier truc.
@@ -1796,7 +2150,7 @@ Negated: 2
 
 - Title: 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027
 - Source: public
-- Cluster: public-Q7ZhkYuG0u0-cluster-112 (1 occurrence)
+- Cluster: public-Q7ZhkYuG0u0-cluster-133 (1 occurrence)
 - Current quote: confiance à mon tiscan, il va revenir.
 - Current topic: Et il y a un gars il me fait j'avais prévu ça 10 ans...
 - Current prediction: c'est pas fait par là parce que moi je dis bon là quand même vous pouvez faire confiance à mon tiscan, il...
@@ -1809,7 +2163,7 @@ Negated: 2
 
 - Title: 🔴 À 34 ans... Le streamer PONCE découvre le ＂POSITIONNEMENT POLITIQUE＂.
 - Source: public
-- Cluster: public-qB8lNSEY2YI-cluster-113 (1 occurrence)
+- Cluster: public-qB8lNSEY2YI-cluster-134 (1 occurrence)
 - Current quote: juste tiscan
 - Current topic: Les les gros débiles mentaux en France aiment les élections parce qu'ils
 - Current prediction: il dit "J'ai tellement hâte, je vous mets plus fort de 2027, moi je vous dis juste tiscan c'est il est l'expression...
@@ -1822,7 +2176,7 @@ Negated: 2
 
 - Title: 🔴 2027 ： Les CANDIDATS sont-ils prêts ？
 - Source: public
-- Cluster: public-quG4bGhFGm8-cluster-114 (1 occurrence)
+- Cluster: public-quG4bGhFGm8-cluster-135 (1 occurrence)
 - Current quote: vu. Donc je vous l'avais dit scan. C'est
 - Current topic: Je crois que c'est ça serait potentiellement
 - Current prediction: François Hollande il songe quasi candidat.
@@ -1835,7 +2189,7 @@ Negated: 2
 
 - Title: 🔴 2027 ： Les CANDIDATS sont-ils prêts ？
 - Source: public
-- Cluster: public-quG4bGhFGm8-cluster-115 (1 occurrence)
+- Cluster: public-quG4bGhFGm8-cluster-136 (1 occurrence)
 - Current quote: Donc ma monter scan sur le fait que tous
 - Current topic: tous les mecs qui était dans la grande distribution sont à la ramasse, font...
 - Current prediction: Euh Michel et toir Leclerc, il y songe.
@@ -1848,7 +2202,7 @@ Negated: 2
 
 - Title: 🔴 2027 ： Les CANDIDATS sont-ils prêts ？
 - Source: public
-- Cluster: public-quG4bGhFGm8-cluster-116 (1 occurrence)
+- Cluster: public-quG4bGhFGm8-cluster-137 (1 occurrence)
 - Current quote: Tiscan. Oui, ben encore une fois 100 %
 - Current topic: Oui, ben encore une fois 100 % d'accord avec papa ne vous taisez plus.
 - Current prediction: Il va dire alors je vais vous laisser parler.
@@ -1861,7 +2215,7 @@ Negated: 2
 
 - Title: 🔴 Les nouvelles SUCETTES goût CNC font polémique !
 - Source: public
-- Cluster: public-sMctI1v00PA-cluster-117 (1 occurrence)
+- Cluster: public-sMctI1v00PA-cluster-138 (1 occurrence)
 - Current quote: j'avais fait un TD scan sur la rivalité
 - Current topic: la rivalité Croblanc Avenur or alors j'ai vu qu'ils sont pris le bec à...
 - Current prediction: Alors oui, j'ai vu dans le chat que tu arrêtais pas de dire et d'autres que j'avais fait un TD scan sur...
@@ -1874,7 +2228,7 @@ Negated: 2
 
 - Title: 🔴 L'avenir des dessinateurs après l'intelligence artificielle
 - Source: public
-- Cluster: public-TPTbWXOiuac-cluster-118 (1 occurrence)
+- Cluster: public-TPTbWXOiuac-cluster-139 (1 occurrence)
 - Current quote: vous fais un té scan sur la grande
 - Current topic: la grande distribution et la future polémique politique
 - Current prediction: On parle du syndicat, je me moque des syndicats, je vous fais un té scan sur la grande distribution et la future...
@@ -1887,7 +2241,7 @@ Negated: 2
 
 - Title: 🔴 LES MOCHES sont-ils socialement désavantagés ？ - Réact du débat chez le @lecrayonmedia
 - Source: public
-- Cluster: public-uF__qWIJxxA-cluster-119 (1 occurrence)
+- Cluster: public-uF__qWIJxxA-cluster-140 (1 occurrence)
 - Current quote: petit Tiscan là.
 - Current topic: Ma première impression crois est en train de se vérifier là.
 - Current prediction: Et oui.
@@ -1900,7 +2254,7 @@ Negated: 2
 
 - Title: 🔴 RADIO LIBRE ： Identité Française, le sujet piège
 - Source: public
-- Cluster: public-UpKCV7GswSA-cluster-120 (1 occurrence)
+- Cluster: public-UpKCV7GswSA-cluster-141 (1 occurrence)
 - Current quote: Je sens le TD scan. Je suis pas sûr mais
 - Current topic: Je suis pas sûr mais je sens que le les chiffres et les infos...
 - Current prediction: Je sens le TD scan. Je suis pas sûr mais
@@ -1913,7 +2267,7 @@ Negated: 2
 
 - Title: 🔴 RADIO LIBRE ： Identité Française, le sujet piège
 - Source: public
-- Cluster: public-UpKCV7GswSA-cluster-121 (1 occurrence)
+- Cluster: public-UpKCV7GswSA-cluster-142 (1 occurrence)
 - Current quote: comme ça. Je je mose à un scan. Je sens
 - Current topic: Je sens que on va renouveler le lexique mais finalement ce sera juste des...
 - Current prediction: Ils vont dire il est beau et il est en place ou quelque chose comme ça.
@@ -1922,11 +2276,24 @@ Negated: 2
 - Flags: none
 - Expanded context: Ouioui. Bah c'est ça. Je je vois déjà les articles pendant les présidentiels en mode alors ce sera pas il est il est il est jeune, il est dynamique. Je pense qu'ils vont essayer de de changer ça. Ils vont dire il est beau et il est en place ou quelque chose comme ça. Je je mose à un scan. Je sens que on va renouveler le lexique mais finalement ce sera juste des synonymes. Ouais. Ouais. Ben écoute, moi je te je te laisse dire ce que tu as à dire. Je je réfléchis. Je En fait le truc c'est que j'arrive plus à me plonger dans ces théories. Déjà je trouve ça illisible en ce moment. Bah ça part un peu dans tous les sens. Donc j'ai du mal à lire le jeu de l'adversaire, j'ai envie de dire. Ouais ouais. Et euh et de toute façon, moi c'est ce que je répète tout le temps, à partir du moment où aucun des candidats alors à part Knafo d'après ce que j'ai compris ne parle de nouvelle technologie...
 
+### UW_5K51IWjM 53:29 [expand]
+
+- Title: 🔴 LA PROPAGANDE commence pour 2027
+- Source: public
+- Cluster: public-UW_5K51IWjM-cluster-143 (1 occurrence)
+- Current quote: Teddy Scan,
+- Current topic: Il se fout de notre gueule Teddy avec ces histoires de potes arabes qui...
+- Current prediction: Il se fout de notre gueule Teddy avec ces histoires de potes arabes qui vont
+- Type: prediction
+- Suggested clip: 53:11 -> 54:24
+- Flags: quote_too_short
+- Expanded context: hôpital aussi, les les associations sportives dans les quartiers qui font un travail extraordinaire et qui ont été plantés par la fin des contrat aidés d'Emmanuel Macron. Ah bon? Dommage l'insécurité qui a subie par les habitants. Oh Teddy Scan, mais Teddy, tu es complètement con. Il se fout de notre gueule Teddy avec ces histoires de potes arabes qui vont demander de la sécurité. Mais Tedy, c'est pas possible des gauchistes qui demandent la sécurité. Oh, un arabe de banlieu de gauche qui dit qui explique c'est le seul qui parle d'insécurité. Mais c'est complètement fou. Enfin, et aussi les violences contre aidé d'Emmanuel Macron. Euh l'insécurité qui a subie par les habitants mais aussi les violences policières. Ah bon? Par contre, voilà, ça c'est de gauche. On y était presque. [grognement] On commiss par les policiers qui s'allent sous l'uniforme. Euh bon, après, il y a un meilleur qui m'a raconté un truc. Un meilleur, il est blanc, il a subi une violence policière par un arabe policier. Il a porté
+
 ### VhtUwygM-Fs 12:28 [expand]
 
 - Title: 🔴 BÉGAUDEAU DÉBAT avec des AFRICAINS
 - Source: public
-- Cluster: public-VhtUwygM-Fs-cluster-122 (1 occurrence)
+- Cluster: public-VhtUwygM-Fs-cluster-144 (1 occurrence)
 - Current quote: tiscan
 - Current topic: Comme ça, c'est réglé, ça peut pas me gêner.
 - Current prediction: meurent salot." C'est en fait il va je suis sûr qu'il va alors ben c'est mon tiscan en fait.
@@ -1939,7 +2306,7 @@ Negated: 2
 
 - Title: 🔴 BARDELLA n'est pas candidat pour 2027 ？!
 - Source: public
-- Cluster: public-wLVd92EF1Sc-cluster-123 (1 occurrence)
+- Cluster: public-wLVd92EF1Sc-cluster-145 (1 occurrence)
 - Current quote: Tiscan, il était bon là, un an et demi
 - Current topic: lavé là." Ah non, mais j'y vais pas finalement.
 - Current prediction: lavé là." Ah non, mais j'y vais pas finalement.
@@ -1948,11 +2315,50 @@ Negated: 2
 - Flags: no_future_hint_in_expanded_context
 - Expanded context: Ah bon? Je vous avais dit qu'il voulait vous mettre Sarco dans le cul, mais au moins les Français ont eu un réflexe de survie. À la fin, ils sont dit "Se SarkoZi en fait, ça sent le nain mal lavé là." Ah non, mais j'y vais pas finalement. J'arrête. Ah bah oui, le Tiscan, il était bon là, un an et demi d'avance pendant que les mecs me ils se désabonnaient de ma chaîne et de mon Patreon quand je disais "Ces news, je vous jure que c'est pendant il y a eu un débat là, tu vois, ces news quand même, ils sont de notre côté." Il me disait les gens, je sais. Ouais, c'est ça. Le parquet national a ouvert une enquête sur Jardin de Bardella. Wou! Allez les cocos! Celle de 27, on en reparle juste après. Alors évidemment dans ce genre de situation la question des conséquences potentielles du procès et cetera, c'est des questions qui intéressent beaucoup puisqu'elles ont un impact politique. Mais déjà faut quand même revenir sur l'affaire en tant que tel....
 
+### wZIZCU5GW58 38:22 [expand]
+
+- Title: 🔴 MILLIONNAIRES sur Youtube ： Le secret d'Amixem & Hugo Décrypte
+- Source: public
+- Cluster: public-wZIZCU5GW58-cluster-146 (3 occurrences)
+- Current quote: [ __ ] et le TD scan de début de live,
+- Current topic: La question de pas être connu, des entrepreneurs connus et pas connus, il
+- Current prediction: Le TD scan il est comme ça?
+- Type: meta
+- Suggested clip: 38:04 -> 39:28
+- Flags: meta_scan, duplicate_cluster, weak_prediction, no_future_hint_in_expanded_context
+- Expanded context: vendu ta boîte. Quand tu regardes des empières qui se sont bâtis autour de de l'image, ça ça ça te fait quoi? Tu te dis "Moi, je fais j'ai vendu 25 millions00 mais personne me connaît. Est-ce que tu es plutôt heureux de ça ou est-ce que tu as tu es frustré du fait que personne te connaît?" Justement, on veut dire vivant heureux, vivant caché hein. Alors moi je suis pas du tout frustré de pas être connu. [ __ ] et le TD scan de début de live, il est comment? Le TD scan il est comme ça? La question de pas être connu, des entrepreneurs connus et pas connus, il est comme ça le Tiscan ou il est comme ça? Et ça me pose aucun problème. Au contraire, je vais encore faire les cours chez SuperU et je ne me fais pas arrêter, déchirer mes vêtements et cetera. Donc si tu veux, je suis je suis assez tranquille là-dessus. Donc non, je n'ai aucune frustration par rapport à ce trucl. Je fais un business effectivement et la...
+
+### wZIZCU5GW58 38:25 [merge]
+
+- Title: 🔴 MILLIONNAIRES sur Youtube ： Le secret d'Amixem & Hugo Décrypte
+- Source: public
+- Cluster: public-wZIZCU5GW58-cluster-146 (3 occurrences)
+- Current quote: il est comment? Le TD scan il est comme
+- Current topic: pas être connu.
+- Current prediction: il est comment? Le TD scan il est comme
+- Type: meta
+- Suggested clip: 38:04 -> 39:28
+- Flags: meta_scan, duplicate_cluster, weak_topic, weak_prediction, no_future_hint_in_expanded_context
+- Expanded context: vendu ta boîte. Quand tu regardes des empières qui se sont bâtis autour de de l'image, ça ça ça te fait quoi? Tu te dis "Moi, je fais j'ai vendu 25 millions00 mais personne me connaît. Est-ce que tu es plutôt heureux de ça ou est-ce que tu as tu es frustré du fait que personne te connaît?" Justement, on veut dire vivant heureux, vivant caché hein. Alors moi je suis pas du tout frustré de pas être connu. [ __ ] et le TD scan de début de live, il est comment? Le TD scan il est comme ça? La question de pas être connu, des entrepreneurs connus et pas connus, il est comme ça le Tiscan ou il est comme ça? Et ça me pose aucun problème. Au contraire, je vais encore faire les cours chez SuperU et je ne me fais pas arrêter, déchirer mes vêtements et cetera. Donc si tu veux, je suis je suis assez tranquille là-dessus. Donc non, je n'ai aucune frustration par rapport à ce trucl. Je fais un business effectivement et la...
+
+### wZIZCU5GW58 38:33 [merge]
+
+- Title: 🔴 MILLIONNAIRES sur Youtube ： Le secret d'Amixem & Hugo Décrypte
+- Source: public
+- Cluster: public-wZIZCU5GW58-cluster-146 (3 occurrences)
+- Current quote: est comme ça le Tiscan ou il est comme
+- Current topic: Au contraire, je vais encore faire les
+- Current prediction: Au contraire, je vais encore faire les
+- Type: meta
+- Suggested clip: 38:04 -> 39:28
+- Flags: meta_scan, duplicate_cluster, no_future_hint_in_expanded_context
+- Expanded context: vendu ta boîte. Quand tu regardes des empières qui se sont bâtis autour de de l'image, ça ça ça te fait quoi? Tu te dis "Moi, je fais j'ai vendu 25 millions00 mais personne me connaît. Est-ce que tu es plutôt heureux de ça ou est-ce que tu as tu es frustré du fait que personne te connaît?" Justement, on veut dire vivant heureux, vivant caché hein. Alors moi je suis pas du tout frustré de pas être connu. [ __ ] et le TD scan de début de live, il est comment? Le TD scan il est comme ça? La question de pas être connu, des entrepreneurs connus et pas connus, il est comme ça le Tiscan ou il est comme ça? Et ça me pose aucun problème. Au contraire, je vais encore faire les cours chez SuperU et je ne me fais pas arrêter, déchirer mes vêtements et cetera. Donc si tu veux, je suis je suis assez tranquille là-dessus. Donc non, je n'ai aucune frustration par rapport à ce trucl. Je fais un business effectivement et la...
+
 ### xb-li2SVJWk 25:41 [keep]
 
 - Title: 🎙️ RADIO LIBRE 2 🎙️： Afuera, libéralisme, débat gauche-droite, gendarmerie
 - Source: public
-- Cluster: public-xb-li2SVJWk-cluster-124 (1 occurrence)
+- Cluster: public-xb-li2SVJWk-cluster-147 (1 occurrence)
 - Current quote: ben moi je te dis TD scan, c'est mon
 - Current topic: Quand je vois de plus en plus d'idiots qui ont des propos faciles sur...
 - Current prediction: Quand je vois de plus en plus d'idiots qui ont des propos faciles sur internet et qui se regroupe
@@ -1965,7 +2371,7 @@ Negated: 2
 
 - Title: IL FAUT RENDRE L'HUMOUR AUX ACTIFS
 - Source: public
-- Cluster: public-YCQrCdrvx58-cluster-125 (1 occurrence)
+- Cluster: public-YCQrCdrvx58-cluster-148 (1 occurrence)
 - Current quote: Tiscan. [ __ ] j'ai trouvé. Faites
 - Current topic: Ça y est, ça marche plus à la langue française.
 - Current prediction: Tiscan. [ __ ] j'ai trouvé. Faites
@@ -1978,7 +2384,7 @@ Negated: 2
 
 - Title: DÉBAT PADU VS TABIBIAN ： Va niqu＊er ta mère, salope ! (Le petit manifeste de la classe Baltrou)
 - Source: public
-- Cluster: public-yKL5nnpH7NI-cluster-126 (3 occurrences)
+- Cluster: public-yKL5nnpH7NI-cluster-149 (3 occurrences)
 - Current quote: scan là vous avez fait le meilleur
 - Current topic: raison c'est vrai que c'est c'est c'est c'est pertinent là vous avez faitlà vous...
 - Current prediction: scan là vous avez fait le meilleur
@@ -1991,7 +2397,7 @@ Negated: 2
 
 - Title: DÉBAT PADU VS TABIBIAN ： Va niqu＊er ta mère, salope ! (Le petit manifeste de la classe Baltrou)
 - Source: public
-- Cluster: public-yKL5nnpH7NI-cluster-126 (3 occurrences)
+- Cluster: public-yKL5nnpH7NI-cluster-149 (3 occurrences)
 - Current quote: scan ça y est voilà tu vois avec un peu
 - Current topic: c'est pertinent là vous avez faitlà vous avez fait le meilleur scan ça y...
 - Current prediction: scan ça y est voilà tu vois avec un peu
@@ -2004,7 +2410,7 @@ Negated: 2
 
 - Title: DÉBAT PADU VS TABIBIAN ： Va niqu＊er ta mère, salope ! (Le petit manifeste de la classe Baltrou)
 - Source: public
-- Cluster: public-yKL5nnpH7NI-cluster-126 (3 occurrences)
+- Cluster: public-yKL5nnpH7NI-cluster-149 (3 occurrences)
 - Current quote: développer le meilleur scan donc oui s
 - Current topic: développer un cerveau collectif c'est fou hein et du coup vous allez développer le...
 - Current prediction: développer un cerveau collectif c'est fou hein et du coup vous allez développer le meilleur scan donc oui s taxe les chiens...
@@ -2017,7 +2423,7 @@ Negated: 2
 
 - Title: DÉBAT PADU VS TABIBIAN ： Va niqu＊er ta mère, salope ! (Le petit manifeste de la classe Baltrou)
 - Source: public
-- Cluster: public-yKL5nnpH7NI-cluster-127 (1 occurrence)
+- Cluster: public-yKL5nnpH7NI-cluster-150 (1 occurrence)
 - Current quote: depuis le tiscan a eu raison c'était
 - Current topic: à l'époque j'étais un peu déçu de ton point de vue sur les gilets...
 - Current prediction: depuis le tiscan a eu raison c'était
@@ -2030,7 +2436,7 @@ Negated: 2
 
 - Title: DÉBAT PADU VS TABIBIAN ： Va niqu＊er ta mère, salope ! (Le petit manifeste de la classe Baltrou)
 - Source: public
-- Cluster: public-yKL5nnpH7NI-cluster-128 (1 occurrence)
+- Cluster: public-yKL5nnpH7NI-cluster-151 (1 occurrence)
 - Current quote: deuxème deuxème TD scan alléluia les
 - Current topic: transhistorique pour le coup voilà bah c'est exactement ce que je vous ai dit...
 - Current prediction: deuxème deuxème TD scan alléluia les
@@ -2043,7 +2449,7 @@ Negated: 2
 
 - Title: 🍩 L'ÉCONOMIE DE GUERRE ： De l'antiquité à nos jours 🍩
 - Source: public
-- Cluster: public-zT8vpxgXkY0-cluster-129 (1 occurrence)
+- Cluster: public-zT8vpxgXkY0-cluster-152 (1 occurrence)
 - Current quote: scan à propos de de Trump et de musk
 - Current topic: d'ailleurs au passage il y a toute une part euh j'ai tout un dossier...
 - Current prediction: d'ailleurs au passage il y a toute une part euh j'ai tout un dossier sur TD scan à propos de de Trump...
@@ -2056,7 +2462,7 @@ Negated: 2
 
 - Title: 🍩 L'ÉCONOMIE DE GUERRE ： De l'antiquité à nos jours 🍩
 - Source: public
-- Cluster: public-zT8vpxgXkY0-cluster-130 (1 occurrence)
+- Cluster: public-zT8vpxgXkY0-cluster-153 (1 occurrence)
 - Current quote: c'est encore un petit tiscan peut-être
 - Current topic: tout bon donc on pioche direct dans l'épargne c'est encore un peut-être un petit...
 - Current prediction: c'est encore un petit tiscan peut-être

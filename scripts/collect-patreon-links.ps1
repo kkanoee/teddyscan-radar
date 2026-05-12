@@ -3,6 +3,7 @@ param(
   [string]$Url,
 
   [string]$Out = "patreon_links",
+  [string]$CookiesJson = "",
   [switch]$ManualLogin,
   [switch]$UseChrome,
   [switch]$Headless
@@ -35,6 +36,10 @@ try {
     "--url", $Url,
     "--out", $Out
   )
+
+  if ($CookiesJson -ne "") {
+    $nodeArgs += @("--cookies-json", $CookiesJson)
+  }
 
   if ($Headless) {
     $nodeArgs += "--headless"

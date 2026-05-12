@@ -1,15 +1,115 @@
 window.TEDDYSCAN_META = {
-  "generatedAt": "2026-04-27T15:00:57.702Z",
-  "scannedVideos": 310,
+  "generatedAt": "2026-05-12T14:46:26.328Z",
+  "scannedVideos": 403,
   "scannedBySource": {
-    "public": 142,
-    "patreon": 168
+    "public": 155,
+    "patreon": 248
   },
-  "candidateCount": 414,
-  "includedCount": 146,
-  "videosWithScans": 79
+  "candidateCount": 509,
+  "includedCount": 175,
+  "videosWithScans": 96
 };
 window.TEDDYSCAN_DATA = [
+  {
+    "id": "patreon-Q7ZhkYuG0u0-128",
+    "videoId": "Q7ZhkYuG0u0",
+    "source": "patreon",
+    "title": "🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027",
+    "publishedAt": "20260417",
+    "quote": "petit scan de deux andages qui arrive.",
+    "context": "Petit Hollande ça vient. Voilà donc ça c'était petit scan de deux andages qui arrive. Alors attention hop le petit bouton qui marche pas. Il y a rien qui marche. Ça c'est ça c'est scanné aussi. J'espère",
+    "topic": "andages qui arrive",
+    "prediction": "Voilà donc ça c'était petit scan de deux andages qui arrive.",
+    "timestamp": "00:02:08,119",
+    "timestampLabel": "02:08",
+    "startSeconds": 128,
+    "youtubeUrl": "https://www.youtube.com/watch?v=Q7ZhkYuG0u0&t=128s",
+    "videoUrl": "https://www.youtube.com/watch?v=Q7ZhkYuG0u0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Q7ZhkYuG0u0/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 5,
+    "included": true,
+    "reasons": [
+      "video centree scan",
+      "mot-clé présent"
+    ],
+    "sourceFile": "Patreon/20260417 - 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027 [Q7ZhkYuG0u0].fr-orig.srt"
+  },
+  {
+    "id": "patreon-Q7ZhkYuG0u0-134",
+    "videoId": "Q7ZhkYuG0u0",
+    "source": "patreon",
+    "title": "🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027",
+    "publishedAt": "20260417",
+    "quote": "c'est ça c'est scanné aussi. J'espère",
+    "context": "Alors attention hop le petit bouton qui marche pas. Il y a rien qui marche. Ça c'est ça c'est scanné aussi. J'espère que ça va les mecs. Voilà. Attention attention les yeux.",
+    "topic": "Alors attention hop le petit bouton qui marche pas.",
+    "prediction": "J'espère que ça va les mecs.",
+    "timestamp": "00:02:14,680",
+    "timestampLabel": "02:14",
+    "startSeconds": 134,
+    "youtubeUrl": "https://www.youtube.com/watch?v=Q7ZhkYuG0u0&t=134s",
+    "videoUrl": "https://www.youtube.com/watch?v=Q7ZhkYuG0u0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Q7ZhkYuG0u0/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 3,
+    "included": true,
+    "reasons": [
+      "video centree scan",
+      "mot-clé présent"
+    ],
+    "sourceFile": "Patreon/20260417 - 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027 [Q7ZhkYuG0u0].fr-orig.srt"
+  },
+  {
+    "id": "patreon-Q7ZhkYuG0u0-194",
+    "videoId": "Q7ZhkYuG0u0",
+    "source": "patreon",
+    "title": "🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027",
+    "publishedAt": "20260417",
+    "quote": "Deuxième scan. Alors là, celui-là, j'en",
+    "context": "pas? Je veux dire je me prépare. OK bon bah ça déjà ça va être le premier truc. Deuxième scan. Alors là, celui-là, j'en ai parlé chez Jungo il y a 2 jours. Il dit \"C'est quoi ta notion politique?\" Et je dis \"lain du capitalisme par sa",
+    "topic": "Il dit \"C'est quoi ta notion politique?\" Et je dis \"lain du capitalisme par...",
+    "prediction": "OK bon bah ça déjà ça va être le premier truc.",
+    "timestamp": "00:03:14,239",
+    "timestampLabel": "03:14",
+    "startSeconds": 194,
+    "youtubeUrl": "https://www.youtube.com/watch?v=Q7ZhkYuG0u0&t=194s",
+    "videoUrl": "https://www.youtube.com/watch?v=Q7ZhkYuG0u0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Q7ZhkYuG0u0/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 5,
+    "included": true,
+    "reasons": [
+      "video centree scan",
+      "mot-clé présent"
+    ],
+    "sourceFile": "Patreon/20260417 - 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027 [Q7ZhkYuG0u0].fr-orig.srt"
+  },
+  {
+    "id": "patreon-Q7ZhkYuG0u0-1797",
+    "videoId": "Q7ZhkYuG0u0",
+    "source": "patreon",
+    "title": "🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027",
+    "publishedAt": "20260417",
+    "quote": "confiance à mon tiscan, il va revenir.",
+    "context": "c'est pas fait par là parce que moi je dis bon là quand même vous pouvez faire confiance à mon tiscan, il va revenir. Et il y a un gars il me fait j'avais prévu ça 10 ans avant. Alors au début, je dis \"Ouais e eh j'avais moi j'en",
+    "topic": "Et il y a un gars il me fait j'avais prévu ça 10 ans...",
+    "prediction": "c'est pas fait par là parce que moi je dis bon là quand même vous pouvez faire confiance à mon tiscan, il...",
+    "timestamp": "00:29:57,720",
+    "timestampLabel": "29:57",
+    "startSeconds": 1797,
+    "youtubeUrl": "https://www.youtube.com/watch?v=Q7ZhkYuG0u0&t=1797s",
+    "videoUrl": "https://www.youtube.com/watch?v=Q7ZhkYuG0u0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Q7ZhkYuG0u0/hqdefault.jpg",
+    "confidence": "high",
+    "score": 6,
+    "included": true,
+    "reasons": [
+      "marque explicite",
+      "video centree scan"
+    ],
+    "sourceFile": "Patreon/20260417 - 🔴 TEDDYSCAN, Socialisme Solide & revenu universel pour 2027 [Q7ZhkYuG0u0].fr-orig.srt"
+  },
   {
     "id": "patreon-pQSQZXTJ_D8-2502",
     "videoId": "pQSQZXTJ_D8",
@@ -109,6 +209,30 @@ window.TEDDYSCAN_DATA = [
       "mot-clé présent"
     ],
     "sourceFile": "Patreon/20260410 - 🔴 LA CHUTE PROCHAINE DE LA GRANDE DISTRIBUTION FRANÇAISE [qq18fE-7dNc].fr-orig.srt"
+  },
+  {
+    "id": "patreon-KUWLS7XGBVk-2016",
+    "videoId": "KUWLS7XGBVk",
+    "source": "patreon",
+    "title": "🔴 Pierre-Yves Rougeyron analyse l'enlisement de Trump en Iran",
+    "publishedAt": "20260406",
+    "quote": "scan qui est visiblement correct. Et",
+    "context": "direct dès l'attaque de Trump. Trump est foutu, il va s'en liser. Ça a été son scan qui est visiblement correct. Et donc maintenant c'est la théorie des souverainistes français de dire en lisement enlisement en lisement. Si",
+    "topic": "Et donc maintenant c'est la théorie des souverainistes français de dire en lisement enlisement...",
+    "prediction": "Trump est foutu, il va s'en liser.",
+    "timestamp": "00:33:36,799",
+    "timestampLabel": "33:36",
+    "startSeconds": 2016,
+    "youtubeUrl": "https://www.youtube.com/watch?v=KUWLS7XGBVk&t=2016s",
+    "videoUrl": "https://www.youtube.com/watch?v=KUWLS7XGBVk",
+    "thumbnailUrl": "https://i.ytimg.com/vi/KUWLS7XGBVk/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 3,
+    "included": true,
+    "reasons": [
+      "mot-clé présent"
+    ],
+    "sourceFile": "Patreon/20260406 - 🔴 Pierre-Yves Rougeyron analyse l'enlisement de Trump en Iran [KUWLS7XGBVk].fr-orig.srt"
   },
   {
     "id": "patreon-Xp3Cp_tBs5A-3838",
@@ -230,6 +354,30 @@ window.TEDDYSCAN_DATA = [
       "marque explicite"
     ],
     "sourceFile": "Patreon/20260325 - 🔴  Aujourd'hui on va au ZOO du Gourbistant ! [RneHZhQZ-yc].fr-orig.srt"
+  },
+  {
+    "id": "patreon-imExgeOedcM-655",
+    "videoId": "imExgeOedcM",
+    "source": "patreon",
+    "title": "🔴 RÉSULTATS des MUNICIPALES 2026 ： Les Français sont de gauche",
+    "publishedAt": "20260316",
+    "quote": "Tiscan bairou mer de peau. Bah oui mais",
+    "context": "marre faut changer les choses puis après il se lève pas. Tiscan bairou mer de peau. Bah oui mais c'était pas déjà le cas. La gauche en tête. OK. Alors ça n'est que le premier tour encore une fois, mais la gauche est",
+    "topic": "Alors ça n'est que le premier tour encore une fois, mais la gauche est",
+    "prediction": "Tiscan bairou mer de peau. Bah oui mais",
+    "timestamp": "00:10:55,079",
+    "timestampLabel": "10:55",
+    "startSeconds": 655,
+    "youtubeUrl": "https://www.youtube.com/watch?v=imExgeOedcM&t=655s",
+    "videoUrl": "https://www.youtube.com/watch?v=imExgeOedcM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/imExgeOedcM/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 4,
+    "included": true,
+    "reasons": [
+      "marque explicite"
+    ],
+    "sourceFile": "Patreon/20260316 - 🔴 RÉSULTATS des MUNICIPALES 2026 ： Les Français sont de gauche [imExgeOedcM].fr-orig.srt"
   },
   {
     "id": "patreon-L8l3D7jjkYc-705",
@@ -355,6 +503,200 @@ window.TEDDYSCAN_DATA = [
     "sourceFile": "Patreon/20260311 - 🔴 IA, robot & socialisme ： Comment répartir les richesses de demain ？ [qb9IoQbsYcI].fr-orig.srt"
   },
   {
+    "id": "patreon-kr7ak3UELuU-4220",
+    "videoId": "kr7ak3UELuU",
+    "source": "patreon",
+    "title": "🔴 Un BOOMER ZINZIN débat contre des JEUNES sur l'IA",
+    "publishedAt": "20260311",
+    "quote": "live, c'est le tiscan.",
+    "context": "Il a fait ou [ __ ] Je vous l'avais dit en début de live, c'est le tiscan. Pour ceux qui savent pas, l'altérité l'altérité philosophie niveau lycée, niveau bac",
+    "topic": "Pour ceux qui savent pas, l'altérité l'altérité philosophie niveau lycée, niveau bac",
+    "prediction": "Il a fait ou [ __ ] Je vous l'avais dit en début de live, c'est le tiscan.",
+    "timestamp": "01:10:20,640",
+    "timestampLabel": "1:10:20",
+    "startSeconds": 4220,
+    "youtubeUrl": "https://www.youtube.com/watch?v=kr7ak3UELuU&t=4220s",
+    "videoUrl": "https://www.youtube.com/watch?v=kr7ak3UELuU",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kr7ak3UELuU/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 4,
+    "included": true,
+    "reasons": [
+      "marque explicite"
+    ],
+    "sourceFile": "Patreon/20260311 - 🔴 Un BOOMER ZINZIN débat contre des JEUNES sur l'IA [kr7ak3UELuU].fr-orig.srt"
+  },
+  {
+    "id": "patreon-kr7ak3UELuU-4281",
+    "videoId": "kr7ak3UELuU",
+    "source": "patreon",
+    "title": "🔴 Un BOOMER ZINZIN débat contre des JEUNES sur l'IA",
+    "publishedAt": "20260311",
+    "quote": "Petit tiscan. Allez, on y va. On est en",
+    "context": "c'était la finition. Alors vas-y, on y retourne. On met un peu en arrière. Petit tiscan. Allez, on y va. On est en mode altérité. C'est parti. L'heure auquel nous devons tenir. Et puis il y a celles et ceux qui commencent à être de",
+    "topic": "Et puis il y a celles et ceux qui commencent à être de",
+    "prediction": "Alors vas-y, on y retourne.",
+    "timestamp": "01:11:21,719",
+    "timestampLabel": "1:11:21",
+    "startSeconds": 4281,
+    "youtubeUrl": "https://www.youtube.com/watch?v=kr7ak3UELuU&t=4281s",
+    "videoUrl": "https://www.youtube.com/watch?v=kr7ak3UELuU",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kr7ak3UELuU/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 5,
+    "included": true,
+    "reasons": [
+      "marque explicite"
+    ],
+    "sourceFile": "Patreon/20260311 - 🔴 Un BOOMER ZINZIN débat contre des JEUNES sur l'IA [kr7ak3UELuU].fr-orig.srt"
+  },
+  {
+    "id": "patreon-OQaGUv__6po-1143",
+    "videoId": "OQaGUv__6po",
+    "source": "patreon",
+    "title": "🔴 ALMA DUFOUR veut PLUS DE POLICE pour les Kebab 👮",
+    "publishedAt": "20260220",
+    "quote": "tiscan",
+    "context": "une police renforcée la gauche sécuritaire tiscan tiscan. On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec la gauche sécuritaire? C'est",
+    "topic": "On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec...",
+    "prediction": "On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec la gauche sécuritaire?",
+    "timestamp": "00:19:03,799",
+    "timestampLabel": "19:03",
+    "startSeconds": 1143,
+    "youtubeUrl": "https://www.youtube.com/watch?v=OQaGUv__6po&t=1143s",
+    "videoUrl": "https://www.youtube.com/watch?v=OQaGUv__6po",
+    "thumbnailUrl": "https://i.ytimg.com/vi/OQaGUv__6po/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 4,
+    "included": true,
+    "reasons": [
+      "marque explicite"
+    ],
+    "sourceFile": "Patreon/20260220 - 🔴 ALMA DUFOUR veut PLUS DE POLICE pour les Kebab 👮 [OQaGUv__6po].fr-orig.srt"
+  },
+  {
+    "id": "patreon-OQaGUv__6po-1146",
+    "videoId": "OQaGUv__6po",
+    "source": "patreon",
+    "title": "🔴 ALMA DUFOUR veut PLUS DE POLICE pour les Kebab 👮",
+    "publishedAt": "20260220",
+    "quote": "tiscan. On me l'a encore dit la semaine",
+    "context": "sécuritaire tiscan tiscan. On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec la gauche sécuritaire? C'est impossible. Je vous l'ai dit, pour",
+    "topic": "On me l'a encore dit la semaine dernière mais qu'est-ce que tu racontes avec...",
+    "prediction": "tiscan. On me l'a encore dit la semaine",
+    "timestamp": "00:19:06,080",
+    "timestampLabel": "19:06",
+    "startSeconds": 1146,
+    "youtubeUrl": "https://www.youtube.com/watch?v=OQaGUv__6po&t=1146s",
+    "videoUrl": "https://www.youtube.com/watch?v=OQaGUv__6po",
+    "thumbnailUrl": "https://i.ytimg.com/vi/OQaGUv__6po/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 4,
+    "included": true,
+    "reasons": [
+      "marque explicite"
+    ],
+    "sourceFile": "Patreon/20260220 - 🔴 ALMA DUFOUR veut PLUS DE POLICE pour les Kebab 👮 [OQaGUv__6po].fr-orig.srt"
+  },
+  {
+    "id": "patreon-7HdOQgi14OQ-2563",
+    "videoId": "7HdOQgi14OQ",
+    "source": "patreon",
+    "title": "🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？",
+    "publishedAt": "20260205",
+    "quote": "Bon. Ah, par contre le petit scan sur",
+    "context": "révolution avec et puis à côté de ça, ça achète du cheat et ça mange des kebabs. Bon. Ah, par contre le petit scan sur Papacito, le petit TD scan pour les plus anciens d'entre vous. Petit Teddy scan sur Papacito, je me suis bien fait",
+    "topic": "Papacito, le petit TD scan pour les plus anciens d'entre vous",
+    "prediction": "Bon. Ah, par contre le petit scan sur",
+    "timestamp": "00:42:43,119",
+    "timestampLabel": "42:43",
+    "startSeconds": 2563,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7HdOQgi14OQ&t=2563s",
+    "videoUrl": "https://www.youtube.com/watch?v=7HdOQgi14OQ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7HdOQgi14OQ/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 5,
+    "included": true,
+    "reasons": [
+      "mot-clé présent"
+    ],
+    "sourceFile": "Patreon/20260205 - 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？ [7HdOQgi14OQ].fr-orig.srt"
+  },
+  {
+    "id": "patreon-7HdOQgi14OQ-2564",
+    "videoId": "7HdOQgi14OQ",
+    "source": "patreon",
+    "title": "🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？",
+    "publishedAt": "20260205",
+    "quote": "Papacito, le petit TD scan pour les plus",
+    "context": "achète du cheat et ça mange des kebabs. Bon. Ah, par contre le petit scan sur Papacito, le petit TD scan pour les plus anciens d'entre vous. Petit Teddy scan sur Papacito, je me suis bien fait insulter sur celui-là. Je vous avais pas",
+    "topic": "Papacito, le petit TD scan pour les plus anciens d'entre vous",
+    "prediction": "Je vous avais pas",
+    "timestamp": "00:42:44,920",
+    "timestampLabel": "42:44",
+    "startSeconds": 2564,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7HdOQgi14OQ&t=2564s",
+    "videoUrl": "https://www.youtube.com/watch?v=7HdOQgi14OQ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7HdOQgi14OQ/hqdefault.jpg",
+    "confidence": "high",
+    "score": 9,
+    "included": true,
+    "reasons": [
+      "marque explicite",
+      "mot-clé présent"
+    ],
+    "sourceFile": "Patreon/20260205 - 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？ [7HdOQgi14OQ].fr-orig.srt"
+  },
+  {
+    "id": "patreon-7HdOQgi14OQ-2567",
+    "videoId": "7HdOQgi14OQ",
+    "source": "patreon",
+    "title": "🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？",
+    "publishedAt": "20260205",
+    "quote": "anciens d'entre vous. Petit Teddy scan",
+    "context": "Bon. Ah, par contre le petit scan sur Papacito, le petit TD scan pour les plus anciens d'entre vous. Petit Teddy scan sur Papacito, je me suis bien fait insulter sur celui-là. Je vous avais pas dit qu'il invviterait à voter un jour",
+    "topic": "Papacito, le petit TD scan pour les plus anciens d'entre vous",
+    "prediction": "Je vous avais pas dit qu'il invviterait à voter un jour",
+    "timestamp": "00:42:47,559",
+    "timestampLabel": "42:47",
+    "startSeconds": 2567,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7HdOQgi14OQ&t=2567s",
+    "videoUrl": "https://www.youtube.com/watch?v=7HdOQgi14OQ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7HdOQgi14OQ/hqdefault.jpg",
+    "confidence": "high",
+    "score": 9,
+    "included": true,
+    "reasons": [
+      "marque explicite",
+      "mot-clé présent"
+    ],
+    "sourceFile": "Patreon/20260205 - 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？ [7HdOQgi14OQ].fr-orig.srt"
+  },
+  {
+    "id": "patreon-7HdOQgi14OQ-4465",
+    "videoId": "7HdOQgi14OQ",
+    "source": "patreon",
+    "title": "🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？",
+    "publishedAt": "20260205",
+    "quote": "l'état. Moi, c'est mon Tiscan personnel.",
+    "context": "ressources et le moment où ils vont crever, ils vont juste donner 70 % à l'état. Moi, c'est mon Tiscan personnel. Euh et ça remboursera pas la dette puisqu'ils vont recréer de la dépense",
+    "topic": "ressources et le moment où ils vont crever, ils vont juste donner 70 %...",
+    "prediction": "ressources et le moment où ils vont crever, ils vont juste donner 70 % à l'état.",
+    "timestamp": "01:14:25,960",
+    "timestampLabel": "1:14:25",
+    "startSeconds": 4465,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7HdOQgi14OQ&t=4465s",
+    "videoUrl": "https://www.youtube.com/watch?v=7HdOQgi14OQ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7HdOQgi14OQ/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 5,
+    "included": true,
+    "reasons": [
+      "marque explicite"
+    ],
+    "sourceFile": "Patreon/20260205 - 🔴 DÉBATS ： Bardella doit-il céder sa place à Knafo ？ [7HdOQgi14OQ].fr-orig.srt"
+  },
+  {
     "id": "patreon-q6lCJUjlcQs-3855",
     "videoId": "q6lCJUjlcQs",
     "source": "patreon",
@@ -402,6 +744,30 @@ window.TEDDYSCAN_DATA = [
       "marque explicite"
     ],
     "sourceFile": "Patreon/20260119 - 🔴 MAIS QUI EST RAZ de la Zawa Prod ？! [4hREqoL-d0I].fr-orig.srt"
+  },
+  {
+    "id": "patreon-EpE5Nmfj7n0-4462",
+    "videoId": "EpE5Nmfj7n0",
+    "source": "patreon",
+    "title": "🔴 LES ANECDOTES de gauchistes sous SUBUTEX ： Qui est RAZ de la Zawa Prod ？",
+    "publishedAt": "20260119",
+    "quote": "c'est deuxè Tiscan.",
+    "context": "Monsieur et madame ou quoi ont deux fils. Comment s'appelle-t-il? Ah bah c'est deuxè Tiscan. Ah [ __ ] il y en a qui a trouvé. Trop fort George tu débile et l'autre c'est Teddy Eras ou quoi?",
+    "topic": "Trop fort George tu débile et l'autre c'est Teddy Eras ou quoi?",
+    "prediction": "Ah [ __ ] il y en a qui a trouvé.",
+    "timestamp": "01:14:22,000",
+    "timestampLabel": "1:14:22",
+    "startSeconds": 4462,
+    "youtubeUrl": "https://www.youtube.com/watch?v=EpE5Nmfj7n0&t=4462s",
+    "videoUrl": "https://www.youtube.com/watch?v=EpE5Nmfj7n0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/EpE5Nmfj7n0/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 4,
+    "included": true,
+    "reasons": [
+      "marque explicite"
+    ],
+    "sourceFile": "Patreon/20260119 - 🔴 LES ANECDOTES de gauchistes sous SUBUTEX ： Qui est RAZ de la Zawa Prod ？ [EpE5Nmfj7n0].fr-orig.srt"
   },
   {
     "id": "patreon-BOkxceq0Ex0-2411",
@@ -475,6 +841,30 @@ window.TEDDYSCAN_DATA = [
       "mot-clé présent"
     ],
     "sourceFile": "Patreon/20260112 - 🔴 Le bilan carbone des éco-consultants [nXxiKQzEzMU].fr-orig.srt"
+  },
+  {
+    "id": "patreon-qB8lNSEY2YI-932",
+    "videoId": "qB8lNSEY2YI",
+    "source": "patreon",
+    "title": "🔴 À 34 ans... Le streamer PONCE découvre le ＂POSITIONNEMENT POLITIQUE＂.",
+    "publishedAt": "20260107",
+    "quote": "juste tiscan",
+    "context": "il dit \"J'ai tellement hâte, je vous mets plus fort de 2027, moi je vous dis juste tiscan c'est il est l'expression du PNisme. Les les gros débiles mentaux en France aiment les élections parce qu'ils",
+    "topic": "Les les gros débiles mentaux en France aiment les élections parce qu'ils",
+    "prediction": "il dit \"J'ai tellement hâte, je vous mets plus fort de 2027, moi je vous dis juste tiscan c'est il est l'expression...",
+    "timestamp": "00:15:32,399",
+    "timestampLabel": "15:32",
+    "startSeconds": 932,
+    "youtubeUrl": "https://www.youtube.com/watch?v=qB8lNSEY2YI&t=932s",
+    "videoUrl": "https://www.youtube.com/watch?v=qB8lNSEY2YI",
+    "thumbnailUrl": "https://i.ytimg.com/vi/qB8lNSEY2YI/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 5,
+    "included": true,
+    "reasons": [
+      "marque explicite"
+    ],
+    "sourceFile": "Patreon/20260107 - 🔴 À 34 ans... Le streamer PONCE découvre le ＂POSITIONNEMENT POLITIQUE＂. [qB8lNSEY2YI].fr-orig.srt"
   },
   {
     "id": "patreon-Uw6mw5EBIuQ-391",
@@ -598,6 +988,55 @@ window.TEDDYSCAN_DATA = [
     "sourceFile": "Patreon/20251230 - 🔴 4500 net ： Le techno-gauchisme contre l'émancipation de la classe moyenne [P0zY9msTG7A].fr-orig.srt"
   },
   {
+    "id": "patreon-3fBp8m61nuM-4149",
+    "videoId": "3fBp8m61nuM",
+    "source": "patreon",
+    "title": "🔴 ON CLASH LES MANGAS Avant les fêtes 🎄",
+    "publishedAt": "20251222",
+    "quote": "c'est tout le temps ça. Oups. Tiscan.",
+    "context": "tu as tout bon. Qui s'appelle Nathalie? Juste sans le délire famille. Ouais mais c'est tout le temps ça. Oups. Tiscan. Ouais il lui manque une couille. OK. Bon bah s'il lui manque une couille, c'est bon",
+    "topic": "Bon bah s'il lui manque une couille, c'est bon",
+    "prediction": "c'est tout le temps ça. Oups. Tiscan.",
+    "timestamp": "01:09:09,000",
+    "timestampLabel": "1:09:09",
+    "startSeconds": 4149,
+    "youtubeUrl": "https://www.youtube.com/watch?v=3fBp8m61nuM&t=4149s",
+    "videoUrl": "https://www.youtube.com/watch?v=3fBp8m61nuM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/3fBp8m61nuM/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 4,
+    "included": true,
+    "reasons": [
+      "marque explicite"
+    ],
+    "sourceFile": "Patreon/20251222 - 🔴 ON CLASH LES MANGAS Avant les fêtes 🎄 [3fBp8m61nuM].fr-orig.srt"
+  },
+  {
+    "id": "patreon-haTX0CyYu-w-10520",
+    "videoId": "haTX0CyYu-w",
+    "source": "patreon",
+    "title": "🔴 LE COMPLOT DU COVID DES VACHES ： Idriss Abrekane & Pierre-Guillaume Mercadal ONT-ILS RAISON ？",
+    "publishedAt": "20251217",
+    "quote": "rétracter. J'avais fait un TD scan. Je",
+    "context": "de Mercadal. Je dis \"Ah, il l'a menacé. Tu m'étonnes que les mecs ils vont se rétracter. J'avais fait un TD scan. Je viens de m'en rappeler. Quand on a entendu ça, j'ai dit attention s'il a menacer la ministre de guerre, à chaque",
+    "topic": "Quand on a entendu ça, j'ai dit attention s'il a menacer la ministre de...",
+    "prediction": "Tu m'étonnes que les mecs ils vont se rétracter.",
+    "timestamp": "02:55:20,040",
+    "timestampLabel": "2:55:20",
+    "startSeconds": 10520,
+    "youtubeUrl": "https://www.youtube.com/watch?v=haTX0CyYu-w&t=10520s",
+    "videoUrl": "https://www.youtube.com/watch?v=haTX0CyYu-w",
+    "thumbnailUrl": "https://i.ytimg.com/vi/haTX0CyYu-w/hqdefault.jpg",
+    "confidence": "high",
+    "score": 8,
+    "included": true,
+    "reasons": [
+      "marque explicite",
+      "mot-clé présent"
+    ],
+    "sourceFile": "Patreon/20251217 - 🔴 LE COMPLOT DU COVID DES VACHES ： Idriss Abrekane & Pierre-Guillaume Mercadal ONT-ILS RAISON ？ [haTX0CyYu-w].fr-orig.srt"
+  },
+  {
     "id": "patreon-zYF8rbBMarg-1595",
     "videoId": "zYF8rbBMarg",
     "source": "patreon",
@@ -620,6 +1059,55 @@ window.TEDDYSCAN_DATA = [
       "marque explicite"
     ],
     "sourceFile": "Patreon/20251216 - 🔴 LES SOUVERAINISTES veulent sauver TOUTES LES VACHES de France ! [zYF8rbBMarg].fr-orig.srt"
+  },
+  {
+    "id": "patreon-4IudQ6CpQSg-267",
+    "videoId": "4IudQ6CpQSg",
+    "source": "patreon",
+    "title": "🔴 PATRIMOINE & FROMAGE ： La nouvelle ligne politique de Pierre-Yves Rougeyron",
+    "publishedAt": "20251128",
+    "quote": "TD scan. Je dis c'est typiquement le",
+    "context": "Et c'est de bout en bout en fait. Au début, je le capte le mec et je fais un TD scan. Je dis c'est typiquement le genre de mec à dire ça. Je dis et en fait il a fait pire. Donc ça c'est gratos. Enfin c'est gratos c'est payant",
+    "topic": "Je dis c'est typiquement le genre de mec à dire ça.",
+    "prediction": "TD scan. Je dis c'est typiquement le",
+    "timestamp": "00:04:27,120",
+    "timestampLabel": "04:27",
+    "startSeconds": 267,
+    "youtubeUrl": "https://www.youtube.com/watch?v=4IudQ6CpQSg&t=267s",
+    "videoUrl": "https://www.youtube.com/watch?v=4IudQ6CpQSg",
+    "thumbnailUrl": "https://i.ytimg.com/vi/4IudQ6CpQSg/hqdefault.jpg",
+    "confidence": "high",
+    "score": 6,
+    "included": true,
+    "reasons": [
+      "marque explicite",
+      "mot-clé présent"
+    ],
+    "sourceFile": "Patreon/20251128 - 🔴 PATRIMOINE & FROMAGE ： La nouvelle ligne politique de Pierre-Yves Rougeyron [4IudQ6CpQSg].fr-orig.srt"
+  },
+  {
+    "id": "patreon-4IudQ6CpQSg-3239",
+    "videoId": "4IudQ6CpQSg",
+    "source": "patreon",
+    "title": "🔴 PATRIMOINE & FROMAGE ： La nouvelle ligne politique de Pierre-Yves Rougeyron",
+    "publishedAt": "20251128",
+    "quote": "scan [ __ ] Oh [ __ ] ils le font.",
+    "context": "banquets. Ah bah voilà le banquet. Oh [ __ ] td scan [ __ ] Oh [ __ ] ils le font. C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique. C'est vraiment ça. Cospl ber c'est vraiment ça",
+    "topic": "C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique.",
+    "prediction": "C'est vraiment ça, [ __ ] C'est vraiment ça la ligne politique.",
+    "timestamp": "00:53:59,960",
+    "timestampLabel": "53:59",
+    "startSeconds": 3239,
+    "youtubeUrl": "https://www.youtube.com/watch?v=4IudQ6CpQSg&t=3239s",
+    "videoUrl": "https://www.youtube.com/watch?v=4IudQ6CpQSg",
+    "thumbnailUrl": "https://i.ytimg.com/vi/4IudQ6CpQSg/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 3,
+    "included": true,
+    "reasons": [
+      "mot-clé présent"
+    ],
+    "sourceFile": "Patreon/20251128 - 🔴 PATRIMOINE & FROMAGE ： La nouvelle ligne politique de Pierre-Yves Rougeyron [4IudQ6CpQSg].fr-orig.srt"
   },
   {
     "id": "patreon-PEhivdf5Aaw-7294",
@@ -646,6 +1134,30 @@ window.TEDDYSCAN_DATA = [
     "sourceFile": "Patreon/20251124 - 🔴 LE FILS DE OSS 117 en AFRIQUE [PEhivdf5Aaw].fr-orig.srt"
   },
   {
+    "id": "patreon-i-vZR6k8jeQ-11745",
+    "videoId": "i-vZR6k8jeQ",
+    "source": "patreon",
+    "title": "🔴 SHEIN ： La poupée sexu＊lle qui pose la question de la souveraineté",
+    "publishedAt": "20251105",
+    "quote": "ça, c'est pas du tout un Tiscan. Là, je",
+    "context": "général du groupe. Ah bah non, mais en fait, il est hyper important. J'ai dit ça, c'est pas du tout un Tiscan. Là, je me suis gouré. C'est le directeur général de BHV. Il est étrange.",
+    "topic": "Ah bah non, mais en fait, il est hyper important.",
+    "prediction": "ça, c'est pas du tout un Tiscan. Là, je",
+    "timestamp": "03:15:45,000",
+    "timestampLabel": "3:15:45",
+    "startSeconds": 11745,
+    "youtubeUrl": "https://www.youtube.com/watch?v=i-vZR6k8jeQ&t=11745s",
+    "videoUrl": "https://www.youtube.com/watch?v=i-vZR6k8jeQ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/i-vZR6k8jeQ/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 4,
+    "included": true,
+    "reasons": [
+      "marque explicite"
+    ],
+    "sourceFile": "Patreon/20251105 - 🔴 SHEIN ： La poupée sexu＊lle qui pose la question de la souveraineté [i-vZR6k8jeQ].fr-orig.srt"
+  },
+  {
     "id": "patreon-NDkdK5VSyxE-5267",
     "videoId": "NDkdK5VSyxE",
     "source": "patreon",
@@ -669,6 +1181,30 @@ window.TEDDYSCAN_DATA = [
       "mot-clé présent"
     ],
     "sourceFile": "Patreon/20251031 - 🔴 FAITES DES BÉBÉS ： Oui mais pourquoi faire ？ [NDkdK5VSyxE].fr-orig.srt"
+  },
+  {
+    "id": "patreon-79LBGulGlgk-4295",
+    "videoId": "79LBGulGlgk",
+    "source": "patreon",
+    "title": "🔴 Les bijoux de la couronne ： Pierre-Jean CHALENÇON est-il le COMMANDITAIRE ？",
+    "publishedAt": "20251027",
+    "quote": "je sais pas si c'est un tiscan.",
+    "context": "c'est ça. C'est Non mais servez-vous c'est ça je sais pas si c'est un tiscan. Mais il y a une histoire là-dedans. Ouais. Les amis, les collectionneurs, c'est une",
+    "topic": "Les amis, les collectionneurs, c'est une",
+    "prediction": "Mais il y a une histoire là-dedans.",
+    "timestamp": "01:11:35,560",
+    "timestampLabel": "1:11:35",
+    "startSeconds": 4295,
+    "youtubeUrl": "https://www.youtube.com/watch?v=79LBGulGlgk&t=4295s",
+    "videoUrl": "https://www.youtube.com/watch?v=79LBGulGlgk",
+    "thumbnailUrl": "https://i.ytimg.com/vi/79LBGulGlgk/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 4,
+    "included": true,
+    "reasons": [
+      "marque explicite"
+    ],
+    "sourceFile": "Patreon/20251027 - 🔴 Les bijoux de la couronne ： Pierre-Jean CHALENÇON est-il le COMMANDITAIRE ？ [79LBGulGlgk].fr-orig.srt"
   },
   {
     "id": "patreon-pVnQBjGXX4o-2257",
@@ -967,6 +1503,55 @@ window.TEDDYSCAN_DATA = [
       "mot-clé présent"
     ],
     "sourceFile": "Patreon/20250919 - Que deviennent nos gauchistes ？ [L5dX2EG9l3w].fr-orig.srt"
+  },
+  {
+    "id": "patreon-9gft2XP6kM4-954",
+    "videoId": "9gft2XP6kM4",
+    "source": "patreon",
+    "title": "RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels",
+    "publishedAt": "20250917",
+    "quote": "j'ai Ouais le tiscan et j'ai trouvé ça",
+    "context": "effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais le tiscan et j'ai trouvé ça vraiment passionnant quo même au sujet des des thématiques parce que c'est vrai que Pierre Riv Rougéron et Begodo malgré",
+    "topic": "effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais et j'ai...",
+    "prediction": "effectivement il avait plus le droit de parler trouvé vraiment j'ai Ouais le tiscan et j'ai trouvé ça vraiment passionnant quo même...",
+    "timestamp": "00:15:54,560",
+    "timestampLabel": "15:54",
+    "startSeconds": 954,
+    "youtubeUrl": "https://www.youtube.com/watch?v=9gft2XP6kM4&t=954s",
+    "videoUrl": "https://www.youtube.com/watch?v=9gft2XP6kM4",
+    "thumbnailUrl": "https://i.ytimg.com/vi/9gft2XP6kM4/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 4,
+    "included": true,
+    "reasons": [
+      "marque explicite"
+    ],
+    "sourceFile": "Patreon/20250917 - RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels [9gft2XP6kM4].fr-orig.srt"
+  },
+  {
+    "id": "patreon-9gft2XP6kM4-2458",
+    "videoId": "9gft2XP6kM4",
+    "source": "patreon",
+    "title": "RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels",
+    "publishedAt": "20250917",
+    "quote": "j'aurais pu faire un té scan. Je suis",
+    "context": "conclure par il faut cultiver son cynisme. C'est terrible. [ __ ] j'aurais pu faire un té scan. Je suis vraiment trop con quoi. Vas-y, vas-y, continue. OK, mais je suis en pleine dent.",
+    "topic": "conclure par il faut cultiver son cynisme.",
+    "prediction": "Vas-y, vas-y, continue.",
+    "timestamp": "00:40:58,960",
+    "timestampLabel": "40:58",
+    "startSeconds": 2458,
+    "youtubeUrl": "https://www.youtube.com/watch?v=9gft2XP6kM4&t=2458s",
+    "videoUrl": "https://www.youtube.com/watch?v=9gft2XP6kM4",
+    "thumbnailUrl": "https://i.ytimg.com/vi/9gft2XP6kM4/hqdefault.jpg",
+    "confidence": "high",
+    "score": 6,
+    "included": true,
+    "reasons": [
+      "marque explicite",
+      "mot-clé présent"
+    ],
+    "sourceFile": "Patreon/20250917 - RADIO LIBRE ｜ La politique ： Pouvoir temporel & avis spirituels [9gft2XP6kM4].fr-orig.srt"
   },
   {
     "id": "patreon-ykkjgo7rPjY-6136",
@@ -1527,6 +2112,31 @@ window.TEDDYSCAN_DATA = [
       "marque explicite"
     ],
     "sourceFile": "Patreon/20250609 - Un petit lundi avec vous [-N4kVueHhB0].fr-orig.srt"
+  },
+  {
+    "id": "patreon-A3e8YCHZbJk-453",
+    "videoId": "A3e8YCHZbJk",
+    "source": "patreon",
+    "title": "🎙️ RADIO LIBRE 3 🎙️ - TRUMP va-t-il TRAHIR tous ses électeurs ？",
+    "publishedAt": "20250606",
+    "quote": "saurez à mon avis hein Teddy Scan, bon,",
+    "context": "fait. Là, c'est vraiment pour moi prioritaire et vous saurez à mon avis hein Teddy Scan, bon, je préfère le dire au début en août, s'il se passe que je crois qu'il va se passer, le live",
+    "topic": "Là, c'est vraiment pour moi prioritaire et vous saurez à mon avis heinbon, je...",
+    "prediction": "Là, c'est vraiment pour moi prioritaire et vous saurez à mon avis hein Teddy Scan, bon, je préfère le dire au début...",
+    "timestamp": "00:07:33,599",
+    "timestampLabel": "07:33",
+    "startSeconds": 453,
+    "youtubeUrl": "https://www.youtube.com/watch?v=A3e8YCHZbJk&t=453s",
+    "videoUrl": "https://www.youtube.com/watch?v=A3e8YCHZbJk",
+    "thumbnailUrl": "https://i.ytimg.com/vi/A3e8YCHZbJk/hqdefault.jpg",
+    "confidence": "high",
+    "score": 7,
+    "included": true,
+    "reasons": [
+      "marque explicite",
+      "mot-clé présent"
+    ],
+    "sourceFile": "Patreon/20250606 - 🎙️ RADIO LIBRE 3 🎙️ - TRUMP va-t-il TRAHIR tous ses électeurs ？ [A3e8YCHZbJk].fr-orig.srt"
   },
   {
     "id": "patreon-E4dcL5q48pM-1117",
@@ -2286,6 +2896,105 @@ window.TEDDYSCAN_DATA = [
       "mot-clé présent"
     ],
     "sourceFile": "Patreon/20250218 - Les Français ne parlent que de ça ... Mais nous allons parler d'autre chose ! [5h8THMZzRk4].fr-orig.srt"
+  },
+  {
+    "id": "public-wZIZCU5GW58-2302",
+    "videoId": "wZIZCU5GW58",
+    "source": "public",
+    "title": "🔴 MILLIONNAIRES sur Youtube ： Le secret d'Amixem & Hugo Décrypte",
+    "publishedAt": "20260512",
+    "quote": "[ __ ] et le TD scan de début de live,",
+    "context": "Alors moi je suis pas du tout frustré de pas être connu. [ __ ] et le TD scan de début de live, il est comment? Le TD scan il est comme ça? La question de pas être connu, des entrepreneurs connus et pas connus, il",
+    "topic": "La question de pas être connu, des entrepreneurs connus et pas connus, il",
+    "prediction": "Le TD scan il est comme ça?",
+    "timestamp": "00:38:22,839",
+    "timestampLabel": "38:22",
+    "startSeconds": 2302,
+    "youtubeUrl": "https://www.youtube.com/watch?v=wZIZCU5GW58&t=2302s",
+    "videoUrl": "https://www.youtube.com/watch?v=wZIZCU5GW58",
+    "thumbnailUrl": "https://i.ytimg.com/vi/wZIZCU5GW58/hqdefault.jpg",
+    "confidence": "high",
+    "score": 7,
+    "included": true,
+    "reasons": [
+      "marque explicite",
+      "mot-clé présent"
+    ],
+    "sourceFile": "Public/20260512 - 🔴 MILLIONNAIRES sur Youtube ： Le secret d'Amixem & Hugo Décrypte [wZIZCU5GW58].fr-orig.srt"
+  },
+  {
+    "id": "public-wZIZCU5GW58-2305",
+    "videoId": "wZIZCU5GW58",
+    "source": "public",
+    "title": "🔴 MILLIONNAIRES sur Youtube ： Le secret d'Amixem & Hugo Décrypte",
+    "publishedAt": "20260512",
+    "quote": "il est comment? Le TD scan il est comme",
+    "context": "pas être connu. [ __ ] et le TD scan de début de live, il est comment? Le TD scan il est comme ça? La question de pas être connu, des entrepreneurs connus et pas connus, il est comme ça le Tiscan ou il est comme",
+    "topic": "pas être connu.",
+    "prediction": "il est comment? Le TD scan il est comme",
+    "timestamp": "00:38:25,000",
+    "timestampLabel": "38:25",
+    "startSeconds": 2305,
+    "youtubeUrl": "https://www.youtube.com/watch?v=wZIZCU5GW58&t=2305s",
+    "videoUrl": "https://www.youtube.com/watch?v=wZIZCU5GW58",
+    "thumbnailUrl": "https://i.ytimg.com/vi/wZIZCU5GW58/hqdefault.jpg",
+    "confidence": "high",
+    "score": 7,
+    "included": true,
+    "reasons": [
+      "marque explicite",
+      "mot-clé présent"
+    ],
+    "sourceFile": "Public/20260512 - 🔴 MILLIONNAIRES sur Youtube ： Le secret d'Amixem & Hugo Décrypte [wZIZCU5GW58].fr-orig.srt"
+  },
+  {
+    "id": "public-wZIZCU5GW58-2313",
+    "videoId": "wZIZCU5GW58",
+    "source": "public",
+    "title": "🔴 MILLIONNAIRES sur Youtube ： Le secret d'Amixem & Hugo Décrypte",
+    "publishedAt": "20260512",
+    "quote": "est comme ça le Tiscan ou il est comme",
+    "context": "ça? La question de pas être connu, des entrepreneurs connus et pas connus, il est comme ça le Tiscan ou il est comme ça? Et ça me pose aucun problème. Au contraire, je vais encore faire les",
+    "topic": "Au contraire, je vais encore faire les",
+    "prediction": "Au contraire, je vais encore faire les",
+    "timestamp": "00:38:33,359",
+    "timestampLabel": "38:33",
+    "startSeconds": 2313,
+    "youtubeUrl": "https://www.youtube.com/watch?v=wZIZCU5GW58&t=2313s",
+    "videoUrl": "https://www.youtube.com/watch?v=wZIZCU5GW58",
+    "thumbnailUrl": "https://i.ytimg.com/vi/wZIZCU5GW58/hqdefault.jpg",
+    "confidence": "medium",
+    "score": 4,
+    "included": true,
+    "reasons": [
+      "marque explicite"
+    ],
+    "sourceFile": "Public/20260512 - 🔴 MILLIONNAIRES sur Youtube ： Le secret d'Amixem & Hugo Décrypte [wZIZCU5GW58].fr-orig.srt"
+  },
+  {
+    "id": "public-UW_5K51IWjM-3209",
+    "videoId": "UW_5K51IWjM",
+    "source": "public",
+    "title": "🔴 LA PROPAGANDE commence pour 2027",
+    "publishedAt": "20260505",
+    "quote": "Teddy Scan,",
+    "context": "l'insécurité qui a subie par les habitants. Oh Teddy Scan, mais Teddy, tu es complètement con. Il se fout de notre gueule Teddy avec ces histoires de potes arabes qui vont",
+    "topic": "Il se fout de notre gueule Teddy avec ces histoires de potes arabes qui...",
+    "prediction": "Il se fout de notre gueule Teddy avec ces histoires de potes arabes qui vont",
+    "timestamp": "00:53:29,040",
+    "timestampLabel": "53:29",
+    "startSeconds": 3209,
+    "youtubeUrl": "https://www.youtube.com/watch?v=UW_5K51IWjM&t=3209s",
+    "videoUrl": "https://www.youtube.com/watch?v=UW_5K51IWjM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UW_5K51IWjM/hqdefault.jpg",
+    "confidence": "high",
+    "score": 7,
+    "included": true,
+    "reasons": [
+      "marque explicite",
+      "mot-clé présent"
+    ],
+    "sourceFile": "Public/20260505 - 🔴 LA PROPAGANDE commence pour 2027 [UW_5K51IWjM].fr-orig.srt"
   },
   {
     "id": "public-quG4bGhFGm8-660",
